@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "《经济学通识》",
+      "path": "07-阅读/《经济学通识》.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
       "basename": "home",
       "path": "88-Template/home.md"
     },
@@ -185,20 +193,12 @@
       "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
     },
     {
-      "basename": "《经济学通识》",
-      "path": "07-阅读/《经济学通识》.md"
-    },
-    {
       "basename": "Docker入门",
       "path": "04-技术/Docker/Docker入门.md"
     },
     {
       "basename": "Docker命令解读",
       "path": "04-技术/Docker/Docker命令解读.md"
-    },
-    {
-      "basename": "Docker常见命令",
-      "path": "04-技术/Docker/Docker常见命令.md"
     }
   ],
   "omittedPaths": [],
