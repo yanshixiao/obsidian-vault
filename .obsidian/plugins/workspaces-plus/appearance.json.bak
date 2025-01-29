@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "【日记】periodic日历",
+    "【Memos】Popover",
+    "custom-admonitions.17fd62"
+  ],
+  "translucency": false,
+  "monospaceFontFamily": "Consolas",
+  "accentColor": ""
+}

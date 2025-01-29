@@ -1,0 +1,4 @@
+- 在要被合并的分支上创建.gitattributes文件
+- 文件中每一行标识一个文件==文件名(相对于项目根的路径)== merge=ours
+- 例如忽略config.xml文件：`config.xml merge=ours`
+- 如果设置没有生效，在根目录下运行命令`git config merge.ours.driver true`进行config配置

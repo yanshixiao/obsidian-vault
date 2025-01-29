@@ -1,0 +1,20 @@
+{
+  "communityPluginSortOrder": "download",
+  "defaultViewMode": "preview",
+  "showFrontmatter": false,
+  "communityThemeSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "99-Attachment",
+  "userIgnoreFilters": [
+    "88-Template/"
+  ],
+  "trashOption": "local",
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "promptDelete": false,
+  "livePreview": false,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true,
+  "showRibbon": true
+}

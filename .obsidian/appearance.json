@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "【日记】periodic日历",
+    "【Memos】Popover",
+    "custom-admonitions.17fd62",
+    "custom-outline",
+    "custom-head"
+  ],
+  "translucency": false,
+  "monospaceFontFamily": "Consolas",
+  "accentColor": "",
+  "baseFontSize": 15,
+  "theme": "obsidian"
+}

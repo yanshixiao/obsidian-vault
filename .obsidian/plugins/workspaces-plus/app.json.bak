@@ -1,0 +1,18 @@
+{
+  "communityPluginSortOrder": "download",
+  "defaultViewMode": "preview",
+  "showFrontmatter": false,
+  "communityThemeSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "99-Attachment",
+  "userIgnoreFilters": [
+    "88-Template/"
+  ],
+  "trashOption": "local",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "recentFiles": [
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "虚拟机为什么使用元空间替换了永久代？",
+      "path": "面试/虚拟机为什么使用元空间替换了永久代？.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "对象一定分配在堆中吗？有没有了解逃逸分析技术？",
+      "path": "面试/对象一定分配在堆中吗？有没有了解逃逸分析技术？.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "JVM性能调优参数",
+      "path": "面试/JVM性能调优参数.md"
+    },
+    {
+      "basename": "Minor GC与Full GC分别在什么时候发生",
+      "path": "面试/Minor GC与Full GC分别在什么时候发生.md"
+    },
+    {
+      "basename": "常见调优工具",
+      "path": "面试/常见调优工具.md"
+    },
+    {
+      "basename": "调优命令",
+      "path": "面试/调优命令.md"
+    },
+    {
+      "basename": "垃圾收集算法",
+      "path": "面试/垃圾收集算法.md"
+    },
+    {
+      "basename": "JVM的永久代中会发生垃圾回收么",
+      "path": "面试/JVM的永久代中会发生垃圾回收么.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "88-Template/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "Java的对象结构",
+      "path": "面试/Java的对象结构.md"
+    },
+    {
+      "basename": "button",
+      "path": "88-Template/button.md"
+    },
+    {
+      "basename": "类的生命周期",
+      "path": "面试/类的生命周期.md"
+    },
+    {
+      "basename": "JVM加载class文件的原理机制",
+      "path": "面试/JVM加载class文件的原理机制.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "对象分配规则",
+      "path": "面试/对象分配规则.md"
+    },
+    {
+      "basename": "JVM内存模型",
+      "path": "面试/JVM内存模型.md"
+    },
+    {
+      "basename": "什么时候会触发FullGC",
+      "path": "面试/什么时候会触发FullGC.md"
+    },
+    {
+      "basename": "堆和栈的区别",
+      "path": "面试/堆和栈的区别.md"
+    },
+    {
+      "basename": "类的加载与卸载",
+      "path": "面试/类的加载与卸载.md"
+    },
+    {
+      "basename": "回收算法",
+      "path": "面试/回收算法.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "88-Template/tp/tp-自动选择模板.md"
+    },
+    {
+      "basename": "T-default-header",
+      "path": "88-Template/mine/T-default-header.md"
+    },
+    {
+      "basename": "T-diary",
+      "path": "88-Template/mine/T-diary.md"
+    },
+    {
+      "basename": "T-example",
+      "path": "88-Template/mine/T-example.md"
+    },
+    {
+      "basename": "T-mermaid",
+      "path": "88-Template/mine/T-mermaid.md"
+    },
+    {
+      "basename": "2024-12-23",
+      "path": "20-Diary/2024-12-23.md"
+    },
+    {
+      "basename": "分代回收",
+      "path": "面试/分代回收.md"
+    },
+    {
+      "basename": "加载机制",
+      "path": "面试/加载机制.md"
+    },
+    {
+      "basename": "加载过程",
+      "path": "面试/加载过程.md"
+    },
+    {
+      "basename": "什么是fail-fast",
+      "path": "面试/什么是fail-fast.md"
+    },
+    {
+      "basename": "垃圾回收",
+      "path": "04-技术/JVM/垃圾回收.md"
+    },
+    {
+      "basename": "什么是JVM？",
+      "path": "04-技术/JVM/什么是JVM？.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "04-技术/JVM/JVM.md"
+    },
+    {
+      "basename": "JVM内存结构",
+      "path": "04-技术/JVM/JVM内存结构.md"
+    },
+    {
+      "basename": "深拷贝和浅拷贝",
+      "path": "面试/深拷贝和浅拷贝.md"
+    },
+    {
+      "basename": "HashMap和ConcurrentHashMap的异同",
+      "path": "面试/HashMap和ConcurrentHashMap的异同.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "面试/红黑树.md"
+    },
+    {
+      "basename": "HashMap的长度为什么是2的N次方",
+      "path": "面试/HashMap的长度为什么是2的N次方.md"
+    },
+    {
+      "basename": "HashTable和HashMap的区别",
+      "path": "面试/HashTable和HashMap的区别.md"
+    },
+    {
+      "basename": "ArrayList的特点",
+      "path": "面试/ArrayList的特点.md"
+    },
+    {
+      "basename": "ArrayList和LinkedList区别",
+      "path": "面试/ArrayList和LinkedList区别.md"
+    },
+    {
+      "basename": "Java创建对象有几种方式",
+      "path": "面试/Java创建对象有几种方式.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "《经济学通识》",
+      "path": "07-阅读/《经济学通识》.md"
+    },
+    {
+      "basename": "Docker入门",
+      "path": "04-技术/Docker/Docker入门.md"
+    },
+    {
+      "basename": "Docker命令解读",
+      "path": "04-技术/Docker/Docker命令解读.md"
+    },
+    {
+      "basename": "Docker常见命令",
+      "path": "04-技术/Docker/Docker常见命令.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}

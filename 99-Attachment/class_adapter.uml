@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.yanshixiao.pattern.adapter.classAdapter.Source</OriginalElement>
+  <nodes>
+    <node x="149.0" y="0.0">com.yanshixiao.pattern.adapter.classAdapter.Source</node>
+    <node x="5.0" y="165.0">com.yanshixiao.pattern.adapter.classAdapter.ClassAdapterMain</node>
+    <node x="53.0" y="80.0">com.yanshixiao.pattern.adapter.classAdapter.SourceAdapter</node>
+    <node x="0.0" y="0.0">com.yanshixiao.pattern.adapter.classAdapter.Targetable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.yanshixiao.pattern.adapter.classAdapter.SourceAdapter" target="com.yanshixiao.pattern.adapter.classAdapter.Source" relationship="GENERALIZATION">
+      <point x="39.5" y="-15.0" />
+      <point x="171.5" y="55.0" />
+      <point x="199.5" y="55.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.yanshixiao.pattern.adapter.classAdapter.SourceAdapter" target="com.yanshixiao.pattern.adapter.classAdapter.Targetable" relationship="REALIZATION">
+      <point x="-39.5" y="-15.0" />
+      <point x="92.5" y="55.0" />
+      <point x="64.5" y="55.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="125.0" y="92.5" />
+  <SelectedNodes>
+    <node>com.yanshixiao.pattern.adapter.classAdapter.ClassAdapterMain</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
