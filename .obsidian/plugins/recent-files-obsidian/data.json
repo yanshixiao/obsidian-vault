@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "HashMap和ConcurrentHashMap的异同",
+      "path": "面试/HashMap和ConcurrentHashMap的异同.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "面试/红黑树.md"
+    },
+    {
+      "basename": "什么是fail-fast",
+      "path": "面试/什么是fail-fast.md"
     },
     {
       "basename": "《经济学通识》",
@@ -13,20 +33,12 @@
       "path": "从这开始.md"
     },
     {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
       "basename": "虚拟机为什么使用元空间替换了永久代？",
       "path": "面试/虚拟机为什么使用元空间替换了永久代？.md"
     },
     {
       "basename": "对象一定分配在堆中吗？有没有了解逃逸分析技术？",
       "path": "面试/对象一定分配在堆中吗？有没有了解逃逸分析技术？.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "20-Diary/任务看板.md"
     },
     {
       "basename": "JVM性能调优参数",
@@ -137,10 +149,6 @@
       "path": "面试/加载过程.md"
     },
     {
-      "basename": "什么是fail-fast",
-      "path": "面试/什么是fail-fast.md"
-    },
-    {
       "basename": "垃圾回收",
       "path": "04-技术/JVM/垃圾回收.md"
     },
@@ -159,14 +167,6 @@
     {
       "basename": "深拷贝和浅拷贝",
       "path": "面试/深拷贝和浅拷贝.md"
-    },
-    {
-      "basename": "HashMap和ConcurrentHashMap的异同",
-      "path": "面试/HashMap和ConcurrentHashMap的异同.md"
-    },
-    {
-      "basename": "红黑树",
-      "path": "面试/红黑树.md"
     },
     {
       "basename": "HashMap的长度为什么是2的N次方",
