@@ -15,6 +15,5 @@
   "promptDelete": false,
   "livePreview": false,
   "propertiesInDocument": "visible",
-  "showInlineTitle": true,
-  "showRibbon": true
+  "showInlineTitle": true
 }

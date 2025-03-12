@@ -11,5 +11,6 @@
   "monospaceFontFamily": "Consolas",
   "accentColor": "",
   "baseFontSize": 15,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
