@@ -645,6 +645,7 @@ sn
 sbC
 sd
 sw
+swallow
 cssclass
 created
 configuration
@@ -2656,6 +2657,7 @@ neaK
 ntX
 nw
 nrF
+notify
 YYYY
 YYYYMMDDHHmm
 YYYYMMDDHHmmss
@@ -3023,6 +3025,8 @@ ieiy
 iF
 ix
 ib
+interrupt
+interrupts
 kanban
 kanbanwp
 keys
@@ -4042,6 +4046,7 @@ WX
 WMx
 WKn
 Word
+Wakeup
 want
 with
 windows
@@ -4785,6 +4790,7 @@ Sy
 SB
 SoT
 Serial
+Spurious
 homewp
 html
 help
