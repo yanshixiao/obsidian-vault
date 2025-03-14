@@ -646,6 +646,7 @@ sbC
 sd
 sw
 swallow
+sleep
 cssclass
 created
 configuration
@@ -2659,6 +2660,7 @@ ntX
 nw
 nrF
 notify
+notifyAll
 YYYY
 YYYYMMDDHHmm
 YYYYMMDDHHmmss
@@ -4222,6 +4224,7 @@ wb
 wiUg
 wab
 wvvvuu
+wait
 use
 uid
 user
@@ -5214,6 +5217,7 @@ ED
 EX
 Eb
 EQB
+ExecutorService
 ColorPicker
 Ctags
 CommandPalette
@@ -6451,6 +6455,7 @@ Iv
 IF
 IH
 IJ
+IllegalMonitorStateException
 Git
 GitGutter
 Gtrl

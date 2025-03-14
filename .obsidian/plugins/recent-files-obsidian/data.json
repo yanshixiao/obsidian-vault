@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
+      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "synchronized和ReentrantLock的区别",
+      "path": "面试/synchronized和ReentrantLock的区别.md"
+    },
+    {
+      "basename": "interrupt",
+      "path": "面试/interrupt.md"
+    },
+    {
+      "basename": "如何停止一个正在运行的线程",
+      "path": "面试/如何停止一个正在运行的线程.md"
+    },
+    {
+      "basename": "为什么notify和wait方法要在同步块中调用",
+      "path": "面试/为什么notify和wait方法要在同步块中调用.md"
+    },
+    {
+      "basename": "Thread的interrupted()和isInterrupted()的区别",
+      "path": "面试/Thread的interrupted()和isInterrupted()的区别.md"
+    },
+    {
+      "basename": "为什么wait, notify 和 notifyAll这些方法不在thread类里面？",
+      "path": "面试/为什么wait, notify 和 notifyAll这些方法不在thread类里面？.md"
+    },
+    {
+      "basename": "Thread中start方法和run方法区别",
+      "path": "面试/Thread中start方法和run方法区别.md"
+    },
+    {
       "basename": "单例模式为啥要判断两次空",
       "path": "面试/单例模式为啥要判断两次空.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "volatile的有序性保证规则",
       "path": "面试/volatile的有序性保证规则.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "sleep()和wait()有什么区别",
@@ -35,14 +67,6 @@
     {
       "basename": "生产消费模型中竞争到锁之后判断状态用if和while的区别",
       "path": "面试/生产消费模型中竞争到锁之后判断状态用if和while的区别.md"
-    },
-    {
-      "basename": "interrupt",
-      "path": "面试/interrupt.md"
-    },
-    {
-      "basename": "如何停止一个正在运行的线程",
-      "path": "面试/如何停止一个正在运行的线程.md"
     },
     {
       "basename": "Java中实现多线程有几种方法",
@@ -175,30 +199,6 @@
     {
       "basename": "HandlePromotionFailure",
       "path": "面试/HandlePromotionFailure.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
-    },
-    {
-      "basename": "堆和栈的区别",
-      "path": "面试/堆和栈的区别.md"
-    },
-    {
-      "basename": "JVM内存模型",
-      "path": "面试/JVM内存模型.md"
-    },
-    {
-      "basename": "HashMap和ConcurrentHashMap的异同",
-      "path": "面试/HashMap和ConcurrentHashMap的异同.md"
-    },
-    {
-      "basename": "CAS",
-      "path": "面试/CAS.md"
     }
   ],
   "omittedPaths": [],
