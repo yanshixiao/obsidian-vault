@@ -1778,6 +1778,7 @@ DVZ
 Dv
 DYg
 DH
+DCL
 xml
 xc
 xe
@@ -3494,6 +3495,7 @@ LqlV
 LHZ
 LU
 Lh
+Load
 renwu
 rename
 richeng
@@ -4619,6 +4621,7 @@ BO
 BPI
 BK
 Bh
+Barrier
 Solid
 Sublime
 SublimeREPL
@@ -4791,6 +4794,7 @@ SB
 SoT
 Serial
 Spurious
+Store
 homewp
 html
 help

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "单例模式为啥要判断两次空",
+      "path": "面试/单例模式为啥要判断两次空.md"
+    },
+    {
+      "basename": "volatile是什么？可以保证有序性吗？",
+      "path": "面试/volatile是什么？可以保证有序性吗？.md"
+    },
+    {
+      "basename": "volatile的有序性保证规则",
+      "path": "面试/volatile的有序性保证规则.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "sleep()和wait()有什么区别",
+      "path": "面试/sleep()和wait()有什么区别.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
     },
     {
       "basename": "使用notify的风险之死锁触发流程",
@@ -161,10 +181,6 @@
       "path": "README.md"
     },
     {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
       "basename": "从这开始",
       "path": "从这开始.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "CAS",
       "path": "面试/CAS.md"
-    },
-    {
-      "basename": "2025-03-11",
-      "path": "20-Diary/2025-03-11.md"
-    },
-    {
-      "basename": "Drawing 2025-03-11 23.22.29.excalidraw",
-      "path": "Excalidraw/Drawing 2025-03-11 23.22.29.excalidraw.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "20-Diary/任务看板.md"
-    },
-    {
-      "basename": "红黑树",
-      "path": "面试/红黑树.md"
     }
   ],
   "omittedPaths": [],
