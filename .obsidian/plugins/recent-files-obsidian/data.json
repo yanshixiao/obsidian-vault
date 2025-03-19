@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
-      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
+      "basename": "线程间是如何通信的",
+      "path": "面试/线程间是如何通信的.md"
     },
     {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "线程安全需要保证几个基本特征",
+      "path": "面试/线程安全需要保证几个基本特征.md"
+    },
+    {
+      "basename": "Java线程池中队列常用类型有哪些？",
+      "path": "面试/Java线程池中队列常用类型有哪些？.md"
+    },
+    {
+      "basename": "常用的线程池有哪些",
+      "path": "面试/常用的线程池有哪些.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "锁的优化机制",
+      "path": "面试/锁的优化机制.md"
+    },
+    {
+      "basename": "如何避免死锁",
+      "path": "面试/如何避免死锁.md"
+    },
+    {
+      "basename": "产生死锁的四个必要条件",
+      "path": "面试/产生死锁的四个必要条件.md"
+    },
+    {
+      "basename": "简述一下对线程池的理解",
+      "path": "面试/简述一下对线程池的理解.md"
+    },
+    {
+      "basename": "Java中实现多线程有几种方法",
+      "path": "面试/Java中实现多线程有几种方法.md"
+    },
+    {
+      "basename": "synchronized关键字",
+      "path": "面试/synchronized关键字.md"
+    },
+    {
+      "basename": "对于 synchronized 关键字的了解",
+      "path": "面试/对于 synchronized 关键字的了解.md"
+    },
+    {
+      "basename": "Java线程池中submit() 和 execute()方法有什么区别？",
+      "path": "面试/Java线程池中submit() 和 execute()方法有什么区别？.md"
+    },
+    {
+      "basename": "Thread类中的yield方法有什么作用？",
+      "path": "面试/Thread类中的yield方法有什么作用？.md"
+    },
+    {
+      "basename": "什么是线程安全？",
+      "path": "面试/什么是线程安全？.md"
+    },
+    {
+      "basename": "SynchronizedMap和ConcurrentHashMap有什么区别？",
+      "path": "面试/SynchronizedMap和ConcurrentHashMap有什么区别？.md"
+    },
+    {
+      "basename": "什么是fail-fast",
+      "path": "面试/什么是fail-fast.md"
+    },
+    {
+      "basename": "ArrayList和LinkedList区别",
+      "path": "面试/ArrayList和LinkedList区别.md"
+    },
+    {
+      "basename": "HashMap的长度为什么是2的N次方",
+      "path": "面试/HashMap的长度为什么是2的N次方.md"
+    },
+    {
+      "basename": "ArrayList的特点",
+      "path": "面试/ArrayList的特点.md"
+    },
+    {
+      "basename": "HashMap和ConcurrentHashMap的异同",
+      "path": "面试/HashMap和ConcurrentHashMap的异同.md"
+    },
+    {
+      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
+      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
     },
     {
       "basename": "synchronized和ReentrantLock的区别",
@@ -69,10 +153,6 @@
       "path": "面试/生产消费模型中竞争到锁之后判断状态用if和while的区别.md"
     },
     {
-      "basename": "Java中实现多线程有几种方法",
-      "path": "面试/Java中实现多线程有几种方法.md"
-    },
-    {
       "basename": "什么是类加载器？",
       "path": "面试/什么是类加载器？.md"
     },
@@ -119,86 +199,6 @@
     {
       "basename": "什么是指针碰撞？什么是空闲列表？",
       "path": "面试/什么是指针碰撞？什么是空闲列表？.md"
-    },
-    {
-      "basename": "加载过程",
-      "path": "面试/加载过程.md"
-    },
-    {
-      "basename": "说一下JVM 的主要组成部分及其作用？",
-      "path": "面试/说一下JVM 的主要组成部分及其作用？.md"
-    },
-    {
-      "basename": "垃圾回收",
-      "path": "04-技术/JVM/垃圾回收.md"
-    },
-    {
-      "basename": "对象分配规则",
-      "path": "面试/对象分配规则.md"
-    },
-    {
-      "basename": "对象一定分配在堆中吗？有没有了解逃逸分析技术？",
-      "path": "面试/对象一定分配在堆中吗？有没有了解逃逸分析技术？.md"
-    },
-    {
-      "basename": "什么是StopTheWorld,什么是OomMap,什么是安全点",
-      "path": "面试/什么是StopTheWorld,什么是OomMap,什么是安全点.md"
-    },
-    {
-      "basename": "什么时候会触发FullGC",
-      "path": "面试/什么时候会触发FullGC.md"
-    },
-    {
-      "basename": "虚拟机为什么使用元空间替换了永久代？",
-      "path": "面试/虚拟机为什么使用元空间替换了永久代？.md"
-    },
-    {
-      "basename": "jsp如何影响永久代",
-      "path": "面试/jsp如何影响永久代.md"
-    },
-    {
-      "basename": "JVM性能调优参数",
-      "path": "面试/JVM性能调优参数.md"
-    },
-    {
-      "basename": "设置新生代和老年代的垃圾回收器",
-      "path": "面试/设置新生代和老年代的垃圾回收器.md"
-    },
-    {
-      "basename": "指定新生代大小的参数",
-      "path": "面试/指定新生代大小的参数.md"
-    },
-    {
-      "basename": "JVM调优参数",
-      "path": "面试/JVM调优参数.md"
-    },
-    {
-      "basename": "Minor GC与Full GC分别在什么时候发生",
-      "path": "面试/Minor GC与Full GC分别在什么时候发生.md"
-    },
-    {
-      "basename": "常见调优工具",
-      "path": "面试/常见调优工具.md"
-    },
-    {
-      "basename": "调优命令",
-      "path": "面试/调优命令.md"
-    },
-    {
-      "basename": "符号引用",
-      "path": "面试/符号引用.md"
-    },
-    {
-      "basename": "JVM加载class文件的原理机制",
-      "path": "面试/JVM加载class文件的原理机制.md"
-    },
-    {
-      "basename": "类的生命周期",
-      "path": "面试/类的生命周期.md"
-    },
-    {
-      "basename": "HandlePromotionFailure",
-      "path": "面试/HandlePromotionFailure.md"
     }
   ],
   "omittedPaths": [],

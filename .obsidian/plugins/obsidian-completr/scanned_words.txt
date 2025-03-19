@@ -836,6 +836,7 @@ cJIy
 cr
 cnN
 cJ
+currentThread
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1508,6 +1509,9 @@ Mc
 MInNA
 MSU
 Ml
+Mutex
+Microbenchmark
+MAX
 maven
 mvn
 moment
@@ -2034,6 +2038,7 @@ eB
 eC
 eCkS
 eY
+ensureCapacity
 failsafe
 false
 from
@@ -3349,6 +3354,8 @@ Aa
 AZ
 As
 AH
+AtomicInteger
+ABA
 LSP
 List
 LocalHistory
@@ -3498,6 +3505,9 @@ LHZ
 LU
 Lh
 Load
+LinkedList
+Lock
+Layout
 renwu
 rename
 richeng
@@ -3934,6 +3944,9 @@ Jh
 Jv
 Jp
 Jlf
+JOL
+JStack
+JMH
 Which
 WakaTime
 Waypoint
@@ -4051,6 +4064,7 @@ WMx
 WKn
 Word
 Wakeup
+WorkStealingPool
 want
 with
 windows
@@ -4798,6 +4812,10 @@ SoT
 Serial
 Spurious
 Store
+Swap
+SynchronizedMap
+SingleThreadExecutor
+ScheduledThreadPool
 homewp
 html
 help
@@ -5218,6 +5236,7 @@ EX
 Eb
 EQB
 ExecutorService
+Elimination
 ColorPicker
 Ctags
 CommandPalette
@@ -5367,6 +5386,11 @@ Cu
 CI
 Concurrent
 Collector
+Compare
+Cloneable
+Callable
+Coarsening
+CachedThreadPool
 NodeJS
 Note
 Nu
@@ -5485,6 +5509,7 @@ NxZl
 Nt
 Nk
 NR
+Null
 Python
 Pretty
 PlainTasks
@@ -5760,6 +5785,7 @@ RJ
 Rr
 RLq
 Ri
+Runnable
 Haskell
 Highlighter
 History
@@ -5884,6 +5910,7 @@ Hq
 Hd
 HX
 Hv
+Harness
 Key
 KB
 KEY
@@ -6296,6 +6323,7 @@ Flp
 Fu
 FTU
 First
+FixedThreadPool
 Icon
 IHDR
 IDATx
@@ -6456,6 +6484,7 @@ IF
 IH
 IJ
 IllegalMonitorStateException
+Integer
 Git
 GitGutter
 Gtrl
@@ -6986,6 +7015,7 @@ Vwj
 VJ
 VHMU
 VTGGGWWWww
+VALUE
 XXX
 Xn
 XID
