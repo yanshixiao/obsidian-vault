@@ -115,6 +115,7 @@ UwA
 UYb
 UE
 Uct
+UseTLAB
 alias
 add
 ad
@@ -647,6 +648,7 @@ sd
 sw
 swallow
 sleep
+synchronized
 cssclass
 created
 configuration
@@ -1784,6 +1786,7 @@ Dv
 DYg
 DH
 DCL
+DelayedWorkQueue
 xml
 xc
 xe
@@ -3356,6 +3359,10 @@ As
 AH
 AtomicInteger
 ABA
+ArrayBlockingQueue
+Allocation
+AtomicStampedReference
+AtomicReference
 LSP
 List
 LocalHistory
@@ -3508,6 +3515,8 @@ Load
 LinkedList
 Lock
 Layout
+LinkedBlockingQueue
+Local
 renwu
 rename
 richeng
@@ -4639,6 +4648,9 @@ BPI
 BK
 Bh
 Barrier
+BlockingQueue
+Busy
+Buffer
 Solid
 Sublime
 SublimeREPL
@@ -4816,6 +4828,8 @@ Swap
 SynchronizedMap
 SingleThreadExecutor
 ScheduledThreadPool
+Semaphore
+SynchronousQueue
 homewp
 html
 help
@@ -5112,6 +5126,7 @@ TI
 Tg
 Tm
 TEJ
+TLAB
 Editing
 Emmet
 Editting
@@ -5391,6 +5406,8 @@ Cloneable
 Callable
 Coarsening
 CachedThreadPool
+CountDownLatch
+CyclicBarrier
 NodeJS
 Note
 Nu
@@ -5636,6 +5653,9 @@ Pb
 PJ
 PraNew
 ParNew
+PipedInputStream
+PipedOutputStream
+PriorityBlockingQueue
 Ruby
 Realities
 RX
@@ -6324,6 +6344,7 @@ Fu
 FTU
 First
 FixedThreadPool
+FIFO
 Icon
 IHDR
 IDATx
@@ -7016,6 +7037,7 @@ VJ
 VHMU
 VTGGGWWWww
 VALUE
+VIP
 XXX
 Xn
 XID

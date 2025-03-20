@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "线程间是如何通信的",
-      "path": "面试/线程间是如何通信的.md"
-    },
-    {
       "basename": "面试",
       "path": "面试/面试.md"
     },
     {
-      "basename": "线程安全需要保证几个基本特征",
-      "path": "面试/线程安全需要保证几个基本特征.md"
+      "basename": "为什么弱引用要配合WeakHashMap使用？",
+      "path": "面试/为什么弱引用要配合WeakHashMap使用？.md"
+    },
+    {
+      "basename": "引用类型有哪些？有什么区别？",
+      "path": "面试/引用类型有哪些？有什么区别？.md"
+    },
+    {
+      "basename": "CAS有什么缺点吗？",
+      "path": "面试/CAS有什么缺点吗？.md"
+    },
+    {
+      "basename": "什么是TLAB",
+      "path": "面试/什么是TLAB.md"
+    },
+    {
+      "basename": "垃圾回收",
+      "path": "04-技术/JVM/垃圾回收.md"
+    },
+    {
+      "basename": "类的加载与卸载",
+      "path": "面试/类的加载与卸载.md"
+    },
+    {
+      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
+      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
+    },
+    {
+      "basename": "如何停止一个正在运行的线程",
+      "path": "面试/如何停止一个正在运行的线程.md"
+    },
+    {
+      "basename": "CAS的原理",
+      "path": "面试/CAS的原理.md"
     },
     {
       "basename": "Java线程池中队列常用类型有哪些？",
       "path": "面试/Java线程池中队列常用类型有哪些？.md"
+    },
+    {
+      "basename": "线程间是如何通信的",
+      "path": "面试/线程间是如何通信的.md"
+    },
+    {
+      "basename": "线程安全需要保证几个基本特征",
+      "path": "面试/线程安全需要保证几个基本特征.md"
     },
     {
       "basename": "常用的线程池有哪些",
@@ -89,20 +125,12 @@
       "path": "面试/HashMap和ConcurrentHashMap的异同.md"
     },
     {
-      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
-      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
-    },
-    {
       "basename": "synchronized和ReentrantLock的区别",
       "path": "面试/synchronized和ReentrantLock的区别.md"
     },
     {
       "basename": "interrupt",
       "path": "面试/interrupt.md"
-    },
-    {
-      "basename": "如何停止一个正在运行的线程",
-      "path": "面试/如何停止一个正在运行的线程.md"
     },
     {
       "basename": "为什么notify和wait方法要在同步块中调用",
@@ -171,34 +199,6 @@
     {
       "basename": "Parallel Scavenge收集器",
       "path": "面试/Parallel Scavenge收集器.md"
-    },
-    {
-      "basename": "类的加载与卸载",
-      "path": "面试/类的加载与卸载.md"
-    },
-    {
-      "basename": "回收算法",
-      "path": "面试/回收算法.md"
-    },
-    {
-      "basename": "垃圾收集算法",
-      "path": "面试/垃圾收集算法.md"
-    },
-    {
-      "basename": "Java的对象结构",
-      "path": "面试/Java的对象结构.md"
-    },
-    {
-      "basename": "对象头具体包含那些内容？",
-      "path": "面试/对象头具体包含那些内容？.md"
-    },
-    {
-      "basename": "什么是TLAB",
-      "path": "面试/什么是TLAB.md"
-    },
-    {
-      "basename": "什么是指针碰撞？什么是空闲列表？",
-      "path": "面试/什么是指针碰撞？什么是空闲列表？.md"
     }
   ],
   "omittedPaths": [],
