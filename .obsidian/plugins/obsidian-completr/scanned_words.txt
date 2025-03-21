@@ -356,6 +356,7 @@ aAN
 aO
 atu
 acquire
+aop
 tags
 test
 true
@@ -772,6 +773,9 @@ sfTQ
 sGn
 sM
 sMG
+swagger
+spring
+starter
 cssclass
 created
 configuration
@@ -976,6 +980,8 @@ cTT
 cIx
 crd
 ccc
+corePoolSize
+controller
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1513,6 +1519,7 @@ lfQE
 lz
 lUo
 lHfa
+logback
 Maven
 MM
 Map
@@ -1706,6 +1713,11 @@ MhcdZ
 Mp
 MER
 Mkk
+Mock
+MVC
+Micronaut
+MongoDB
+MyBatis
 maven
 mvn
 moment
@@ -1885,6 +1897,7 @@ mw
 mX
 mF
 mN
+maximumPoolSize
 DskipTests
 DdefaultValueOfSkip
 DD
@@ -2018,6 +2031,8 @@ DLhf
 DQL
 DiscardOldestPolicy
 DiscardPolicy
+Dependency
+DI
 xml
 xc
 xe
@@ -3625,6 +3640,7 @@ kxjw
 kfk
 knh
 kWM
+keepAliveTime
 App
 ABS
 Attachment
@@ -3828,6 +3844,13 @@ Au
 AbortPolicy
 AQS
 AbstractQueuedSynchronizer
+And
+Atomic
+Autowired
+AOP
+Actuator
+AMQP
+Amazon
 LSP
 List
 LocalHistory
@@ -3996,6 +4019,7 @@ Lj
 LN
 LSJ
 LRid
+Lombok
 renwu
 rename
 richeng
@@ -4496,6 +4520,12 @@ JuX
 JGY
 JZM
 JR
+JTA
+JDBC
+JDO
+JPA
+JWT
+JAR
 Which
 WakaTime
 Waypoint
@@ -4645,6 +4675,9 @@ Wal
 WiiX
 WJ
 Wk
+WARN
+WebFlux
+WAR
 want
 with
 windows
@@ -4839,6 +4872,7 @@ wQ
 ww
 wII
 wiB
+workQueue
 use
 uid
 user
@@ -4994,6 +5028,7 @@ uL
 uO
 ua
 uXS
+unchecked
 getrandomImage
 git
 github
@@ -5319,6 +5354,8 @@ BsC
 BDF
 BEP
 Blocking
+Boot
+Batch
 Solid
 Sublime
 SublimeREPL
@@ -5521,6 +5558,11 @@ Some
 Start
 Stop
 Shared
+Spring
+Setter
+SpringBoot
+Security
+Stars
 homewp
 html
 help
@@ -5863,6 +5905,8 @@ Ti
 TTA
 TAF
 Tcx
+Test
+Tomcat
 Editing
 Emmet
 Editting
@@ -6013,6 +6057,9 @@ EN
 EW
 EMT
 Exclusive
+ETag
+EJB
+EhCache
 ColorPicker
 Ctags
 CommandPalette
@@ -6191,6 +6238,9 @@ Coa
 CallerRunsPolicy
 CLH
 Condition
+Constructor
+Cloud
+Config
 NodeJS
 Note
 Nu
@@ -6341,6 +6391,7 @@ NS
 Nax
 NW
 Ng
+Netflix
 Python
 Pretty
 PlainTasks
@@ -6670,6 +6721,10 @@ RTasz
 RCS
 ReentrantLock
 ReentrantReadWriteLock
+RejectedExecutionHandler
+RESTful
+REST
+RBAC
 Haskell
 Highlighter
 History
@@ -6819,6 +6874,7 @@ HOku
 HM
 HuJF
 Hdtttlllbbbjjjvvvnnn
+Hibernate
 Key
 KB
 KEY
@@ -6973,6 +7029,7 @@ Ks
 KH
 KQ
 Ke
+Kubernetes
 javascript
 json
 jpg
@@ -7136,6 +7193,7 @@ jq
 jWm
 jR
 jXXX
+joinPoint
 File
 FileDiffs
 Fm
@@ -7288,6 +7346,7 @@ FAo
 FVm
 FGGGFF
 Future
+Field
 Icon
 IHDR
 IDATx
@@ -7470,6 +7529,10 @@ Iu
 Iyp
 IDATb
 IG
+Injection
+IoC
+INFO
+Integration
 Git
 GitGutter
 Gtrl
@@ -7613,6 +7676,7 @@ GUpb
 Gp
 GxX
 GuJF
+GitHub
 Overview
 OPTIONS
 Obsidian
@@ -7790,6 +7854,9 @@ OtU
 Og
 Ogfd
 OAt
+ORM
+OAuth
+Overflow
 quickAdd
 qwer
 quote
@@ -8193,6 +8260,7 @@ XQimPPE
 XZ
 XeEp
 XXp
+XML
 zoo
 zip
 zU
@@ -8454,6 +8522,7 @@ QY
 QZMM
 Qm
 QvV
+Quarkus
 ZR
 Zv
 ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY

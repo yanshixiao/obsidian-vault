@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "什么是AQS",
-      "path": "面试/什么是AQS.md"
+      "basename": "AOP",
+      "path": "面试/AOP.md"
     },
     {
       "basename": "面试",
       "path": "面试/面试.md"
     },
     {
+      "basename": "Spring的优势",
+      "path": "面试/Spring的优势.md"
+    },
+    {
+      "basename": "SpringBoot启动时内部日志消除",
+      "path": "04-技术/SpringBoot/SpringBoot启动时内部日志消除.md"
+    },
+    {
+      "basename": "SpringMVC",
+      "path": "面试/SpringMVC.md"
+    },
+    {
+      "basename": "为什么使用Spring",
+      "path": "面试/为什么使用Spring.md"
+    },
+    {
+      "basename": "依赖注入有几种方式",
+      "path": "面试/依赖注入有几种方式.md"
+    },
+    {
+      "basename": "Spring配置方式",
+      "path": "面试/Spring配置方式.md"
+    },
+    {
+      "basename": "Autowired和Resource关键字的区别",
+      "path": "面试/Autowired和Resource关键字的区别.md"
+    },
+    {
       "basename": "悲观锁和乐观锁",
       "path": "面试/悲观锁和乐观锁.md"
+    },
+    {
+      "basename": "什么是AQS",
+      "path": "面试/什么是AQS.md"
     },
     {
       "basename": "阻塞队列及实现原理和应用",
@@ -19,6 +51,10 @@
     {
       "basename": "Java线程池中队列常用类型有哪些？",
       "path": "面试/Java线程池中队列常用类型有哪些？.md"
+    },
+    {
+      "basename": "线程池原理及核心参数",
+      "path": "面试/线程池原理及核心参数.md"
     },
     {
       "basename": "线程池的拒绝策略有哪些",
@@ -47,10 +83,6 @@
     {
       "basename": "CyclicBarrier和CountDownLatch的区别",
       "path": "面试/CyclicBarrier和CountDownLatch的区别.md"
-    },
-    {
-      "basename": "线程池原理及核心参数",
-      "path": "面试/线程池原理及核心参数.md"
     },
     {
       "basename": "加载过程",
@@ -167,38 +199,6 @@
     {
       "basename": "HashMap的长度为什么是2的N次方",
       "path": "面试/HashMap的长度为什么是2的N次方.md"
-    },
-    {
-      "basename": "ArrayList的特点",
-      "path": "面试/ArrayList的特点.md"
-    },
-    {
-      "basename": "HashMap和ConcurrentHashMap的异同",
-      "path": "面试/HashMap和ConcurrentHashMap的异同.md"
-    },
-    {
-      "basename": "synchronized和ReentrantLock的区别",
-      "path": "面试/synchronized和ReentrantLock的区别.md"
-    },
-    {
-      "basename": "interrupt",
-      "path": "面试/interrupt.md"
-    },
-    {
-      "basename": "为什么notify和wait方法要在同步块中调用",
-      "path": "面试/为什么notify和wait方法要在同步块中调用.md"
-    },
-    {
-      "basename": "Thread的interrupted()和isInterrupted()的区别",
-      "path": "面试/Thread的interrupted()和isInterrupted()的区别.md"
-    },
-    {
-      "basename": "为什么wait, notify 和 notifyAll这些方法不在thread类里面？",
-      "path": "面试/为什么wait, notify 和 notifyAll这些方法不在thread类里面？.md"
-    },
-    {
-      "basename": "Thread中start方法和run方法区别",
-      "path": "面试/Thread中start方法和run方法区别.md"
     }
   ],
   "omittedPaths": [],
