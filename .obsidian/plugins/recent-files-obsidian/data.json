@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "什么是AQS",
+      "path": "面试/什么是AQS.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "悲观锁和乐观锁",
+      "path": "面试/悲观锁和乐观锁.md"
+    },
+    {
+      "basename": "阻塞队列及实现原理和应用",
+      "path": "面试/阻塞队列及实现原理和应用.md"
+    },
+    {
+      "basename": "Java线程池中队列常用类型有哪些？",
+      "path": "面试/Java线程池中队列常用类型有哪些？.md"
+    },
+    {
+      "basename": "线程池的拒绝策略有哪些",
+      "path": "面试/线程池的拒绝策略有哪些.md"
+    },
+    {
+      "basename": "什么是Callable和Future",
+      "path": "面试/什么是Callable和Future.md"
+    },
+    {
+      "basename": "notify()和notifyAll()有什么区别",
+      "path": "面试/notify()和notifyAll()有什么区别.md"
+    },
+    {
+      "basename": "线程间是如何通信的",
+      "path": "面试/线程间是如何通信的.md"
+    },
+    {
+      "basename": "生产消费模型中竞争到锁之后判断状态用if和while的区别",
+      "path": "面试/生产消费模型中竞争到锁之后判断状态用if和while的区别.md"
+    },
+    {
+      "basename": "什么是Semaphore",
+      "path": "面试/什么是Semaphore.md"
+    },
+    {
+      "basename": "CyclicBarrier和CountDownLatch的区别",
+      "path": "面试/CyclicBarrier和CountDownLatch的区别.md"
+    },
+    {
+      "basename": "线程池原理及核心参数",
+      "path": "面试/线程池原理及核心参数.md"
+    },
+    {
+      "basename": "加载过程",
+      "path": "面试/加载过程.md"
+    },
+    {
+      "basename": "ThreadLocal原理",
+      "path": "99-Attachment/ThreadLocal原理.png"
+    },
+    {
+      "basename": "ThreadLocal原理",
+      "path": "面试/ThreadLocal原理.md"
     },
     {
       "basename": "为什么弱引用要配合WeakHashMap使用？",
       "path": "面试/为什么弱引用要配合WeakHashMap使用？.md"
     },
     {
-      "basename": "引用类型有哪些？有什么区别？",
-      "path": "面试/引用类型有哪些？有什么区别？.md"
-    },
-    {
       "basename": "CAS有什么缺点吗？",
       "path": "面试/CAS有什么缺点吗？.md"
+    },
+    {
+      "basename": "引用类型有哪些？有什么区别？",
+      "path": "面试/引用类型有哪些？有什么区别？.md"
     },
     {
       "basename": "什么是TLAB",
@@ -39,14 +99,6 @@
     {
       "basename": "CAS的原理",
       "path": "面试/CAS的原理.md"
-    },
-    {
-      "basename": "Java线程池中队列常用类型有哪些？",
-      "path": "面试/Java线程池中队列常用类型有哪些？.md"
-    },
-    {
-      "basename": "线程间是如何通信的",
-      "path": "面试/线程间是如何通信的.md"
     },
     {
       "basename": "线程安全需要保证几个基本特征",
@@ -147,58 +199,6 @@
     {
       "basename": "Thread中start方法和run方法区别",
       "path": "面试/Thread中start方法和run方法区别.md"
-    },
-    {
-      "basename": "单例模式为啥要判断两次空",
-      "path": "面试/单例模式为啥要判断两次空.md"
-    },
-    {
-      "basename": "volatile是什么？可以保证有序性吗？",
-      "path": "面试/volatile是什么？可以保证有序性吗？.md"
-    },
-    {
-      "basename": "volatile的有序性保证规则",
-      "path": "面试/volatile的有序性保证规则.md"
-    },
-    {
-      "basename": "sleep()和wait()有什么区别",
-      "path": "面试/sleep()和wait()有什么区别.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "使用notify的风险之死锁触发流程",
-      "path": "面试/使用notify的风险之死锁触发流程.md"
-    },
-    {
-      "basename": "notify()和notifyAll()有什么区别",
-      "path": "面试/notify()和notifyAll()有什么区别.md"
-    },
-    {
-      "basename": "生产消费模型中竞争到锁之后判断状态用if和while的区别",
-      "path": "面试/生产消费模型中竞争到锁之后判断状态用if和while的区别.md"
-    },
-    {
-      "basename": "什么是类加载器？",
-      "path": "面试/什么是类加载器？.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "如何选择垃圾收集器？",
-      "path": "面试/如何选择垃圾收集器？.md"
-    },
-    {
-      "basename": "JVM有哪些垃圾回收器",
-      "path": "面试/JVM有哪些垃圾回收器.md"
-    },
-    {
-      "basename": "Parallel Scavenge收集器",
-      "path": "面试/Parallel Scavenge收集器.md"
     }
   ],
   "omittedPaths": [],
