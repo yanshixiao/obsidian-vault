@@ -169,6 +169,7 @@ Uag
 UOl
 Ug
 URL
+Uncommitted
 alias
 add
 ad
@@ -1728,6 +1729,7 @@ MongoDB
 MyBatis
 MessageSourceAware
 MockMvc
+Mutual
 maven
 mvn
 moment
@@ -2047,6 +2049,8 @@ Destruction
 DisposableBean
 DAO
 DTO
+DBMS
+Dirty
 xml
 xc
 xe
@@ -3877,6 +3881,7 @@ ApplicationContextAware
 ApplicationEventPublisherAware
 ApplicationContext
 ApplicationContextAwareProcessor
+Atomikos
 LSP
 List
 LocalHistory
@@ -4555,6 +4560,7 @@ JWT
 JAR
 JSP
 JSR
+JMeter
 Which
 WakaTime
 Waypoint
@@ -4707,6 +4713,7 @@ Wk
 WARN
 WebFlux
 WAR
+Wait
 want
 with
 windows
@@ -5601,6 +5608,11 @@ Security
 Stars
 Service
 Struts
+Server
+Serializable
+Segments
+Singleton
+SpotBugs
 homewp
 html
 help
@@ -5946,6 +5958,7 @@ Tcx
 Test
 Tomcat
 Thymeleaf
+TransactionAttribute
 Editing
 Emmet
 Editting
@@ -6101,6 +6114,7 @@ EJB
 EhCache
 EnvironmentAware
 EmbeddedValueResolverAware
+Exclusion
 ColorPicker
 Ctags
 CommandPalette
@@ -6284,6 +6298,9 @@ Cloud
 Config
 ConfigurableApplicationContext
 Controller
+Committed
+CGLIB
+Circular
 NodeJS
 Note
 Nu
@@ -6435,6 +6452,8 @@ Nax
 NW
 Ng
 Netflix
+Non
+Narayana
 Python
 Pretty
 PlainTasks
@@ -6590,6 +6609,10 @@ PmW
 Permits
 Populate
 PriorityOrdered
+Phantom
+PostgreSQL
+Prototype
+Preemption
 Ruby
 Realities
 RX
@@ -6772,6 +6795,7 @@ REST
 RBAC
 ResourceLoaderAware
 Repository
+Repeatable
 Haskell
 Highlighter
 History
@@ -6923,6 +6947,7 @@ HuJF
 Hdtttlllbbbjjjvvvnnn
 Hibernate
 Header
+Hold
 Key
 KB
 KEY
@@ -7395,6 +7420,7 @@ FVm
 FGGGFF
 Future
 Field
+FindBugs
 Icon
 IHDR
 IDATx
@@ -7911,6 +7937,7 @@ ORM
 OAuth
 Overflow
 Ordered
+OLTP
 quickAdd
 qwer
 quote
@@ -8196,6 +8223,7 @@ VL
 Vt
 Vlzf
 View
+VisualVM
 XXX
 Xn
 XID

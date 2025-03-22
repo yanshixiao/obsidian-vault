@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring 是怎么解决循环依赖的",
-      "path": "面试/Spring 是怎么解决循环依赖的.md"
+      "basename": "synchronized和ReentrantLock的区别",
+      "path": "面试/synchronized和ReentrantLock的区别.md"
     },
     {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "阻塞队列及实现原理和应用",
+      "path": "面试/阻塞队列及实现原理和应用.md"
+    },
+    {
+      "basename": "线程池原理及核心参数",
+      "path": "面试/线程池原理及核心参数.md"
+    },
+    {
+      "basename": "Java线程池中队列常用类型有哪些？",
+      "path": "面试/Java线程池中队列常用类型有哪些？.md"
+    },
+    {
+      "basename": "如何避免死锁",
+      "path": "面试/如何避免死锁.md"
+    },
+    {
+      "basename": "产生死锁的四个必要条件",
+      "path": "面试/产生死锁的四个必要条件.md"
+    },
+    {
+      "basename": "依赖注入有几种方式",
+      "path": "面试/依赖注入有几种方式.md"
+    },
+    {
+      "basename": "Spring框架的事务管理有哪些优点",
+      "path": "面试/Spring框架的事务管理有哪些优点.md"
+    },
+    {
+      "basename": "Spring事务实现方式",
+      "path": "面试/Spring事务实现方式.md"
+    },
+    {
+      "basename": "事务的传播级别",
+      "path": "面试/事务的传播级别.md"
+    },
+    {
+      "basename": "Spring 是怎么解决循环依赖的",
+      "path": "面试/Spring 是怎么解决循环依赖的.md"
+    },
+    {
+      "basename": "事务的隔离级别",
+      "path": "面试/事务的隔离级别.md"
     },
     {
       "basename": "Spring 中 ApplicationContext 和 BeanFactory 的区别",
@@ -45,10 +89,6 @@
       "path": "面试/说说你对Spring的IOC是怎么理解的？.md"
     },
     {
-      "basename": "依赖注入有几种方式",
-      "path": "面试/依赖注入有几种方式.md"
-    },
-    {
       "basename": "AOP通知有几种",
       "path": "面试/AOP通知有几种.md"
     },
@@ -83,18 +123,6 @@
     {
       "basename": "什么是AQS",
       "path": "面试/什么是AQS.md"
-    },
-    {
-      "basename": "阻塞队列及实现原理和应用",
-      "path": "面试/阻塞队列及实现原理和应用.md"
-    },
-    {
-      "basename": "Java线程池中队列常用类型有哪些？",
-      "path": "面试/Java线程池中队列常用类型有哪些？.md"
-    },
-    {
-      "basename": "线程池原理及核心参数",
-      "path": "面试/线程池原理及核心参数.md"
     },
     {
       "basename": "线程池的拒绝策略有哪些",
@@ -171,34 +199,6 @@
     {
       "basename": "CAS的原理",
       "path": "面试/CAS的原理.md"
-    },
-    {
-      "basename": "线程安全需要保证几个基本特征",
-      "path": "面试/线程安全需要保证几个基本特征.md"
-    },
-    {
-      "basename": "常用的线程池有哪些",
-      "path": "面试/常用的线程池有哪些.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "20-Diary/任务看板.md"
-    },
-    {
-      "basename": "锁的优化机制",
-      "path": "面试/锁的优化机制.md"
-    },
-    {
-      "basename": "如何避免死锁",
-      "path": "面试/如何避免死锁.md"
-    },
-    {
-      "basename": "产生死锁的四个必要条件",
-      "path": "面试/产生死锁的四个必要条件.md"
-    },
-    {
-      "basename": "简述一下对线程池的理解",
-      "path": "面试/简述一下对线程池的理解.md"
     }
   ],
   "omittedPaths": [],
