@@ -168,6 +168,7 @@ UQTZ
 Uag
 UOl
 Ug
+URL
 alias
 add
 ad
@@ -776,6 +777,7 @@ sMG
 swagger
 spring
 starter
+spel
 cssclass
 created
 configuration
@@ -982,6 +984,8 @@ crd
 ccc
 corePoolSize
 controller
+createBeanInstance
+close
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1333,6 +1337,10 @@ pwC
 pJPP
 pvQ
 pe
+populateBean
+postProcessBeforeInstantiation
+postProcessAfterInstantiation
+postProcessBeforeInitialization
 live
 let
 last
@@ -1718,6 +1726,8 @@ MVC
 Micronaut
 MongoDB
 MyBatis
+MessageSourceAware
+MockMvc
 maven
 mvn
 moment
@@ -2033,6 +2043,10 @@ DiscardOldestPolicy
 DiscardPolicy
 Dependency
 DI
+Destruction
+DisposableBean
+DAO
+DTO
 xml
 xc
 xe
@@ -2518,6 +2532,7 @@ fgg
 fgggff
 fI
 flowchart
+finishBeanFactoryInitialization
 defaultValueOfSkip
 diff
 date
@@ -2722,6 +2737,8 @@ dP
 dA
 dTq
 dCg
+doCreate
+doCreateBean
 build
 banner
 background
@@ -2892,6 +2909,7 @@ bT
 bBuSq
 bzz
 bff
+boolean
 now
 newtitle
 null
@@ -3481,6 +3499,8 @@ ihZc
 iSn
 iW
 iko
+initializeBean
+invokeInitMethods
 kanban
 kanbanwp
 keys
@@ -3851,6 +3871,12 @@ AOP
 Actuator
 AMQP
 Amazon
+Aop
+Aware
+ApplicationContextAware
+ApplicationEventPublisherAware
+ApplicationContext
+ApplicationContextAwareProcessor
 LSP
 List
 LocalHistory
@@ -4210,6 +4236,7 @@ rp
 rUh
 rsR
 release
+registerBeanPostProcessors
 vika
 var
 verb
@@ -4526,6 +4553,8 @@ JDO
 JPA
 JWT
 JAR
+JSP
+JSR
 Which
 WakaTime
 Waypoint
@@ -5356,6 +5385,13 @@ BEP
 Blocking
 Boot
 Batch
+BeanPostProcessor
+BeanName
+BeanNameAware
+BeanClassLoaderAware
+BeanFactoryAware
+BeanFactory
+BeanPostProcessors
 Solid
 Sublime
 SublimeREPL
@@ -5563,6 +5599,8 @@ Setter
 SpringBoot
 Security
 Stars
+Service
+Struts
 homewp
 html
 help
@@ -5907,6 +5945,7 @@ TAF
 Tcx
 Test
 Tomcat
+Thymeleaf
 Editing
 Emmet
 Editting
@@ -6060,6 +6099,8 @@ Exclusive
 ETag
 EJB
 EhCache
+EnvironmentAware
+EmbeddedValueResolverAware
 ColorPicker
 Ctags
 CommandPalette
@@ -6241,6 +6282,8 @@ Condition
 Constructor
 Cloud
 Config
+ConfigurableApplicationContext
+Controller
 NodeJS
 Note
 Nu
@@ -6545,6 +6588,8 @@ Pv
 PW
 PmW
 Permits
+Populate
+PriorityOrdered
 Ruby
 Realities
 RX
@@ -6725,6 +6770,8 @@ RejectedExecutionHandler
 RESTful
 REST
 RBAC
+ResourceLoaderAware
+Repository
 Haskell
 Highlighter
 History
@@ -6875,6 +6922,7 @@ HM
 HuJF
 Hdtttlllbbbjjjvvvnnn
 Hibernate
+Header
 Key
 KB
 KEY
@@ -7533,6 +7581,10 @@ Injection
 IoC
 INFO
 Integration
+Instantiation
+Initialization
+InstantiationAwareBeanPostProcessor
+InitializingBean
 Git
 GitGutter
 Gtrl
@@ -7677,6 +7729,7 @@ Gp
 GxX
 GuJF
 GitHub
+Group
 Overview
 OPTIONS
 Obsidian
@@ -7857,6 +7910,7 @@ OAt
 ORM
 OAuth
 Overflow
+Ordered
 quickAdd
 qwer
 quote
@@ -8141,6 +8195,7 @@ VH
 VL
 Vt
 Vlzf
+View
 XXX
 Xn
 XID
