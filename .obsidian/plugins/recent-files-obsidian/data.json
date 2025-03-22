@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "synchronized和ReentrantLock的区别",
-      "path": "面试/synchronized和ReentrantLock的区别.md"
+      "basename": "阻塞队列及实现原理和应用",
+      "path": "面试/阻塞队列及实现原理和应用.md"
     },
     {
       "basename": "面试",
       "path": "面试/面试.md"
     },
     {
-      "basename": "阻塞队列及实现原理和应用",
-      "path": "面试/阻塞队列及实现原理和应用.md"
+      "basename": "对于 synchronized 关键字的了解",
+      "path": "面试/对于 synchronized 关键字的了解.md"
+    },
+    {
+      "basename": "常用的线程池有哪些",
+      "path": "面试/常用的线程池有哪些.md"
+    },
+    {
+      "basename": "Java线程池中队列常用类型有哪些？",
+      "path": "面试/Java线程池中队列常用类型有哪些？.md"
     },
     {
       "basename": "线程池原理及核心参数",
       "path": "面试/线程池原理及核心参数.md"
     },
     {
-      "basename": "Java线程池中队列常用类型有哪些？",
-      "path": "面试/Java线程池中队列常用类型有哪些？.md"
+      "basename": "什么是AQS",
+      "path": "面试/什么是AQS.md"
+    },
+    {
+      "basename": "synchronized和ReentrantLock的区别",
+      "path": "面试/synchronized和ReentrantLock的区别.md"
     },
     {
       "basename": "如何避免死锁",
@@ -121,10 +133,6 @@
       "path": "面试/悲观锁和乐观锁.md"
     },
     {
-      "basename": "什么是AQS",
-      "path": "面试/什么是AQS.md"
-    },
-    {
       "basename": "线程池的拒绝策略有哪些",
       "path": "面试/线程池的拒绝策略有哪些.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
       "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
-    },
-    {
-      "basename": "如何停止一个正在运行的线程",
-      "path": "面试/如何停止一个正在运行的线程.md"
-    },
-    {
-      "basename": "CAS的原理",
-      "path": "面试/CAS的原理.md"
     }
   ],
   "omittedPaths": [],
