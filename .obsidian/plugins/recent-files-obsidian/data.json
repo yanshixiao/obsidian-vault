@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "阻塞队列及实现原理和应用",
-      "path": "面试/阻塞队列及实现原理和应用.md"
-    },
-    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "ThreadLocal原理",
+      "path": "面试/ThreadLocal原理.md"
+    },
+    {
+      "basename": "事务注解的本质是什么",
+      "path": "面试/事务注解的本质是什么.md"
+    },
+    {
+      "basename": "Spring事务实现方式",
+      "path": "面试/Spring事务实现方式.md"
+    },
+    {
+      "basename": "事务的四要素",
+      "path": "面试/事务的四要素.md"
+    },
+    {
+      "basename": "解释一下Spring Bean的生命周期",
+      "path": "面试/解释一下Spring Bean的生命周期.md"
+    },
+    {
+      "basename": "阻塞队列及实现原理和应用",
+      "path": "面试/阻塞队列及实现原理和应用.md"
     },
     {
       "basename": "对于 synchronized 关键字的了解",
@@ -49,10 +69,6 @@
       "path": "面试/Spring框架的事务管理有哪些优点.md"
     },
     {
-      "basename": "Spring事务实现方式",
-      "path": "面试/Spring事务实现方式.md"
-    },
-    {
       "basename": "事务的传播级别",
       "path": "面试/事务的传播级别.md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "Spring Bean的作用域",
       "path": "面试/Spring Bean的作用域.md"
-    },
-    {
-      "basename": "解释一下Spring Bean的生命周期",
-      "path": "面试/解释一下Spring Bean的生命周期.md"
     },
     {
       "basename": "Spring Bean的生命周期",
@@ -169,10 +181,6 @@
       "path": "99-Attachment/ThreadLocal原理.png"
     },
     {
-      "basename": "ThreadLocal原理",
-      "path": "面试/ThreadLocal原理.md"
-    },
-    {
       "basename": "为什么弱引用要配合WeakHashMap使用？",
       "path": "面试/为什么弱引用要配合WeakHashMap使用？.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "垃圾回收",
       "path": "04-技术/JVM/垃圾回收.md"
-    },
-    {
-      "basename": "类的加载与卸载",
-      "path": "面试/类的加载与卸载.md"
-    },
-    {
-      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
-      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
     }
   ],
   "omittedPaths": [],
