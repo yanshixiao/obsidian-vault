@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？",
+      "path": "面试/Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
     },
     {
-      "basename": "ThreadLocal原理",
-      "path": "面试/ThreadLocal原理.md"
+      "basename": "Mybatis是如何分页的，分页原理是什么",
+      "path": "面试/Mybatis是如何分页的，分页原理是什么.md"
+    },
+    {
+      "basename": "当实体类中的属性名和表中的字段名不一样怎么办",
+      "path": "面试/当实体类中的属性名和表中的字段名不一样怎么办.md"
+    },
+    {
+      "basename": "井号括号和美元符括号的区别",
+      "path": "面试/井号括号和美元符括号的区别.md"
+    },
+    {
+      "basename": "MyBatis是什么，有啥优缺点",
+      "path": "面试/MyBatis是什么，有啥优缺点.md"
     },
     {
       "basename": "事务注解的本质是什么",
       "path": "面试/事务注解的本质是什么.md"
+    },
+    {
+      "basename": "ThreadLocal原理",
+      "path": "面试/ThreadLocal原理.md"
     },
     {
       "basename": "Spring事务实现方式",
@@ -179,26 +199,6 @@
     {
       "basename": "ThreadLocal原理",
       "path": "99-Attachment/ThreadLocal原理.png"
-    },
-    {
-      "basename": "为什么弱引用要配合WeakHashMap使用？",
-      "path": "面试/为什么弱引用要配合WeakHashMap使用？.md"
-    },
-    {
-      "basename": "CAS有什么缺点吗？",
-      "path": "面试/CAS有什么缺点吗？.md"
-    },
-    {
-      "basename": "引用类型有哪些？有什么区别？",
-      "path": "面试/引用类型有哪些？有什么区别？.md"
-    },
-    {
-      "basename": "什么是TLAB",
-      "path": "面试/什么是TLAB.md"
-    },
-    {
-      "basename": "垃圾回收",
-      "path": "04-技术/JVM/垃圾回收.md"
     }
   ],
   "omittedPaths": [],
