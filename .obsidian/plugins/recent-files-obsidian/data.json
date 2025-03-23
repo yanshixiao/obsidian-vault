@@ -1,12 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？",
-      "path": "面试/Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？.md"
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
     },
     {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "说说InnoDB与MyISAM的区别",
+      "path": "面试/说说InnoDB与MyISAM的区别.md"
+    },
+    {
+      "basename": "MySQL的存储引擎有哪些",
+      "path": "面试/MySQL的存储引擎有哪些.md"
+    },
+    {
+      "basename": "数据库的三范式",
+      "path": "面试/数据库的三范式.md"
+    },
+    {
+      "basename": "事务的四要素",
+      "path": "面试/事务的四要素.md"
+    },
+    {
+      "basename": "Spring Boot 的核心配置文件有哪几个？它们的区别是什么？",
+      "path": "面试/Spring Boot 的核心配置文件有哪几个？它们的区别是什么？.md"
+    },
+    {
+      "basename": "如何理解 Spring Boot 配置加载顺序？",
+      "path": "面试/如何理解 Spring Boot 配置加载顺序？.md"
+    },
+    {
+      "basename": "SpringBoot 实现热部署有哪几种方式？",
+      "path": "面试/SpringBoot 实现热部署有哪几种方式？.md"
+    },
+    {
+      "basename": "如何使用Spring Boot实现异常处理？",
+      "path": "面试/如何使用Spring Boot实现异常处理？.md"
+    },
+    {
+      "basename": "Spring Boot中的监视器是什么？",
+      "path": "面试/Spring Boot中的监视器是什么？.md"
+    },
+    {
+      "basename": "如何在Spring Boot启动的时候运行一些特定的代码？",
+      "path": "面试/如何在Spring Boot启动的时候运行一些特定的代码？.md"
+    },
+    {
+      "basename": "如何理解 Spring Boot 中的 Starters？",
+      "path": "面试/如何理解 Spring Boot 中的 Starters？.md"
+    },
+    {
+      "basename": "运行SpringBoot的几种方式",
+      "path": "面试/运行SpringBoot的几种方式.md"
+    },
+    {
+      "basename": "Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？",
+      "path": "面试/Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？.md"
+    },
+    {
+      "basename": "为什么要用SpringBoot",
+      "path": "面试/为什么要用SpringBoot.md"
+    },
+    {
+      "basename": "MyBatis 中比如 UserMapper.java 是接口，为什么没有实现类还能调用？",
+      "path": "面试/MyBatis 中比如 UserMapper.java 是接口，为什么没有实现类还能调用？.md"
+    },
+    {
+      "basename": "Mybatis中的设计模式",
+      "path": "面试/Mybatis中的设计模式.md"
+    },
+    {
+      "basename": "JDBC编程的步骤",
+      "path": "面试/JDBC编程的步骤.md"
+    },
+    {
+      "basename": "SqlSession",
+      "path": "面试/SqlSession.md"
+    },
+    {
+      "basename": "MyBatis的缓存机制",
+      "path": "面试/MyBatis的缓存机制.md"
+    },
+    {
+      "basename": "Spring 是怎么解决循环依赖的",
+      "path": "面试/Spring 是怎么解决循环依赖的.md"
+    },
+    {
+      "basename": "Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？",
+      "path": "面试/Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？.md"
+    },
+    {
+      "basename": "如何执行批量插入",
+      "path": "面试/如何执行批量插入.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？",
+      "path": "面试/Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？.md"
     },
     {
       "basename": "Mybatis是如何分页的，分页原理是什么",
@@ -35,10 +131,6 @@
     {
       "basename": "Spring事务实现方式",
       "path": "面试/Spring事务实现方式.md"
-    },
-    {
-      "basename": "事务的四要素",
-      "path": "面试/事务的四要素.md"
     },
     {
       "basename": "解释一下Spring Bean的生命周期",
@@ -93,10 +185,6 @@
       "path": "面试/事务的传播级别.md"
     },
     {
-      "basename": "Spring 是怎么解决循环依赖的",
-      "path": "面试/Spring 是怎么解决循环依赖的.md"
-    },
-    {
       "basename": "事务的隔离级别",
       "path": "面试/事务的隔离级别.md"
     },
@@ -111,94 +199,6 @@
     {
       "basename": "SpringMVC",
       "path": "面试/SpringMVC.md"
-    },
-    {
-      "basename": "Spring框架中都用到了哪些设计模式",
-      "path": "面试/Spring框架中都用到了哪些设计模式.md"
-    },
-    {
-      "basename": "Spring基于xml注入bean的几种方式",
-      "path": "面试/Spring基于xml注入bean的几种方式.md"
-    },
-    {
-      "basename": "Spring Bean的作用域",
-      "path": "面试/Spring Bean的作用域.md"
-    },
-    {
-      "basename": "Spring Bean的生命周期",
-      "path": "04-技术/Spring/Spring Bean的生命周期.md"
-    },
-    {
-      "basename": "说说你对Spring的IOC是怎么理解的？",
-      "path": "面试/说说你对Spring的IOC是怎么理解的？.md"
-    },
-    {
-      "basename": "AOP通知有几种",
-      "path": "面试/AOP通知有几种.md"
-    },
-    {
-      "basename": "AOP",
-      "path": "面试/AOP.md"
-    },
-    {
-      "basename": "Spring的优势",
-      "path": "面试/Spring的优势.md"
-    },
-    {
-      "basename": "SpringBoot启动时内部日志消除",
-      "path": "04-技术/SpringBoot/SpringBoot启动时内部日志消除.md"
-    },
-    {
-      "basename": "为什么使用Spring",
-      "path": "面试/为什么使用Spring.md"
-    },
-    {
-      "basename": "Spring配置方式",
-      "path": "面试/Spring配置方式.md"
-    },
-    {
-      "basename": "Autowired和Resource关键字的区别",
-      "path": "面试/Autowired和Resource关键字的区别.md"
-    },
-    {
-      "basename": "悲观锁和乐观锁",
-      "path": "面试/悲观锁和乐观锁.md"
-    },
-    {
-      "basename": "线程池的拒绝策略有哪些",
-      "path": "面试/线程池的拒绝策略有哪些.md"
-    },
-    {
-      "basename": "什么是Callable和Future",
-      "path": "面试/什么是Callable和Future.md"
-    },
-    {
-      "basename": "notify()和notifyAll()有什么区别",
-      "path": "面试/notify()和notifyAll()有什么区别.md"
-    },
-    {
-      "basename": "线程间是如何通信的",
-      "path": "面试/线程间是如何通信的.md"
-    },
-    {
-      "basename": "生产消费模型中竞争到锁之后判断状态用if和while的区别",
-      "path": "面试/生产消费模型中竞争到锁之后判断状态用if和while的区别.md"
-    },
-    {
-      "basename": "什么是Semaphore",
-      "path": "面试/什么是Semaphore.md"
-    },
-    {
-      "basename": "CyclicBarrier和CountDownLatch的区别",
-      "path": "面试/CyclicBarrier和CountDownLatch的区别.md"
-    },
-    {
-      "basename": "加载过程",
-      "path": "面试/加载过程.md"
-    },
-    {
-      "basename": "ThreadLocal原理",
-      "path": "99-Attachment/ThreadLocal原理.png"
     }
   ],
   "omittedPaths": [],

@@ -1730,6 +1730,7 @@ MyBatis
 MessageSourceAware
 MockMvc
 Mutual
+Mapper
 maven
 mvn
 moment
@@ -2052,6 +2053,7 @@ DAO
 DTO
 DBMS
 Dirty
+Discriminator
 xml
 xc
 xe
@@ -3883,6 +3885,7 @@ ApplicationEventPublisherAware
 ApplicationContext
 ApplicationContextAwareProcessor
 Atomikos
+Auto
 LSP
 List
 LocalHistory
@@ -4052,6 +4055,8 @@ LN
 LSJ
 LRid
 Lombok
+Loading
+Log
 renwu
 rename
 richeng
@@ -5400,6 +5405,7 @@ BeanClassLoaderAware
 BeanFactoryAware
 BeanFactory
 BeanPostProcessors
+Binlog
 Solid
 Sublime
 SublimeREPL
@@ -5615,6 +5621,7 @@ Segments
 Singleton
 SpotBugs
 Session
+SqlSession
 homewp
 html
 help
