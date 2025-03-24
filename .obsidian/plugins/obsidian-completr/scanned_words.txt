@@ -987,6 +987,8 @@ corePoolSize
 controller
 createBeanInstance
 close
+char
+col
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1143,6 +1145,7 @@ oma
 oP
 oQ
 ocD
+orders
 preview
 pom
 properties
@@ -1913,6 +1916,7 @@ mF
 mN
 maximumPoolSize
 monitor
+memory
 DskipTests
 DdefaultValueOfSkip
 DD
@@ -2541,6 +2545,7 @@ fgggff
 fI
 flowchart
 finishBeanFactoryInitialization
+fixed
 defaultValueOfSkip
 diff
 date
@@ -4062,6 +4067,7 @@ LRid
 Lombok
 Loading
 Log
+Lost
 renwu
 rename
 richeng
@@ -4407,6 +4413,7 @@ vQz
 vz
 vD
 vo
+varchar
 Java
 JSON
 JC
@@ -5798,6 +5805,7 @@ hBX
 hu
 hY
 hK
+hello
 Text
 TODO
 Theme
@@ -7645,6 +7653,7 @@ Initialization
 InstantiationAwareBeanPostProcessor
 InitializingBean
 Interfaces
+INTO
 Git
 GitGutter
 Gtrl
@@ -8261,6 +8270,7 @@ Vt
 Vlzf
 View
 VisualVM
+VALUES
 XXX
 Xn
 XID

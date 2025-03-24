@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "什么是内联接、左外联接、右外联接？",
-      "path": "面试/什么是内联接、左外联接、右外联接？.md"
-    },
-    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "悲观锁和乐观锁",
+      "path": "面试/悲观锁和乐观锁.md"
+    },
+    {
+      "basename": "什么是MVCC",
+      "path": "面试/什么是MVCC.md"
+    },
+    {
+      "basename": "MySQL索引类型有哪些",
+      "path": "面试/MySQL索引类型有哪些.md"
+    },
+    {
+      "basename": "索引是什么",
+      "path": "面试/索引是什么.md"
+    },
+    {
+      "basename": "为什么 SELECT COUNT 星 FROM table 在 InnoDB 比MyISAM 慢？",
+      "path": "面试/为什么 SELECT COUNT 星 FROM table 在 InnoDB 比MyISAM 慢？.md"
+    },
+    {
+      "basename": "MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？",
+      "path": "面试/MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？.md"
+    },
+    {
+      "basename": "int(11) 中的 11 代表什么涵义？",
+      "path": "面试/int(11) 中的 11 代表什么涵义？.md"
+    },
+    {
+      "basename": "索引有什么优缺点",
+      "path": "面试/索引有什么优缺点.md"
+    },
+    {
+      "basename": "MySQL中一条查询SQL是如何执行的",
+      "path": "面试/MySQL中一条查询SQL是如何执行的.md"
+    },
+    {
+      "basename": "分库分表之后，id主键如何处理",
+      "path": "面试/分库分表之后，id主键如何处理.md"
+    },
+    {
+      "basename": "事务隔离级别有哪些？MySQL的默认隔离级别是？",
+      "path": "面试/事务隔离级别有哪些？MySQL的默认隔离级别是？.md"
+    },
+    {
+      "basename": "并发事务带来哪些问题？",
+      "path": "面试/并发事务带来哪些问题？.md"
+    },
+    {
+      "basename": "数据库的事务",
+      "path": "面试/数据库的事务.md"
+    },
+    {
+      "basename": "什么是内联接、左外联接、右外联接？",
+      "path": "面试/什么是内联接、左外联接、右外联接？.md"
     },
     {
       "basename": "什么是视图",
@@ -27,14 +79,6 @@
     {
       "basename": "更多的优化手段",
       "path": "面试/更多的优化手段.md"
-    },
-    {
-      "basename": "索引是什么",
-      "path": "面试/索引是什么.md"
-    },
-    {
-      "basename": "数据库的事务",
-      "path": "面试/数据库的事务.md"
     },
     {
       "basename": "说说InnoDB与MyISAM的区别",
@@ -155,50 +199,6 @@
     {
       "basename": "事务注解的本质是什么",
       "path": "面试/事务注解的本质是什么.md"
-    },
-    {
-      "basename": "ThreadLocal原理",
-      "path": "面试/ThreadLocal原理.md"
-    },
-    {
-      "basename": "Spring事务实现方式",
-      "path": "面试/Spring事务实现方式.md"
-    },
-    {
-      "basename": "解释一下Spring Bean的生命周期",
-      "path": "面试/解释一下Spring Bean的生命周期.md"
-    },
-    {
-      "basename": "阻塞队列及实现原理和应用",
-      "path": "面试/阻塞队列及实现原理和应用.md"
-    },
-    {
-      "basename": "对于 synchronized 关键字的了解",
-      "path": "面试/对于 synchronized 关键字的了解.md"
-    },
-    {
-      "basename": "常用的线程池有哪些",
-      "path": "面试/常用的线程池有哪些.md"
-    },
-    {
-      "basename": "Java线程池中队列常用类型有哪些？",
-      "path": "面试/Java线程池中队列常用类型有哪些？.md"
-    },
-    {
-      "basename": "线程池原理及核心参数",
-      "path": "面试/线程池原理及核心参数.md"
-    },
-    {
-      "basename": "什么是AQS",
-      "path": "面试/什么是AQS.md"
-    },
-    {
-      "basename": "synchronized和ReentrantLock的区别",
-      "path": "面试/synchronized和ReentrantLock的区别.md"
-    },
-    {
-      "basename": "如何避免死锁",
-      "path": "面试/如何避免死锁.md"
     }
   ],
   "omittedPaths": [],
