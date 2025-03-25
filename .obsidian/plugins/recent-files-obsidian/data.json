@@ -5,20 +5,124 @@
       "path": "面试/面试.md"
     },
     {
-      "basename": "悲观锁和乐观锁",
-      "path": "面试/悲观锁和乐观锁.md"
+      "basename": "MQ如何实现高可用的",
+      "path": "面试/MQ如何实现高可用的.md"
     },
     {
-      "basename": "什么是MVCC",
-      "path": "面试/什么是MVCC.md"
+      "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
+      "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
+    },
+    {
+      "basename": "MQ的优缺点",
+      "path": "面试/MQ的优缺点.md"
+    },
+    {
+      "basename": "为什么要用MQ",
+      "path": "面试/为什么要用MQ.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "04-技术/消息队列/MQ.md"
+    },
+    {
+      "basename": "消息队列",
+      "path": "04-技术/消息队列/消息队列.md"
+    },
+    {
+      "basename": "线程间是如何通信的",
+      "path": "面试/线程间是如何通信的.md"
+    },
+    {
+      "basename": "列举一些Nginx的特性",
+      "path": "面试/列举一些Nginx的特性.md"
+    },
+    {
+      "basename": "请解释Nginx服务器上的Master和Worker进程分别是什么？",
+      "path": "面试/请解释Nginx服务器上的Master和Worker进程分别是什么？.md"
+    },
+    {
+      "basename": "在Nginx中，如何使用未定义的服务器名称来阻止处理请求？",
+      "path": "面试/在Nginx中，如何使用未定义的服务器名称来阻止处理请求？.md"
+    },
+    {
+      "basename": "Nginx是如何处理一个HTTP请求的呢？",
+      "path": "面试/Nginx是如何处理一个HTTP请求的呢？.md"
+    },
+    {
+      "basename": "简述一下什么是Nginx，它有什么优势和功能？",
+      "path": "面试/简述一下什么是Nginx，它有什么优势和功能？.md"
+    },
+    {
+      "basename": "Feign和Ribbon",
+      "path": "面试/Feign和Ribbon.md"
+    },
+    {
+      "basename": "eureka自我保护机制是什么？",
+      "path": "面试/eureka自我保护机制是什么？.md"
+    },
+    {
+      "basename": "RPC的原理",
+      "path": "面试/RPC的原理.md"
+    },
+    {
+      "basename": "什么是Hystrix",
+      "path": "面试/什么是Hystrix.md"
+    },
+    {
+      "basename": "Eureka和zookeeper都可以提供服务注册与发现的功能，请说说两个的区别？",
+      "path": "面试/Eureka和zookeeper都可以提供服务注册与发现的功能，请说说两个的区别？.md"
+    },
+    {
+      "basename": "什么是服务熔断，什么是服务降级",
+      "path": "面试/什么是服务熔断，什么是服务降级.md"
+    },
+    {
+      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
+      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
+    },
+    {
+      "basename": "MySQL如何做到高可用",
+      "path": "面试/MySQL如何做到高可用.md"
+    },
+    {
+      "basename": "主键与索引有什么区别",
+      "path": "面试/主键与索引有什么区别.md"
+    },
+    {
+      "basename": "索引是什么",
+      "path": "面试/索引是什么.md"
     },
     {
       "basename": "MySQL索引类型有哪些",
       "path": "面试/MySQL索引类型有哪些.md"
     },
     {
-      "basename": "索引是什么",
-      "path": "面试/索引是什么.md"
+      "basename": "什么是锁升级",
+      "path": "面试/什么是锁升级.md"
+    },
+    {
+      "basename": "使用MySQL的索引需要注意什么",
+      "path": "面试/使用MySQL的索引需要注意什么.md"
+    },
+    {
+      "basename": "怎样避免死锁",
+      "path": "面试/怎样避免死锁.md"
+    },
+    {
+      "basename": "说说MySQL的锁",
+      "path": "面试/说说MySQL的锁.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "悲观锁和乐观锁",
+      "path": "面试/悲观锁和乐观锁.md"
+    },
+    {
+      "basename": "什么是MVCC",
+      "path": "面试/什么是MVCC.md"
     },
     {
       "basename": "为什么 SELECT COUNT 星 FROM table 在 InnoDB 比MyISAM 慢？",
@@ -95,110 +199,6 @@
     {
       "basename": "数据库的三范式",
       "path": "面试/数据库的三范式.md"
-    },
-    {
-      "basename": "事务的四要素",
-      "path": "面试/事务的四要素.md"
-    },
-    {
-      "basename": "Spring Boot 的核心配置文件有哪几个？它们的区别是什么？",
-      "path": "面试/Spring Boot 的核心配置文件有哪几个？它们的区别是什么？.md"
-    },
-    {
-      "basename": "如何理解 Spring Boot 配置加载顺序？",
-      "path": "面试/如何理解 Spring Boot 配置加载顺序？.md"
-    },
-    {
-      "basename": "SpringBoot 实现热部署有哪几种方式？",
-      "path": "面试/SpringBoot 实现热部署有哪几种方式？.md"
-    },
-    {
-      "basename": "如何使用Spring Boot实现异常处理？",
-      "path": "面试/如何使用Spring Boot实现异常处理？.md"
-    },
-    {
-      "basename": "Spring Boot中的监视器是什么？",
-      "path": "面试/Spring Boot中的监视器是什么？.md"
-    },
-    {
-      "basename": "如何在Spring Boot启动的时候运行一些特定的代码？",
-      "path": "面试/如何在Spring Boot启动的时候运行一些特定的代码？.md"
-    },
-    {
-      "basename": "如何理解 Spring Boot 中的 Starters？",
-      "path": "面试/如何理解 Spring Boot 中的 Starters？.md"
-    },
-    {
-      "basename": "运行SpringBoot的几种方式",
-      "path": "面试/运行SpringBoot的几种方式.md"
-    },
-    {
-      "basename": "Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？",
-      "path": "面试/Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？.md"
-    },
-    {
-      "basename": "为什么要用SpringBoot",
-      "path": "面试/为什么要用SpringBoot.md"
-    },
-    {
-      "basename": "MyBatis 中比如 UserMapper.java 是接口，为什么没有实现类还能调用？",
-      "path": "面试/MyBatis 中比如 UserMapper.java 是接口，为什么没有实现类还能调用？.md"
-    },
-    {
-      "basename": "Mybatis中的设计模式",
-      "path": "面试/Mybatis中的设计模式.md"
-    },
-    {
-      "basename": "JDBC编程的步骤",
-      "path": "面试/JDBC编程的步骤.md"
-    },
-    {
-      "basename": "SqlSession",
-      "path": "面试/SqlSession.md"
-    },
-    {
-      "basename": "MyBatis的缓存机制",
-      "path": "面试/MyBatis的缓存机制.md"
-    },
-    {
-      "basename": "Spring 是怎么解决循环依赖的",
-      "path": "面试/Spring 是怎么解决循环依赖的.md"
-    },
-    {
-      "basename": "Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？",
-      "path": "面试/Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？.md"
-    },
-    {
-      "basename": "如何执行批量插入",
-      "path": "面试/如何执行批量插入.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？",
-      "path": "面试/Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？.md"
-    },
-    {
-      "basename": "Mybatis是如何分页的，分页原理是什么",
-      "path": "面试/Mybatis是如何分页的，分页原理是什么.md"
-    },
-    {
-      "basename": "当实体类中的属性名和表中的字段名不一样怎么办",
-      "path": "面试/当实体类中的属性名和表中的字段名不一样怎么办.md"
-    },
-    {
-      "basename": "井号括号和美元符括号的区别",
-      "path": "面试/井号括号和美元符括号的区别.md"
-    },
-    {
-      "basename": "MyBatis是什么，有啥优缺点",
-      "path": "面试/MyBatis是什么，有啥优缺点.md"
-    },
-    {
-      "basename": "事务注解的本质是什么",
-      "path": "面试/事务注解的本质是什么.md"
     }
   ],
   "omittedPaths": [],
