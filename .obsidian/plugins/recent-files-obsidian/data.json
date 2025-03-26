@@ -1,8 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "单例模式为啥要判断两次空",
+      "path": "面试/单例模式为啥要判断两次空.md"
+    },
+    {
+      "basename": "单例模式",
+      "path": "04-技术/设计模式/单例模式.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "说说 Redis 哈希槽的概念？",
+      "path": "面试/说说 Redis 哈希槽的概念？.md"
+    },
+    {
+      "basename": "说说你对Redis事务的理解",
+      "path": "面试/说说你对Redis事务的理解.md"
+    },
+    {
+      "basename": "怎么使用 Redis 实现消息队列？",
+      "path": "面试/怎么使用 Redis 实现消息队列？.md"
+    },
+    {
+      "basename": "Redis 持久化方式有哪些？以及有什么区别？",
+      "path": "面试/Redis 持久化方式有哪些？以及有什么区别？.md"
+    },
+    {
+      "basename": "Redis缓存刷新策略有哪些",
+      "path": "面试/Redis缓存刷新策略有哪些.md"
+    },
+    {
+      "basename": "说一下Redis有什么优缺点",
+      "path": "面试/说一下Redis有什么优缺点.md"
+    },
+    {
+      "basename": "Redis的pipeline",
+      "path": "面试/Redis的pipeline.md"
+    },
+    {
+      "basename": "Redis同步机制",
+      "path": "面试/Redis同步机制.md"
+    },
+    {
+      "basename": "说一下Redis的同步机制",
+      "path": "面试/说一下Redis的同步机制.md"
+    },
+    {
+      "basename": "Redis为啥需要把所有数据存在内存中",
+      "path": "面试/Redis为啥需要把所有数据存在内存中.md"
+    },
+    {
+      "basename": "说说Redis的线程模型",
+      "path": "面试/说说Redis的线程模型.md"
+    },
+    {
+      "basename": "Redis 单线程模型核心流程解析（基于文件事件处理器）",
+      "path": "面试/Redis 单线程模型核心流程解析（基于文件事件处理器）.md"
+    },
+    {
+      "basename": "为什么 Redis 单线程模型效率也能那么高？",
+      "path": "面试/为什么 Redis 单线程模型效率也能那么高？.md"
+    },
+    {
+      "basename": "为什么选择Redis而不是Memcache",
+      "path": "面试/为什么选择Redis而不是Memcache.md"
+    },
+    {
+      "basename": "什么是Redis",
+      "path": "面试/什么是Redis.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "使用Redis有哪些好处",
+      "path": "面试/使用Redis有哪些好处.md"
+    },
+    {
+      "basename": "为什么要使用缓存",
+      "path": "面试/为什么要使用缓存.md"
+    },
+    {
+      "basename": "如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？",
+      "path": "面试/如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？.md"
+    },
+    {
+      "basename": "MQ如何保证消息的顺序性",
+      "path": "面试/MQ如何保证消息的顺序性.md"
+    },
+    {
+      "basename": "RabbitMQ的消息顺序性",
+      "path": "面试/RabbitMQ的消息顺序性.md"
+    },
+    {
+      "basename": "异步刷盘下 RabbitMQ的ACK机制",
+      "path": "面试/异步刷盘下 RabbitMQ的ACK机制.md"
+    },
+    {
+      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
+      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
+    },
+    {
+      "basename": "Nacos的环境隔离",
+      "path": "04-技术/注册中心/Nacos的环境隔离.md"
+    },
+    {
+      "basename": "Nacos的分级模型",
+      "path": "04-技术/注册中心/Nacos的分级模型.md"
+    },
+    {
+      "basename": "SpringCloud",
+      "path": "04-技术/微服务/SpringCloud.md"
+    },
+    {
+      "basename": "单体架构",
+      "path": "04-技术/微服务/单体架构.md"
+    },
+    {
+      "basename": "微服务架构",
+      "path": "04-技术/微服务/微服务架构.md"
+    },
+    {
+      "basename": "消息队列",
+      "path": "04-技术/消息队列/消息队列.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "04-技术/消息队列/MQ.md"
+    },
+    {
+      "basename": "RabbitMQ",
+      "path": "04-技术/消息队列/RabbitMQ.md"
     },
     {
       "basename": "MQ如何实现高可用的",
@@ -19,14 +151,6 @@
     {
       "basename": "为什么要用MQ",
       "path": "面试/为什么要用MQ.md"
-    },
-    {
-      "basename": "MQ",
-      "path": "04-技术/消息队列/MQ.md"
-    },
-    {
-      "basename": "消息队列",
-      "path": "04-技术/消息队列/消息队列.md"
     },
     {
       "basename": "线程间是如何通信的",
@@ -75,130 +199,6 @@
     {
       "basename": "什么是服务熔断，什么是服务降级",
       "path": "面试/什么是服务熔断，什么是服务降级.md"
-    },
-    {
-      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
-      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
-    },
-    {
-      "basename": "MySQL如何做到高可用",
-      "path": "面试/MySQL如何做到高可用.md"
-    },
-    {
-      "basename": "主键与索引有什么区别",
-      "path": "面试/主键与索引有什么区别.md"
-    },
-    {
-      "basename": "索引是什么",
-      "path": "面试/索引是什么.md"
-    },
-    {
-      "basename": "MySQL索引类型有哪些",
-      "path": "面试/MySQL索引类型有哪些.md"
-    },
-    {
-      "basename": "什么是锁升级",
-      "path": "面试/什么是锁升级.md"
-    },
-    {
-      "basename": "使用MySQL的索引需要注意什么",
-      "path": "面试/使用MySQL的索引需要注意什么.md"
-    },
-    {
-      "basename": "怎样避免死锁",
-      "path": "面试/怎样避免死锁.md"
-    },
-    {
-      "basename": "说说MySQL的锁",
-      "path": "面试/说说MySQL的锁.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "悲观锁和乐观锁",
-      "path": "面试/悲观锁和乐观锁.md"
-    },
-    {
-      "basename": "什么是MVCC",
-      "path": "面试/什么是MVCC.md"
-    },
-    {
-      "basename": "为什么 SELECT COUNT 星 FROM table 在 InnoDB 比MyISAM 慢？",
-      "path": "面试/为什么 SELECT COUNT 星 FROM table 在 InnoDB 比MyISAM 慢？.md"
-    },
-    {
-      "basename": "MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？",
-      "path": "面试/MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？.md"
-    },
-    {
-      "basename": "int(11) 中的 11 代表什么涵义？",
-      "path": "面试/int(11) 中的 11 代表什么涵义？.md"
-    },
-    {
-      "basename": "索引有什么优缺点",
-      "path": "面试/索引有什么优缺点.md"
-    },
-    {
-      "basename": "MySQL中一条查询SQL是如何执行的",
-      "path": "面试/MySQL中一条查询SQL是如何执行的.md"
-    },
-    {
-      "basename": "分库分表之后，id主键如何处理",
-      "path": "面试/分库分表之后，id主键如何处理.md"
-    },
-    {
-      "basename": "事务隔离级别有哪些？MySQL的默认隔离级别是？",
-      "path": "面试/事务隔离级别有哪些？MySQL的默认隔离级别是？.md"
-    },
-    {
-      "basename": "并发事务带来哪些问题？",
-      "path": "面试/并发事务带来哪些问题？.md"
-    },
-    {
-      "basename": "数据库的事务",
-      "path": "面试/数据库的事务.md"
-    },
-    {
-      "basename": "什么是内联接、左外联接、右外联接？",
-      "path": "面试/什么是内联接、左外联接、右外联接？.md"
-    },
-    {
-      "basename": "什么是视图",
-      "path": "面试/什么是视图.md"
-    },
-    {
-      "basename": "简单说一说drop、delete与truncate的区别",
-      "path": "面试/简单说一说drop、delete与truncate的区别.md"
-    },
-    {
-      "basename": "in 和 exists",
-      "path": "面试/in 和 exists.md"
-    },
-    {
-      "basename": "SQL优化手段有哪些",
-      "path": "面试/SQL优化手段有哪些.md"
-    },
-    {
-      "basename": "更多的优化手段",
-      "path": "面试/更多的优化手段.md"
-    },
-    {
-      "basename": "说说InnoDB与MyISAM的区别",
-      "path": "面试/说说InnoDB与MyISAM的区别.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "MySQL的存储引擎有哪些",
-      "path": "面试/MySQL的存储引擎有哪些.md"
-    },
-    {
-      "basename": "数据库的三范式",
-      "path": "面试/数据库的三范式.md"
     }
   ],
   "omittedPaths": [],

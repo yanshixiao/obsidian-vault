@@ -360,6 +360,7 @@ aO
 atu
 acquire
 aop
+allocate
 tags
 test
 true
@@ -559,6 +560,9 @@ tC
 tuK
 tu
 take
+txSelect
+txRollback
+txCommit
 source
 skip
 surefire
@@ -781,6 +785,7 @@ spring
 starter
 spel
 secondary
+slots
 cssclass
 created
 configuration
@@ -991,6 +996,8 @@ createBeanInstance
 close
 char
 col
+cnofirm
+ctorInstance
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1536,6 +1543,7 @@ lUo
 lHfa
 logback
 left
+logN
 Maven
 MM
 Map
@@ -1739,6 +1747,8 @@ MockMvc
 Mutual
 Mapper
 Multi
+Mirrored
+MULTI
 maven
 mvn
 moment
@@ -2065,6 +2075,8 @@ Dirty
 Discriminator
 Dubbo
 DDoS
+DECR
+Double
 xml
 xc
 xe
@@ -2758,6 +2770,7 @@ dTq
 dCg
 doCreate
 doCreateBean
+deliveryMode
 build
 banner
 background
@@ -3084,6 +3097,7 @@ nj
 nwsssKKKkkk
 nK
 num
+nack
 YYYY
 YYYYMMDDHHmm
 YYYYMMDDHHmmss
@@ -4076,6 +4090,7 @@ Loading
 Log
 Lost
 Least
+Locking
 renwu
 rename
 richeng
@@ -4745,6 +4760,8 @@ Wait
 Worker
 Weighted
 WebSocket
+WATCH
+WRITABLE
 want
 with
 windows
@@ -4940,6 +4957,7 @@ ww
 wII
 wiB
 workQueue
+worker
 use
 uid
 user
@@ -5435,6 +5453,9 @@ BeanPostProcessors
 Binlog
 BEGIN
 BDB
+Bitmap
+BRPOP
+BSD
 Solid
 Sublime
 SublimeREPL
@@ -5656,6 +5677,11 @@ SpringCloud
 Spatial
 Snapshot
 SSL
+Single
+Set
+Stream
+Sentinel
+Socket
 homewp
 html
 help
@@ -6006,6 +6032,8 @@ TransactionAttribute
 TRANSACTION
 Tree
 TLS
+TTL
+TCP
 Editing
 Emmet
 Editting
@@ -6162,6 +6190,8 @@ EhCache
 EnvironmentAware
 EmbeddedValueResolverAware
 Exclusion
+EXEC
+Event
 ColorPicker
 Ctags
 CommandPalette
@@ -6355,6 +6385,13 @@ Composite
 Concurrency
 Control
 Connections
+Competing
+Consumers
+Consumer
+Confirms
+Cluster
+Cookie
+Checked
 NodeJS
 Note
 Nu
@@ -6679,6 +6716,8 @@ Prefix
 Purge
 PHP
 Plus
+Priority
+Publisher
 Ruby
 Realities
 RX
@@ -6868,6 +6907,10 @@ Rollback
 ROLLBACK
 Round
 Robin
+Requeue
+RPOP
+Redlock
+READABLE
 Haskell
 Highlighter
 History
@@ -7021,6 +7064,7 @@ Hibernate
 Header
 Hold
 HTTPS
+HyperLogLog
 Key
 KB
 KEY
@@ -7498,6 +7542,7 @@ FindBugs
 Failed
 FastCGI
 FPM
+Failure
 Icon
 IHDR
 IDATx
@@ -7695,6 +7740,7 @@ Inverted
 Intention
 Insert
 INC
+INCR
 Git
 GitGutter
 Gtrl
@@ -7844,6 +7890,7 @@ GROUP
 Grafana
 Graph
 Gzip
+Grouping
 Overview
 OPTIONS
 Obsidian
@@ -8316,6 +8363,7 @@ View
 VisualVM
 VALUES
 Version
+Value
 XXX
 Xn
 XID
@@ -8698,6 +8746,7 @@ QZMM
 Qm
 QvV
 Quarkus
+Queues
 ZR
 Zv
 ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY
