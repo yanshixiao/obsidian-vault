@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "RabbitMQ",
+      "path": "04-技术/消息队列/RabbitMQ.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "04-技术/消息队列/MQ.md"
+    },
+    {
       "basename": "单例模式为啥要判断两次空",
       "path": "面试/单例模式为啥要判断两次空.md"
     },
@@ -127,14 +135,6 @@
     {
       "basename": "消息队列",
       "path": "04-技术/消息队列/消息队列.md"
-    },
-    {
-      "basename": "MQ",
-      "path": "04-技术/消息队列/MQ.md"
-    },
-    {
-      "basename": "RabbitMQ",
-      "path": "04-技术/消息队列/RabbitMQ.md"
     },
     {
       "basename": "MQ如何实现高可用的",
