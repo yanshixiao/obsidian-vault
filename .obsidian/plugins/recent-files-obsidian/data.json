@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "为啥fork会阻塞",
+      "path": "面试/为啥fork会阻塞.md"
+    },
+    {
+      "basename": "为啥说不要用master去执行rdb和aof备份",
+      "path": "面试/为啥说不要用master去执行rdb和aof备份.md"
+    },
+    {
+      "basename": "Redis 常见性能问题和解决方案有哪些？",
+      "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "如果有大量的 key 需要设置同一时间过期，一般需要注意什么？",
+      "path": "面试/如果有大量的 key 需要设置同一时间过期，一般需要注意什么？.md"
+    },
+    {
+      "basename": "假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？",
+      "path": "面试/假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？.md"
+    },
+    {
+      "basename": "说说 Redis 哈希槽的概念？",
+      "path": "面试/说说 Redis 哈希槽的概念？.md"
+    },
+    {
+      "basename": "请解释Nginx服务器上的Master和Worker进程分别是什么？",
+      "path": "面试/请解释Nginx服务器上的Master和Worker进程分别是什么？.md"
+    },
+    {
+      "basename": "Redis 集群架构模式有哪几种？",
+      "path": "面试/Redis 集群架构模式有哪几种？.md"
+    },
+    {
+      "basename": "Redis Cluster 集群方案什么情况下会导致整个集群不可用？",
+      "path": "面试/Redis Cluster 集群方案什么情况下会导致整个集群不可用？.md"
+    },
+    {
+      "basename": "哨兵模式和cluster集群模式的选举",
+      "path": "面试/哨兵模式和cluster集群模式的选举.md"
+    },
+    {
+      "basename": "Redis同步机制",
+      "path": "面试/Redis同步机制.md"
+    },
+    {
+      "basename": "说一下Redis的同步机制",
+      "path": "面试/说一下Redis的同步机制.md"
+    },
+    {
+      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
+      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
+    },
+    {
+      "basename": "熟悉哪些 Redis 集群模式？",
+      "path": "面试/熟悉哪些 Redis 集群模式？.md"
+    },
+    {
+      "basename": "什么是 bigkey？会存在什么影响？",
+      "path": "面试/什么是 bigkey？会存在什么影响？.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
       "basename": "RabbitMQ",
       "path": "04-技术/消息队列/RabbitMQ.md"
     },
@@ -15,14 +83,6 @@
     {
       "basename": "单例模式",
       "path": "04-技术/设计模式/单例模式.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
-      "basename": "说说 Redis 哈希槽的概念？",
-      "path": "面试/说说 Redis 哈希槽的概念？.md"
     },
     {
       "basename": "说说你对Redis事务的理解",
@@ -49,14 +109,6 @@
       "path": "面试/Redis的pipeline.md"
     },
     {
-      "basename": "Redis同步机制",
-      "path": "面试/Redis同步机制.md"
-    },
-    {
-      "basename": "说一下Redis的同步机制",
-      "path": "面试/说一下Redis的同步机制.md"
-    },
-    {
       "basename": "Redis为啥需要把所有数据存在内存中",
       "path": "面试/Redis为啥需要把所有数据存在内存中.md"
     },
@@ -79,10 +131,6 @@
     {
       "basename": "什么是Redis",
       "path": "面试/什么是Redis.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
     },
     {
       "basename": "使用Redis有哪些好处",
@@ -151,54 +199,6 @@
     {
       "basename": "为什么要用MQ",
       "path": "面试/为什么要用MQ.md"
-    },
-    {
-      "basename": "线程间是如何通信的",
-      "path": "面试/线程间是如何通信的.md"
-    },
-    {
-      "basename": "列举一些Nginx的特性",
-      "path": "面试/列举一些Nginx的特性.md"
-    },
-    {
-      "basename": "请解释Nginx服务器上的Master和Worker进程分别是什么？",
-      "path": "面试/请解释Nginx服务器上的Master和Worker进程分别是什么？.md"
-    },
-    {
-      "basename": "在Nginx中，如何使用未定义的服务器名称来阻止处理请求？",
-      "path": "面试/在Nginx中，如何使用未定义的服务器名称来阻止处理请求？.md"
-    },
-    {
-      "basename": "Nginx是如何处理一个HTTP请求的呢？",
-      "path": "面试/Nginx是如何处理一个HTTP请求的呢？.md"
-    },
-    {
-      "basename": "简述一下什么是Nginx，它有什么优势和功能？",
-      "path": "面试/简述一下什么是Nginx，它有什么优势和功能？.md"
-    },
-    {
-      "basename": "Feign和Ribbon",
-      "path": "面试/Feign和Ribbon.md"
-    },
-    {
-      "basename": "eureka自我保护机制是什么？",
-      "path": "面试/eureka自我保护机制是什么？.md"
-    },
-    {
-      "basename": "RPC的原理",
-      "path": "面试/RPC的原理.md"
-    },
-    {
-      "basename": "什么是Hystrix",
-      "path": "面试/什么是Hystrix.md"
-    },
-    {
-      "basename": "Eureka和zookeeper都可以提供服务注册与发现的功能，请说说两个的区别？",
-      "path": "面试/Eureka和zookeeper都可以提供服务注册与发现的功能，请说说两个的区别？.md"
-    },
-    {
-      "basename": "什么是服务熔断，什么是服务降级",
-      "path": "面试/什么是服务熔断，什么是服务降级.md"
     }
   ],
   "omittedPaths": [],
