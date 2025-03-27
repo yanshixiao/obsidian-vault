@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "为啥fork会阻塞",
-      "path": "面试/为啥fork会阻塞.md"
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
+      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
+    },
+    {
+      "basename": "Redis的过期策略及内存淘汰机制",
+      "path": "面试/Redis的过期策略及内存淘汰机制.md"
+    },
+    {
+      "basename": "redis的数据类型，以及每种数据类型的使用场景",
+      "path": "面试/redis的数据类型，以及每种数据类型的使用场景.md"
+    },
+    {
+      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
+      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
+    },
+    {
+      "basename": "Redis同步机制",
+      "path": "面试/Redis同步机制.md"
+    },
+    {
+      "basename": "说一下Redis的同步机制",
+      "path": "面试/说一下Redis的同步机制.md"
     },
     {
       "basename": "为啥说不要用master去执行rdb和aof备份",
       "path": "面试/为啥说不要用master去执行rdb和aof备份.md"
     },
     {
-      "basename": "Redis 常见性能问题和解决方案有哪些？",
-      "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
+      "basename": "为啥fork会阻塞",
+      "path": "面试/为啥fork会阻塞.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
+      "basename": "Redis报内存不足怎么解决",
+      "path": "面试/Redis报内存不足怎么解决.md"
+    },
+    {
+      "basename": "Redis如何解决key冲突",
+      "path": "面试/Redis如何解决key冲突.md"
+    },
+    {
+      "basename": "怎么提高缓存命中率",
+      "path": "面试/怎么提高缓存命中率.md"
+    },
+    {
+      "basename": "一致性哈希和哈希槽",
+      "path": "面试/一致性哈希和哈希槽.md"
+    },
+    {
+      "basename": "分片缓存键名设计",
+      "path": "面试/分片缓存键名设计.md"
+    },
+    {
+      "basename": "并发读写脏数据问题示例及解释",
+      "path": "面试/并发读写脏数据问题示例及解释.md"
+    },
+    {
+      "basename": "缓存和数据库谁先更新呢",
+      "path": "面试/缓存和数据库谁先更新呢.md"
+    },
+    {
+      "basename": "缓存一致性",
+      "path": "04-技术/缓存/Redis/缓存一致性.md"
+    },
+    {
+      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
+      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
+    },
+    {
+      "basename": "Redis持久化原理",
+      "path": "04-技术/缓存/Redis/Redis持久化原理.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "什么是 bigkey？会存在什么影响？",
+      "path": "面试/什么是 bigkey？会存在什么影响？.md"
+    },
+    {
+      "basename": "Redis 常见性能问题和解决方案有哪些？",
+      "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
     },
     {
       "basename": "如果有大量的 key 需要设置同一时间过期，一般需要注意什么？",
@@ -45,24 +117,12 @@
       "path": "面试/哨兵模式和cluster集群模式的选举.md"
     },
     {
-      "basename": "Redis同步机制",
-      "path": "面试/Redis同步机制.md"
-    },
-    {
-      "basename": "说一下Redis的同步机制",
-      "path": "面试/说一下Redis的同步机制.md"
-    },
-    {
       "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
       "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
     },
     {
       "basename": "熟悉哪些 Redis 集群模式？",
       "path": "面试/熟悉哪些 Redis 集群模式？.md"
-    },
-    {
-      "basename": "什么是 bigkey？会存在什么影响？",
-      "path": "面试/什么是 bigkey？会存在什么影响？.md"
     },
     {
       "basename": "home",
@@ -139,66 +199,6 @@
     {
       "basename": "为什么要使用缓存",
       "path": "面试/为什么要使用缓存.md"
-    },
-    {
-      "basename": "如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？",
-      "path": "面试/如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？.md"
-    },
-    {
-      "basename": "MQ如何保证消息的顺序性",
-      "path": "面试/MQ如何保证消息的顺序性.md"
-    },
-    {
-      "basename": "RabbitMQ的消息顺序性",
-      "path": "面试/RabbitMQ的消息顺序性.md"
-    },
-    {
-      "basename": "异步刷盘下 RabbitMQ的ACK机制",
-      "path": "面试/异步刷盘下 RabbitMQ的ACK机制.md"
-    },
-    {
-      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
-      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
-    },
-    {
-      "basename": "Nacos的环境隔离",
-      "path": "04-技术/注册中心/Nacos的环境隔离.md"
-    },
-    {
-      "basename": "Nacos的分级模型",
-      "path": "04-技术/注册中心/Nacos的分级模型.md"
-    },
-    {
-      "basename": "SpringCloud",
-      "path": "04-技术/微服务/SpringCloud.md"
-    },
-    {
-      "basename": "单体架构",
-      "path": "04-技术/微服务/单体架构.md"
-    },
-    {
-      "basename": "微服务架构",
-      "path": "04-技术/微服务/微服务架构.md"
-    },
-    {
-      "basename": "消息队列",
-      "path": "04-技术/消息队列/消息队列.md"
-    },
-    {
-      "basename": "MQ如何实现高可用的",
-      "path": "面试/MQ如何实现高可用的.md"
-    },
-    {
-      "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
-      "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
-    },
-    {
-      "basename": "MQ的优缺点",
-      "path": "面试/MQ的优缺点.md"
-    },
-    {
-      "basename": "为什么要用MQ",
-      "path": "面试/为什么要用MQ.md"
     }
   ],
   "omittedPaths": [],

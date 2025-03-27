@@ -786,6 +786,7 @@ starter
 spel
 secondary
 slots
+shard
 cssclass
 created
 configuration
@@ -998,6 +999,7 @@ char
 col
 cnofirm
 ctorInstance
+comments
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1355,6 +1357,7 @@ postProcessBeforeInstantiation
 postProcessAfterInstantiation
 postProcessBeforeInitialization
 primary
+post
 live
 let
 last
@@ -1544,6 +1547,7 @@ lHfa
 logback
 left
 logN
+lfu
 Maven
 MM
 Map
@@ -1749,6 +1753,7 @@ Mapper
 Multi
 Mirrored
 MULTI
+MessagePack
 maven
 mvn
 moment
@@ -1931,6 +1936,7 @@ mN
 maximumPoolSize
 monitor
 memory
+maxmemory
 DskipTests
 DdefaultValueOfSkip
 DD
@@ -3919,6 +3925,7 @@ Auto
 Active
 Aborted
 AUTO
+Avro
 LSP
 List
 LocalHistory
@@ -4094,6 +4101,7 @@ Lost
 Least
 Locking
 Leader
+LFU
 renwu
 rename
 richeng
@@ -4766,6 +4774,7 @@ Weighted
 WebSocket
 WATCH
 WRITABLE
+Warming
 want
 with
 windows
@@ -5461,6 +5470,8 @@ Bitmap
 BRPOP
 BSD
 Big
+BigKey
+Buffers
 Solid
 Sublime
 SublimeREPL
@@ -5687,6 +5698,9 @@ Set
 Stream
 Sentinel
 Socket
+Slot
+Snappy
+SWAP
 homewp
 html
 help
@@ -6040,6 +6054,8 @@ TLS
 TTL
 TCP
 Tag
+Twemproxy
+THP
 Editing
 Emmet
 Editting
@@ -6198,6 +6214,7 @@ EmbeddedValueResolverAware
 Exclusion
 EXEC
 Event
+Exporter
 ColorPicker
 Ctags
 CommandPalette
@@ -6400,6 +6417,7 @@ Cookie
 Checked
 Cache
 Caffeine
+Codis
 NodeJS
 Note
 Nu
@@ -6729,6 +6747,8 @@ Publisher
 Partial
 Pool
 Pipeline
+Protocol
+Pages
 Ruby
 Realities
 RX
@@ -6925,6 +6945,7 @@ READABLE
 Replication
 Repl
 Raft
+RedisInsight
 Haskell
 Highlighter
 History
@@ -7080,6 +7101,8 @@ Hold
 HTTPS
 HyperLogLog
 Hot
+Hashing
+Huge
 Key
 KB
 KEY
@@ -7235,6 +7258,7 @@ KH
 KQ
 Ke
 Kubernetes
+Ketama
 javascript
 json
 jpg
@@ -7400,6 +7424,7 @@ jR
 jXXX
 joinPoint
 js
+jemalloc
 File
 FileDiffs
 Fm
@@ -7757,6 +7782,7 @@ Intention
 Insert
 INC
 INCR
+IntSet
 Git
 GitGutter
 Gtrl
@@ -8909,4 +8935,5 @@ ZT
 ZK
 ZqM
 Zy
+ZSet
 öd
