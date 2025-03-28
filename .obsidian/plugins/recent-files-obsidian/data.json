@@ -5,8 +5,68 @@
       "path": "面试/面试.md"
     },
     {
+      "basename": "观察者模式",
+      "path": "面试/观察者模式.md"
+    },
+    {
+      "basename": "深拷贝和浅拷贝",
+      "path": "面试/深拷贝和浅拷贝.md"
+    },
+    {
+      "basename": "什么是适配器模式",
+      "path": "面试/什么是适配器模式.md"
+    },
+    {
+      "basename": "适配器模式",
+      "path": "04-技术/设计模式/适配器模式.md"
+    },
+    {
+      "basename": "装饰器模式是什么",
+      "path": "面试/装饰器模式是什么.md"
+    },
+    {
+      "basename": "责任链模式",
+      "path": "面试/责任链模式.md"
+    },
+    {
+      "basename": "策略模式",
+      "path": "面试/策略模式.md"
+    },
+    {
+      "basename": "享元模式",
+      "path": "面试/享元模式.md"
+    },
+    {
+      "basename": "说说工厂模式",
+      "path": "面试/说说工厂模式.md"
+    },
+    {
+      "basename": "模板方法模式",
+      "path": "面试/模板方法模式.md"
+    },
+    {
+      "basename": "代理模式和装饰器模式有什么区别",
+      "path": "面试/代理模式和装饰器模式有什么区别.md"
+    },
+    {
+      "basename": "说说什么是代理模式",
+      "path": "面试/说说什么是代理模式.md"
+    },
+    {
+      "basename": "BeanFactory和FactoryBean",
+      "path": "面试/BeanFactory和FactoryBean.md"
+    },
+    {
+      "basename": "说说什么是单例模式",
+      "path": "面试/说说什么是单例模式.md"
+    },
+    {
       "basename": "单例模式",
       "path": "04-技术/设计模式/单例模式.md"
+    },
+    {
+      "basename": "分布式幂等性如何设计",
+      "path": "面试/分布式幂等性如何设计.md"
     },
     {
       "basename": "说说你对Redis事务的理解",
@@ -93,10 +153,6 @@
       "path": "面试/说说你对分布式事务的了解.md"
     },
     {
-      "basename": "分布式幂等性如何设计",
-      "path": "面试/分布式幂等性如何设计.md"
-    },
-    {
       "basename": "home",
       "path": "88-Template/home.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "怎么提高缓存命中率",
       "path": "面试/怎么提高缓存命中率.md"
-    },
-    {
-      "basename": "一致性哈希和哈希槽",
-      "path": "面试/一致性哈希和哈希槽.md"
-    },
-    {
-      "basename": "分片缓存键名设计",
-      "path": "面试/分片缓存键名设计.md"
-    },
-    {
-      "basename": "并发读写脏数据问题示例及解释",
-      "path": "面试/并发读写脏数据问题示例及解释.md"
-    },
-    {
-      "basename": "缓存和数据库谁先更新呢",
-      "path": "面试/缓存和数据库谁先更新呢.md"
-    },
-    {
-      "basename": "缓存一致性",
-      "path": "04-技术/缓存/Redis/缓存一致性.md"
-    },
-    {
-      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
-      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
-    },
-    {
-      "basename": "Redis持久化原理",
-      "path": "04-技术/缓存/Redis/Redis持久化原理.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
-    },
-    {
-      "basename": "Redis 常见性能问题和解决方案有哪些？",
-      "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
-    },
-    {
-      "basename": "如果有大量的 key 需要设置同一时间过期，一般需要注意什么？",
-      "path": "面试/如果有大量的 key 需要设置同一时间过期，一般需要注意什么？.md"
-    },
-    {
-      "basename": "假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？",
-      "path": "面试/假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？.md"
-    },
-    {
-      "basename": "说说 Redis 哈希槽的概念？",
-      "path": "面试/说说 Redis 哈希槽的概念？.md"
-    },
-    {
-      "basename": "请解释Nginx服务器上的Master和Worker进程分别是什么？",
-      "path": "面试/请解释Nginx服务器上的Master和Worker进程分别是什么？.md"
-    },
-    {
-      "basename": "Redis 集群架构模式有哪几种？",
-      "path": "面试/Redis 集群架构模式有哪几种？.md"
     }
   ],
   "omittedPaths": [],

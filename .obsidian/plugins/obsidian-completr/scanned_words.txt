@@ -171,6 +171,7 @@ Ug
 URL
 Uncommitted
 Unique
+UUID
 alias
 add
 ad
@@ -787,6 +788,7 @@ spel
 secondary
 slots
 shard
+shallowCopy
 cssclass
 created
 configuration
@@ -2084,6 +2086,7 @@ DDoS
 DECR
 Double
 Diskless
+Decorator
 xml
 xc
 xe
@@ -2778,6 +2781,7 @@ dCg
 doCreate
 doCreateBean
 deliveryMode
+deepCopy
 build
 banner
 background
@@ -3930,6 +3934,8 @@ Avro
 Apache
 ACK
 Asynchronous
+Abstract
+Adapter
 LSP
 List
 LocalHistory
@@ -4107,6 +4113,7 @@ Locking
 Leader
 LFU
 Leaky
+Logging
 renwu
 rename
 richeng
@@ -4781,6 +4788,7 @@ WATCH
 WRITABLE
 Warming
 Window
+Wrapper
 want
 with
 windows
@@ -5711,6 +5719,9 @@ Snappy
 SWAP
 ServiceComb
 Sliding
+SETNX
+Static
+Simple
 homewp
 html
 help
@@ -6226,6 +6237,9 @@ Exclusion
 EXEC
 Event
 Exporter
+ElasticSearch
+Eager
+Enum
 ColorPicker
 Ctags
 CommandPalette
@@ -6430,6 +6444,8 @@ Cache
 Caffeine
 Codis
 Choreography
+Component
+Concrete
 NodeJS
 Note
 Nu
@@ -6761,6 +6777,9 @@ Pool
 Pipeline
 Protocol
 Pages
+Pattern
+Proxy
+Protection
 Ruby
 Realities
 RX
@@ -6959,6 +6978,10 @@ Repl
 Raft
 RedisInsight
 RateLimiter
+RedLock
+Remote
+RPC
+RMI
 Haskell
 Highlighter
 History
@@ -7600,6 +7623,8 @@ Failure
 FAIL
 Flush
 Fixed
+FactoryBean
+Factory
 Icon
 IHDR
 IDATx
@@ -7799,6 +7824,7 @@ Insert
 INC
 INCR
 IntSet
+Inner
 Git
 GitGutter
 Gtrl
@@ -7952,6 +7978,7 @@ Grouping
 Gossip
 Guava
 Gateway
+GUI
 Overview
 OPTIONS
 Obsidian
