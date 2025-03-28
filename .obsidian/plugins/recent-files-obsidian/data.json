@@ -5,6 +5,102 @@
       "path": "面试/面试.md"
     },
     {
+      "basename": "单例模式",
+      "path": "04-技术/设计模式/单例模式.md"
+    },
+    {
+      "basename": "说说你对Redis事务的理解",
+      "path": "面试/说说你对Redis事务的理解.md"
+    },
+    {
+      "basename": "什么是 bigkey？会存在什么影响？",
+      "path": "面试/什么是 bigkey？会存在什么影响？.md"
+    },
+    {
+      "basename": "如何提高系统的并发能力？",
+      "path": "面试/如何提高系统的并发能力？.md"
+    },
+    {
+      "basename": "数据库如何处理海量数据",
+      "path": "面试/数据库如何处理海量数据.md"
+    },
+    {
+      "basename": "你知道哪些限流算法",
+      "path": "面试/你知道哪些限流算法.md"
+    },
+    {
+      "basename": "什么是计数器（固定窗口）算法",
+      "path": "面试/什么是计数器（固定窗口）算法.md"
+    },
+    {
+      "basename": "什么是令牌桶算法",
+      "path": "面试/什么是令牌桶算法.md"
+    },
+    {
+      "basename": "什么是漏桶算法",
+      "path": "面试/什么是漏桶算法.md"
+    },
+    {
+      "basename": "什么是滑动窗口算法",
+      "path": "面试/什么是滑动窗口算法.md"
+    },
+    {
+      "basename": "常见负载均衡算法有哪些",
+      "path": "面试/常见负载均衡算法有哪些.md"
+    },
+    {
+      "basename": "幂等解决方案有哪些",
+      "path": "面试/幂等解决方案有哪些.md"
+    },
+    {
+      "basename": "分布式id生成有几种方案",
+      "path": "面试/分布式id生成有几种方案.md"
+    },
+    {
+      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
+      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
+    },
+    {
+      "basename": "说说Saga事务模型",
+      "path": "面试/说说Saga事务模型.md"
+    },
+    {
+      "basename": "用消息队列怎么实现",
+      "path": "面试/用消息队列怎么实现.md"
+    },
+    {
+      "basename": "什么是TCC",
+      "path": "面试/什么是TCC.md"
+    },
+    {
+      "basename": "什么是补偿事务",
+      "path": "面试/什么是补偿事务.md"
+    },
+    {
+      "basename": "什么是三阶段提交",
+      "path": "面试/什么是三阶段提交.md"
+    },
+    {
+      "basename": "什么是二阶段提交",
+      "path": "面试/什么是二阶段提交.md"
+    },
+    {
+      "basename": "你知道哪些分布式事务解决方案",
+      "path": "面试/你知道哪些分布式事务解决方案.md"
+    },
+    {
+      "basename": "说说你对分布式事务的了解",
+      "path": "面试/说说你对分布式事务的了解.md"
+    },
+    {
+      "basename": "分布式幂等性如何设计",
+      "path": "面试/分布式幂等性如何设计.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
       "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
       "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
     },
@@ -81,10 +177,6 @@
       "path": "04-技术/缓存/缓存.md"
     },
     {
-      "basename": "什么是 bigkey？会存在什么影响？",
-      "path": "面试/什么是 bigkey？会存在什么影响？.md"
-    },
-    {
       "basename": "Redis 常见性能问题和解决方案有哪些？",
       "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
     },
@@ -107,98 +199,6 @@
     {
       "basename": "Redis 集群架构模式有哪几种？",
       "path": "面试/Redis 集群架构模式有哪几种？.md"
-    },
-    {
-      "basename": "Redis Cluster 集群方案什么情况下会导致整个集群不可用？",
-      "path": "面试/Redis Cluster 集群方案什么情况下会导致整个集群不可用？.md"
-    },
-    {
-      "basename": "哨兵模式和cluster集群模式的选举",
-      "path": "面试/哨兵模式和cluster集群模式的选举.md"
-    },
-    {
-      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
-      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
-    },
-    {
-      "basename": "熟悉哪些 Redis 集群模式？",
-      "path": "面试/熟悉哪些 Redis 集群模式？.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "RabbitMQ",
-      "path": "04-技术/消息队列/RabbitMQ.md"
-    },
-    {
-      "basename": "MQ",
-      "path": "04-技术/消息队列/MQ.md"
-    },
-    {
-      "basename": "单例模式为啥要判断两次空",
-      "path": "面试/单例模式为啥要判断两次空.md"
-    },
-    {
-      "basename": "单例模式",
-      "path": "04-技术/设计模式/单例模式.md"
-    },
-    {
-      "basename": "说说你对Redis事务的理解",
-      "path": "面试/说说你对Redis事务的理解.md"
-    },
-    {
-      "basename": "怎么使用 Redis 实现消息队列？",
-      "path": "面试/怎么使用 Redis 实现消息队列？.md"
-    },
-    {
-      "basename": "Redis 持久化方式有哪些？以及有什么区别？",
-      "path": "面试/Redis 持久化方式有哪些？以及有什么区别？.md"
-    },
-    {
-      "basename": "Redis缓存刷新策略有哪些",
-      "path": "面试/Redis缓存刷新策略有哪些.md"
-    },
-    {
-      "basename": "说一下Redis有什么优缺点",
-      "path": "面试/说一下Redis有什么优缺点.md"
-    },
-    {
-      "basename": "Redis的pipeline",
-      "path": "面试/Redis的pipeline.md"
-    },
-    {
-      "basename": "Redis为啥需要把所有数据存在内存中",
-      "path": "面试/Redis为啥需要把所有数据存在内存中.md"
-    },
-    {
-      "basename": "说说Redis的线程模型",
-      "path": "面试/说说Redis的线程模型.md"
-    },
-    {
-      "basename": "Redis 单线程模型核心流程解析（基于文件事件处理器）",
-      "path": "面试/Redis 单线程模型核心流程解析（基于文件事件处理器）.md"
-    },
-    {
-      "basename": "为什么 Redis 单线程模型效率也能那么高？",
-      "path": "面试/为什么 Redis 单线程模型效率也能那么高？.md"
-    },
-    {
-      "basename": "为什么选择Redis而不是Memcache",
-      "path": "面试/为什么选择Redis而不是Memcache.md"
-    },
-    {
-      "basename": "什么是Redis",
-      "path": "面试/什么是Redis.md"
-    },
-    {
-      "basename": "使用Redis有哪些好处",
-      "path": "面试/使用Redis有哪些好处.md"
-    },
-    {
-      "basename": "为什么要使用缓存",
-      "path": "面试/为什么要使用缓存.md"
     }
   ],
   "omittedPaths": [],
