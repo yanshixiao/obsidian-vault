@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "谈谈你对段合并的策略思想的认识",
+      "path": "面试/谈谈你对段合并的策略思想的认识.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "说说分段存储的思想",
+      "path": "面试/说说分段存储的思想.md"
+    },
+    {
+      "basename": "ElasticSearch 查询优化手段有哪些？",
+      "path": "面试/ElasticSearch 查询优化手段有哪些？.md"
+    },
+    {
+      "basename": "ElasticSearch 性能优化",
+      "path": "面试/ElasticSearch 性能优化.md"
+    },
+    {
+      "basename": "分段存储思想",
+      "path": "面试/分段存储思想.md"
+    },
+    {
+      "basename": "index和store属性",
+      "path": "面试/index和store属性.md"
+    },
+    {
+      "basename": "ElasticSearch中的分析器、分词器和过滤器是什么",
+      "path": "面试/ElasticSearch中的分析器、分词器和过滤器是什么.md"
+    },
+    {
+      "basename": "ElasticSearch中的分析器是什么？",
+      "path": "面试/ElasticSearch中的分析器是什么？.md"
+    },
+    {
+      "basename": "ElasticSearch中的副本是什么？",
+      "path": "面试/ElasticSearch中的副本是什么？.md"
+    },
+    {
+      "basename": "ElasticSearch中的分片是什么？",
+      "path": "面试/ElasticSearch中的分片是什么？.md"
+    },
+    {
+      "basename": "ElasticSearch中的集群、节点、索引、文档、类型是什么？",
+      "path": "面试/ElasticSearch中的集群、节点、索引、文档、类型是什么？.md"
+    },
+    {
+      "basename": "elasticsearch 索引数据多了怎么办，如何调优，部署？",
+      "path": "面试/elasticsearch 索引数据多了怎么办，如何调优，部署？.md"
+    },
+    {
+      "basename": "elasticsearch 是如何实现 master 选举的？",
+      "path": "面试/elasticsearch 是如何实现 master 选举的？.md"
+    },
+    {
+      "basename": "了解ElasticSearch 深翻页的问题及解决吗？",
+      "path": "面试/了解ElasticSearch 深翻页的问题及解决吗？.md"
+    },
+    {
+      "basename": "熟悉ElasticSearch 集群中搜索数据的过程吗？",
+      "path": "面试/熟悉ElasticSearch 集群中搜索数据的过程吗？.md"
+    },
+    {
+      "basename": "ElasticSearch集群搜索数据的过程",
+      "path": "面试/ElasticSearch集群搜索数据的过程.md"
+    },
+    {
+      "basename": "能说说ElasticSearch写索引的逻辑吗",
+      "path": "面试/能说说ElasticSearch写索引的逻辑吗.md"
+    },
+    {
+      "basename": "了解文本相似度TF-IDF吗",
+      "path": "面试/了解文本相似度TF-IDF吗.md"
+    },
+    {
+      "basename": "谈谈分词与倒排索引的原理",
+      "path": "面试/谈谈分词与倒排索引的原理.md"
+    },
+    {
+      "basename": "ES",
+      "path": "04-技术/ES/ES.md"
+    },
+    {
+      "basename": "基础类型",
+      "path": "基础类型.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
     },
     {
       "basename": "观察者模式",
@@ -111,94 +199,6 @@
     {
       "basename": "幂等解决方案有哪些",
       "path": "面试/幂等解决方案有哪些.md"
-    },
-    {
-      "basename": "分布式id生成有几种方案",
-      "path": "面试/分布式id生成有几种方案.md"
-    },
-    {
-      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
-      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
-    },
-    {
-      "basename": "说说Saga事务模型",
-      "path": "面试/说说Saga事务模型.md"
-    },
-    {
-      "basename": "用消息队列怎么实现",
-      "path": "面试/用消息队列怎么实现.md"
-    },
-    {
-      "basename": "什么是TCC",
-      "path": "面试/什么是TCC.md"
-    },
-    {
-      "basename": "什么是补偿事务",
-      "path": "面试/什么是补偿事务.md"
-    },
-    {
-      "basename": "什么是三阶段提交",
-      "path": "面试/什么是三阶段提交.md"
-    },
-    {
-      "basename": "什么是二阶段提交",
-      "path": "面试/什么是二阶段提交.md"
-    },
-    {
-      "basename": "你知道哪些分布式事务解决方案",
-      "path": "面试/你知道哪些分布式事务解决方案.md"
-    },
-    {
-      "basename": "说说你对分布式事务的了解",
-      "path": "面试/说说你对分布式事务的了解.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
-      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
-    },
-    {
-      "basename": "Redis的过期策略及内存淘汰机制",
-      "path": "面试/Redis的过期策略及内存淘汰机制.md"
-    },
-    {
-      "basename": "redis的数据类型，以及每种数据类型的使用场景",
-      "path": "面试/redis的数据类型，以及每种数据类型的使用场景.md"
-    },
-    {
-      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
-      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
-    },
-    {
-      "basename": "Redis同步机制",
-      "path": "面试/Redis同步机制.md"
-    },
-    {
-      "basename": "说一下Redis的同步机制",
-      "path": "面试/说一下Redis的同步机制.md"
-    },
-    {
-      "basename": "为啥说不要用master去执行rdb和aof备份",
-      "path": "面试/为啥说不要用master去执行rdb和aof备份.md"
-    },
-    {
-      "basename": "为啥fork会阻塞",
-      "path": "面试/为啥fork会阻塞.md"
-    },
-    {
-      "basename": "Redis报内存不足怎么解决",
-      "path": "面试/Redis报内存不足怎么解决.md"
-    },
-    {
-      "basename": "Redis如何解决key冲突",
-      "path": "面试/Redis如何解决key冲突.md"
-    },
-    {
-      "basename": "怎么提高缓存命中率",
-      "path": "面试/怎么提高缓存命中率.md"
     }
   ],
   "omittedPaths": [],

@@ -172,6 +172,8 @@ URL
 Uncommitted
 Unique
 UUID
+Unix
+Unassigned
 alias
 add
 ad
@@ -1360,6 +1362,7 @@ postProcessAfterInstantiation
 postProcessBeforeInitialization
 primary
 post
+per
 live
 let
 last
@@ -1756,6 +1759,9 @@ Multi
 Mirrored
 MULTI
 MessagePack
+Merge
+MapReduce
+Major
 maven
 mvn
 moment
@@ -2087,6 +2093,9 @@ DECR
 Double
 Diskless
 Decorator
+Delta
+DSL
+Discovery
 xml
 xc
 xe
@@ -2396,6 +2405,7 @@ eix
 eF
 eTQfru
 eO
+eligible
 failsafe
 false
 from
@@ -3549,6 +3559,7 @@ initializeBean
 invokeInitMethods
 inner
 intset
+inode
 kanban
 kanbanwp
 keys
@@ -3936,6 +3947,8 @@ ACK
 Asynchronous
 Abstract
 Adapter
+Async
+Amplification
 LSP
 List
 LocalHistory
@@ -4114,6 +4127,7 @@ Leader
 LFU
 Leaky
 Logging
+LSM
 renwu
 rename
 richeng
@@ -4306,6 +4320,7 @@ rsR
 release
 registerBeanPostProcessors
 right
+running
 vika
 var
 verb
@@ -4628,6 +4643,7 @@ JSR
 JMeter
 JOIN
 Jedis
+JBOD
 Which
 WakaTime
 Waypoint
@@ -4789,6 +4805,7 @@ WRITABLE
 Warming
 Window
 Wrapper
+Warm
 want
 with
 windows
@@ -5488,6 +5505,10 @@ BigKey
 Buffers
 Broker
 Bucket
+BERT
+Baidu
+Block
+Based
 Solid
 Sublime
 SublimeREPL
@@ -5722,6 +5743,16 @@ Sliding
 SETNX
 Static
 Simple
+Segmentation
+Sharding
+Structured
+Segmented
+Storage
+Scroll
+Search
+Shard
+Solr
+Size
 homewp
 html
 help
@@ -6078,6 +6109,11 @@ Tag
 Twemproxy
 THP
 Token
+Transformer
+Term
+Table
+Tiered
+Tier
 Editing
 Emmet
 Editting
@@ -6240,6 +6276,8 @@ Exporter
 ElasticSearch
 Eager
 Enum
+Encoding
+ElasticHQ
 ColorPicker
 Ctags
 CommandPalette
@@ -6446,6 +6484,8 @@ Codis
 Choreography
 Component
 Concrete
+CRF
+Compaction
 NodeJS
 Note
 Nu
@@ -6602,6 +6642,10 @@ Narayana
 NOT
 NULL
 Nginx
+NLP
+NodeX
+Nodex
+NFS
 Python
 Pretty
 PlainTasks
@@ -6780,6 +6824,12 @@ Pages
 Pattern
 Proxy
 Protection
+Posting
+Partitioning
+Pre
+Page
+Profile
+Primary
 Ruby
 Realities
 RX
@@ -6982,6 +7032,12 @@ RedLock
 Remote
 RPC
 RMI
+RNN
+Routing
+Red
+Replica
+Replicas
+Refresh
 Haskell
 Highlighter
 History
@@ -7140,6 +7196,9 @@ Hot
 Hashing
 Huge
 Half
+HMM
+HDFS
+HDD
 Key
 KB
 KEY
@@ -7625,6 +7684,9 @@ Flush
 Fixed
 FactoryBean
 Factory
+FAT
+Follower
+Fields
 Icon
 IHDR
 IDATx
@@ -7825,6 +7887,9 @@ INC
 INCR
 IntSet
 Inner
+IOPS
+Ingest
+InfluxDB
 Git
 GitGutter
 Gtrl
@@ -7979,6 +8044,7 @@ Gossip
 Guava
 Gateway
 GUI
+Google
 Overview
 OPTIONS
 Obsidian
@@ -8167,6 +8233,7 @@ Offset
 ODOWN
 Orchestration
 Orchestrator
+OOV
 quickAdd
 qwer
 quote
@@ -8456,6 +8523,7 @@ VisualVM
 VALUES
 Version
 Value
+Vote
 XXX
 Xn
 XID
@@ -8840,6 +8908,7 @@ Qm
 QvV
 Quarkus
 Queues
+Quorum
 ZR
 Zv
 ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY
@@ -8982,4 +9051,5 @@ ZK
 ZqM
 Zy
 ZSet
+Zen
 öd
