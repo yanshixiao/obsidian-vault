@@ -11,7 +11,7 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": true,
   "starred": true,
   "markdown-importer": false,
@@ -28,5 +28,5 @@
   "canvas": true,
   "bookmarks": true,
   "properties": false,
-  "webviewer": false
+  "webviewer": true
 }

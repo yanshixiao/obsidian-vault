@@ -72,7 +72,7 @@ try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
 在 `mybatis-config.xml` 中配置：
 ```xml
 <settings>
-    <!-- 默认值为 true，通常无需显式配置 -->
+    <!-- 默认值为 true，通常无需显式配置，但需映射文件显式启用-->
     <setting name="cacheEnabled" value="true"/>
 </settings>
 ```

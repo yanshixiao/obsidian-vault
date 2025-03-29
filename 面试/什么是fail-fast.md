@@ -61,9 +61,9 @@ final void checkForComodification() {
 
 可以发现，问题出现在于当modCount 和 expectedModCount 不相等时，就会抛出异常。那么什么是modCount ，什么是expectedModCount ，为什么remove操作会导致这两个变量不相等呢？
 3. 原因分析
-modCount是ArrayList中的一个成员变量，它表示集合实际被修改的次数，当ArrayList被创建时就存在了，初始值为0。
+**modCount**是ArrayList中的一个成员变量，它表示**集合实际被修改的次数**，当ArrayList被创建时就存在了，初始值为0。
 
-expectedModCount 是iterator中的一个成员变量，而iterator是ArrayList的一个内部类，当ArrayList调用iterator（）方法获取一个迭代器时，会创建一个iterator，并且将expectedModCount 初始化为modCount的值。只有该迭代器修改了集合，expectedModCount 才会修改。
+expectedModCount 是iterator中的一个成员变量，而iterator是ArrayList的一个内部类，当ArrayList调用iterator（）方法获取一个迭代器时，会创建一个iterator，**并且将expectedModCount 初始化为modCount的值。只有该迭代器修改了集合，expectedModCount 才会修改。**
 
 那么，接下来我们来分析，remove操作发生了什么？
 ```java

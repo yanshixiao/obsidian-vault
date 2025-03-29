@@ -26,10 +26,7 @@ ThreadLocal 的实现原理可以归纳为以下几点，结合了线程本地�
      3. 若未找到，调用 `initialValue()` 初始化值，并存入 `ThreadLocalMap`。
    - **`set(T value)` 方法**：
      1. 获取当前线程的 `ThreadLocalMap`。
-     2. 直接插入或更新键（当前 `ThreadLocal` 实例）对应的值。flowchart LRid1(Some text)
-
-Start --> Stop
-
+     2. 直接插入或更新键（当前 `ThreadLocal` 实例）对应的值。
    - **`remove()` 方法**：删除当前线程 `ThreadLocalMap` 中与该 `ThreadLocal` 关联的条目，避免内存泄漏。
 
 ### 3. **内存泄漏防护：弱引用与清理机制**
