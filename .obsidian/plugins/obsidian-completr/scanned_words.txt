@@ -182,6 +182,8 @@ UseSpining
 UTC
 Undertow
 UidGenerator
+Used
+USAGE
 alias
 add
 ad
@@ -1019,6 +1021,7 @@ comments
 config
 care
 cnosumer
+cli
 obsidianUIMode
 obsidianEditingMode
 open
@@ -2143,6 +2146,7 @@ DROP
 DATETIME
 Dead
 Demo
+DEL
 xml
 xc
 xe
@@ -3288,6 +3292,7 @@ Yh
 Yyw
 YI
 YAML
+Yes
 yyyy
 year
 yuanshuai
@@ -4019,6 +4024,8 @@ Admin
 Archive
 ASK
 Availability
+Approximated
+Abort
 LSP
 List
 LocalHistory
@@ -6035,6 +6042,7 @@ hu
 hY
 hK
 hello
+hotkeys
 Text
 TODO
 Theme
@@ -6237,6 +6245,8 @@ Third
 TRUNCATE
 Tinyid
 Time
+Timed
+Three
 Editing
 Emmet
 Editting
@@ -6411,6 +6421,8 @@ EXISTS
 EXPLAIN
 EDA
 Exchange
+Expiration
+Eviction
 ColorPicker
 Ctags
 CommandPalette
@@ -7003,6 +7015,8 @@ PONG
 PFAIL
 Percona
 Paxos
+Periodic
+Phase
 Ruby
 Realities
 RX
@@ -7886,6 +7900,7 @@ Free
 Finally
 Form
 Federated
+Frequently
 Icon
 IHDR
 IDATx
