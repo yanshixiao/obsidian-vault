@@ -1,8 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "RabbitMQ",
+      "path": "04-技术/消息队列MQ/RabbitMQ.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "04-技术/消息队列MQ/MQ.md"
+    },
+    {
+      "basename": "消息队列",
+      "path": "04-技术/消息队列MQ/消息队列.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "jdk1.7和1.8前后的HashMap，HashTable和ConcurrentHashMap的比较",
+      "path": "04-技术/基础/jdk1.7和1.8前后的HashMap，HashTable和ConcurrentHashMap的比较.md"
+    },
+    {
+      "basename": "HashMap求交集、并集、差集",
+      "path": "04-技术/基础/HashMap求交集、并集、差集.md"
+    },
+    {
+      "basename": "HashMap初始化大小",
+      "path": "04-技术/基础/HashMap初始化大小.md"
+    },
+    {
+      "basename": "guava中的Spiltter",
+      "path": "04-技术/基础/guava中的Spiltter.md"
+    },
+    {
+      "basename": "自定义注解",
+      "path": "04-技术/基础/自定义注解.md"
+    },
+    {
+      "basename": "Class.forName和ClassLoader.loadClass的区别",
+      "path": "04-技术/基础/Class.forName和ClassLoader.loadClass的区别.md"
+    },
+    {
+      "basename": "线程池之 ThreadPoolExecutor 使用 - 简书",
+      "path": "04-技术/基础/线程池之 ThreadPoolExecutor 使用 - 简书.md"
+    },
+    {
+      "basename": "Redis哨兵",
+      "path": "04-技术/缓存/Redis/Redis哨兵.md"
+    },
+    {
+      "basename": "缓存如何使用",
+      "path": "04-技术/缓存/缓存如何使用.md"
+    },
+    {
+      "basename": "Nacos的环境隔离",
+      "path": "04-技术/注册中心/Nacos的环境隔离.md"
+    },
+    {
+      "basename": "Nacos的分级模型",
+      "path": "04-技术/注册中心/Nacos的分级模型.md"
+    },
+    {
+      "basename": "ES 常见面试题",
+      "path": "04-技术/ES/ES 常见面试题.md"
+    },
+    {
+      "basename": "ES 1",
+      "path": "04-技术/ES/ES 1.md"
+    },
+    {
+      "basename": "ES",
+      "path": "04-技术/ES/ES.md"
+    },
+    {
+      "basename": "Mybatis",
+      "path": "04-技术/Mybatis/Mybatis.md"
+    },
+    {
+      "basename": "基础环境搭建",
+      "path": "04-技术/Mybatis/基础环境搭建.md"
+    },
+    {
+      "basename": "微信自动回复",
+      "path": "04-技术/Python/微信自动回复.md"
+    },
+    {
+      "basename": "技术文章收藏",
+      "path": "04-技术/技术文章收藏.md"
+    },
+    {
       "basename": "replication buffer和rep-backlog的区别",
       "path": "面试/replication buffer和rep-backlog的区别.md"
+    },
+    {
+      "basename": "CAP和BASE理论",
+      "path": "04-技术/分布式事务/CAP和BASE理论.md"
     },
     {
       "basename": "面试",
@@ -11,18 +103,6 @@
     {
       "basename": "ElasticSearch 性能优化",
       "path": "面试/ElasticSearch 性能优化.md"
-    },
-    {
-      "basename": "MQ",
-      "path": "04-技术/消息队列/MQ.md"
-    },
-    {
-      "basename": "RabbitMQ",
-      "path": "04-技术/消息队列/RabbitMQ.md"
-    },
-    {
-      "basename": "消息队列",
-      "path": "04-技术/消息队列/消息队列.md"
     },
     {
       "basename": "为什么要用MQ",
@@ -119,86 +199,6 @@
     {
       "basename": "什么是MVCC",
       "path": "面试/什么是MVCC.md"
-    },
-    {
-      "basename": "MySQL索引类型有哪些",
-      "path": "面试/MySQL索引类型有哪些.md"
-    },
-    {
-      "basename": "int(11) 中的 11 代表什么涵义？",
-      "path": "面试/int(11) 中的 11 代表什么涵义？.md"
-    },
-    {
-      "basename": "MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？",
-      "path": "面试/MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？.md"
-    },
-    {
-      "basename": "索引有什么优缺点",
-      "path": "面试/索引有什么优缺点.md"
-    },
-    {
-      "basename": "分库分表之后，id主键如何处理",
-      "path": "面试/分库分表之后，id主键如何处理.md"
-    },
-    {
-      "basename": "事务隔离级别有哪些？MySQL的默认隔离级别是？",
-      "path": "面试/事务隔离级别有哪些？MySQL的默认隔离级别是？.md"
-    },
-    {
-      "basename": "并发事务带来哪些问题？",
-      "path": "面试/并发事务带来哪些问题？.md"
-    },
-    {
-      "basename": "什么是内联接、左外联接、右外联接？",
-      "path": "面试/什么是内联接、左外联接、右外联接？.md"
-    },
-    {
-      "basename": "什么是视图",
-      "path": "面试/什么是视图.md"
-    },
-    {
-      "basename": "简单说一说drop、delete与truncate的区别",
-      "path": "面试/简单说一说drop、delete与truncate的区别.md"
-    },
-    {
-      "basename": "SQL优化手段有哪些",
-      "path": "面试/SQL优化手段有哪些.md"
-    },
-    {
-      "basename": "in 和 exists",
-      "path": "面试/in 和 exists.md"
-    },
-    {
-      "basename": "更多的优化手段",
-      "path": "面试/更多的优化手段.md"
-    },
-    {
-      "basename": "索引是什么",
-      "path": "面试/索引是什么.md"
-    },
-    {
-      "basename": "数据库的事务",
-      "path": "面试/数据库的事务.md"
-    },
-    {
-      "basename": "说说InnoDB与MyISAM的区别",
-      "path": "面试/说说InnoDB与MyISAM的区别.md"
-    },
-    {
-      "basename": "MySQL的存储引擎有哪些",
-      "path": "面试/MySQL的存储引擎有哪些.md"
-    },
-    {
-      "basename": "数据库的三范式",
-      "path": "面试/数据库的三范式.md"
-    },
-    {
-      "basename": "Spring Boot 的核心配置文件有哪几个？它们的区别是什么？",
-      "path": "面试/Spring Boot 的核心配置文件有哪几个？它们的区别是什么？.md"
-    },
-    {
-      "basename": "如何理解 Spring Boot 配置加载顺序？",
-      "path": "面试/如何理解 Spring Boot 配置加载顺序？.md"
     }
   ],
   "omittedPaths": [],

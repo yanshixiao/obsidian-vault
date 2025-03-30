@@ -374,6 +374,7 @@ atu
 acquire
 aop
 allocate
+address
 tags
 test
 true
@@ -578,6 +579,9 @@ txRollback
 txCommit
 try
 topic
+type
+tuling
+threadFactory
 source
 skip
 surefire
@@ -805,6 +809,9 @@ shard
 shallowCopy
 schema
 serverTimezone
+sex
+send
+sql
 cssclass
 created
 configuration
@@ -1022,6 +1029,9 @@ config
 care
 cnosumer
 cli
+city
+coding
+className
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1179,6 +1189,9 @@ oP
 oQ
 ocD
 orders
+others
+one
+orm
 preview
 pom
 properties
@@ -1383,6 +1396,8 @@ post
 per
 partition
 pull
+picture
+pre
 live
 let
 last
@@ -1574,6 +1589,7 @@ left
 logN
 lfu
 leader
+long
 Maven
 MM
 Map
@@ -1795,6 +1811,9 @@ MyCat
 MQTT
 MOVED
 MHA
+MALE
+Mybatis
+METHOD
 maven
 mvn
 moment
@@ -1979,6 +1998,8 @@ monitor
 memory
 maxmemory
 mybatis
+msg
+mapper
 DskipTests
 DdefaultValueOfSkip
 DD
@@ -2147,6 +2168,7 @@ DATETIME
 Dead
 Demo
 DEL
+Document
 xml
 xc
 xe
@@ -2458,6 +2480,8 @@ eTQfru
 eO
 eligible
 eviction
+ensure
+embed
 failsafe
 false
 from
@@ -2637,6 +2661,8 @@ flowchart
 finishBeanFactoryInitialization
 fixed
 follower
+friend
+friends
 defaultValueOfSkip
 diff
 date
@@ -2845,6 +2871,9 @@ doCreate
 doCreateBean
 deliveryMode
 deepCopy
+def
+dao
+dome
 build
 banner
 background
@@ -3020,6 +3049,9 @@ before
 based
 broker
 buffer
+bot
+bc
+birthday
 now
 newtitle
 null
@@ -3176,6 +3208,8 @@ nwsssKKKkkk
 nK
 num
 nack
+newFixedThreadPool
+newScheduledThreadPool
 YYYY
 YYYYMMDDHHmm
 YYYYMMDDHHmmss
@@ -3618,6 +3652,8 @@ invokeInitMethods
 inner
 intset
 inode
+import
+indexOf
 kanban
 kanbanwp
 keys
@@ -4026,6 +4062,8 @@ ASK
 Availability
 Approximated
 Abort
+APIkey
+ANNOTATION
 LSP
 List
 LocalHistory
@@ -4211,6 +4249,8 @@ Leaf
 LIMIT
 Live
 Letter
+LuLu
+LOCAL
 renwu
 rename
 richeng
@@ -4405,6 +4445,9 @@ registerBeanPostProcessors
 right
 running
 resources
+robot
+reply
+received
 vika
 var
 verb
@@ -4900,6 +4943,7 @@ Warming
 Window
 Wrapper
 Warm
+WeChat
 want
 with
 windows
@@ -5096,6 +5140,7 @@ wII
 wiB
 workQueue
 worker
+wxpy
 use
 uid
 user
@@ -5254,6 +5299,7 @@ uXS
 unchecked
 union
 useSSL
+unit
 getrandomImage
 git
 github
@@ -5410,6 +5456,7 @@ gj
 geA
 gk
 gRPC
+gt
 Banner
 Building
 Bracket
@@ -5613,6 +5660,7 @@ BCNF
 Boyce
 Blackhole
 Bus
+Bot
 Solid
 Sublime
 SublimeREPL
@@ -5875,6 +5923,8 @@ ShardingSphere
 STOMP
 Selector
 Smart
+ScheduledThreadPoolExecutor
+SOURCE
 homewp
 html
 help
@@ -6247,6 +6297,13 @@ Tinyid
 Time
 Timed
 Three
+True
+Tuling
+ThreadPoolExecutor
+TimeUnit
+ThreadFactory
+Target
+TYPE
 Editing
 Emmet
 Editting
@@ -6423,6 +6480,7 @@ EDA
 Exchange
 Expiration
 Eviction
+ElementType
 ColorPicker
 Ctags
 CommandPalette
@@ -6648,6 +6706,8 @@ Codd
 CSV
 Client
 Certification
+CLASS
+CONSTRUCTOR
 NodeJS
 Note
 Nu
@@ -6815,6 +6875,7 @@ Normal
 NDB
 NTP
 Number
+Netty
 Python
 Pretty
 PlainTasks
@@ -7017,6 +7078,8 @@ Percona
 Paxos
 Periodic
 Phase
+PARAMETER
+PACKAGE
 Ruby
 Realities
 RX
@@ -7236,6 +7299,10 @@ ResultSet
 Runner
 RabbtiMQ
 RDS
+Robot
+Retention
+RetentionPolicy
+RUNTIME
 Haskell
 Highlighter
 History
@@ -7405,6 +7472,7 @@ Heroku
 Health
 HEAP
 High
+HashTable
 Key
 KB
 KEY
@@ -7728,6 +7796,8 @@ joinPoint
 js
 jemalloc
 javac
+jdbc
+javadoc
 File
 FileDiffs
 Fm
@@ -7901,6 +7971,9 @@ Finally
 Form
 Federated
 Frequently
+FinalizableDelegatedExecutorService
+FIELD
+FFFFFFF
 Icon
 IHDR
 IDATx
@@ -8114,6 +8187,7 @@ IDE
 IntelliJ
 IDEA
 Info
+Inherited
 Git
 GitGutter
 Gtrl
@@ -8759,6 +8833,7 @@ Vote
 Vector
 Vitess
 VMware
+VARIABLE
 XXX
 Xn
 XID
