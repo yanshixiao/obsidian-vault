@@ -36,6 +36,11 @@ Spring Boot 的**核心注解是 `@SpringBootApplication`**，它通常标注在
 ### 2. **`@EnableAutoConfiguration`**
    - **作用**：启用 Spring Boot 的 **自动配置机制**，根据项目依赖自动配置 Spring 应用。
    - **原理**：通过 `spring-boot-autoconfigure` 中的 `META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports` 文件，加载预定义的配置类（如数据源、Web MVC 等）。
+
+> [!question] 
+> imports和spring.factory的区别
+> [[自动加载文件变化]]
+
    - **示例**：
      - 若添加了 `spring-boot-starter-web` 依赖，自动配置会启用 Tomcat 和 Spring MVC。
      - 若添加了 `spring-boot-starter-data-jpa`，自动配置会设置 Hibernate 和 JPA 相关 Bean。

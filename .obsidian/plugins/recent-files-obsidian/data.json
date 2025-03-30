@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis同步机制",
+      "path": "面试/Redis同步机制.md"
+    },
+    {
+      "basename": "replication buffer和rep-backlog的区别",
+      "path": "面试/replication buffer和rep-backlog的区别.md"
+    },
+    {
+      "basename": "MySQL如何做到高可用",
+      "path": "面试/MySQL如何做到高可用.md"
+    },
+    {
+      "basename": "说一下Redis的同步机制",
+      "path": "面试/说一下Redis的同步机制.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
     },
     {
-      "basename": "Mybatis中的设计模式",
-      "path": "面试/Mybatis中的设计模式.md"
+      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
+      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
     },
     {
-      "basename": "MyBatis的缓存机制",
-      "path": "面试/MyBatis的缓存机制.md"
+      "basename": "如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？",
+      "path": "面试/如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？.md"
     },
     {
-      "basename": "Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？",
-      "path": "面试/Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？.md"
+      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
+      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
     },
     {
-      "basename": "如何执行批量插入",
-      "path": "面试/如何执行批量插入.md"
+      "basename": "MQ如何实现高可用的",
+      "path": "面试/MQ如何实现高可用的.md"
     },
     {
-      "basename": "Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？",
-      "path": "面试/Mybatis是如何将sql执行结果封装为目标对象并返回的？都有哪些映射形式？.md"
+      "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
+      "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
     },
     {
-      "basename": "Mybatis是如何分页的，分页原理是什么",
-      "path": "面试/Mybatis是如何分页的，分页原理是什么.md"
+      "basename": "为什么要用MQ",
+      "path": "面试/为什么要用MQ.md"
     },
     {
-      "basename": "当实体类中的属性名和表中的字段名不一样怎么办",
-      "path": "面试/当实体类中的属性名和表中的字段名不一样怎么办.md"
+      "basename": "大表如何优化",
+      "path": "面试/大表如何优化.md"
     },
     {
-      "basename": "井号括号和美元符括号的区别",
-      "path": "面试/井号括号和美元符括号的区别.md"
+      "basename": "主键与索引有什么区别",
+      "path": "面试/主键与索引有什么区别.md"
     },
     {
-      "basename": "MyBatis是什么，有啥优缺点",
-      "path": "面试/MyBatis是什么，有啥优缺点.md"
+      "basename": "MySQL中一条查询SQL是如何执行的",
+      "path": "面试/MySQL中一条查询SQL是如何执行的.md"
     },
     {
-      "basename": "事务注解的本质是什么",
-      "path": "面试/事务注解的本质是什么.md"
+      "basename": "使用MySQL的索引需要注意什么",
+      "path": "面试/使用MySQL的索引需要注意什么.md"
     },
     {
-      "basename": "事务的四要素",
-      "path": "面试/事务的四要素.md"
+      "basename": "怎样避免死锁",
+      "path": "面试/怎样避免死锁.md"
     },
     {
-      "basename": "Spring框架的事务管理有哪些优点",
-      "path": "面试/Spring框架的事务管理有哪些优点.md"
+      "basename": "什么是锁升级",
+      "path": "面试/什么是锁升级.md"
     },
     {
-      "basename": "Spring事务实现方式",
-      "path": "面试/Spring事务实现方式.md"
+      "basename": "说说MySQL的锁",
+      "path": "面试/说说MySQL的锁.md"
     },
     {
-      "basename": "事务的传播级别",
-      "path": "面试/事务的传播级别.md"
+      "basename": "什么是MVCC",
+      "path": "面试/什么是MVCC.md"
     },
     {
-      "basename": "Spring 是怎么解决循环依赖的",
-      "path": "面试/Spring 是怎么解决循环依赖的.md"
+      "basename": "MySQL索引类型有哪些",
+      "path": "面试/MySQL索引类型有哪些.md"
     },
     {
-      "basename": "Spring框架中都用到了哪些设计模式",
-      "path": "面试/Spring框架中都用到了哪些设计模式.md"
+      "basename": "int(11) 中的 11 代表什么涵义？",
+      "path": "面试/int(11) 中的 11 代表什么涵义？.md"
     },
     {
-      "basename": "Spring基于xml注入bean的几种方式",
-      "path": "面试/Spring基于xml注入bean的几种方式.md"
+      "basename": "MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？",
+      "path": "面试/MySQL 中 varchar 与 char 的区别？varchar(30) 中的 30代表的涵义？.md"
     },
     {
-      "basename": "Spring Bean的作用域",
-      "path": "面试/Spring Bean的作用域.md"
+      "basename": "索引有什么优缺点",
+      "path": "面试/索引有什么优缺点.md"
     },
     {
-      "basename": "SpringMVC",
-      "path": "面试/SpringMVC.md"
+      "basename": "分库分表之后，id主键如何处理",
+      "path": "面试/分库分表之后，id主键如何处理.md"
     },
     {
-      "basename": "Spring配置方式",
-      "path": "面试/Spring配置方式.md"
+      "basename": "事务隔离级别有哪些？MySQL的默认隔离级别是？",
+      "path": "面试/事务隔离级别有哪些？MySQL的默认隔离级别是？.md"
     },
     {
-      "basename": "解释一下Spring Bean的生命周期",
-      "path": "面试/解释一下Spring Bean的生命周期.md"
+      "basename": "并发事务带来哪些问题？",
+      "path": "面试/并发事务带来哪些问题？.md"
     },
     {
-      "basename": "说说你对Spring的IOC是怎么理解的？",
-      "path": "面试/说说你对Spring的IOC是怎么理解的？.md"
+      "basename": "什么是内联接、左外联接、右外联接？",
+      "path": "面试/什么是内联接、左外联接、右外联接？.md"
     },
     {
-      "basename": "AOP通知有几种",
-      "path": "面试/AOP通知有几种.md"
+      "basename": "什么是视图",
+      "path": "面试/什么是视图.md"
     },
     {
-      "basename": "悲观锁和乐观锁",
-      "path": "面试/悲观锁和乐观锁.md"
+      "basename": "简单说一说drop、delete与truncate的区别",
+      "path": "面试/简单说一说drop、delete与truncate的区别.md"
     },
     {
-      "basename": "阻塞队列及实现原理和应用",
-      "path": "面试/阻塞队列及实现原理和应用.md"
+      "basename": "SQL优化手段有哪些",
+      "path": "面试/SQL优化手段有哪些.md"
     },
     {
-      "basename": "CyclicBarrier和CountDownLatch的区别",
-      "path": "面试/CyclicBarrier和CountDownLatch的区别.md"
+      "basename": "in 和 exists",
+      "path": "面试/in 和 exists.md"
     },
     {
-      "basename": "线程池的拒绝策略有哪些",
-      "path": "面试/线程池的拒绝策略有哪些.md"
+      "basename": "更多的优化手段",
+      "path": "面试/更多的优化手段.md"
     },
     {
-      "basename": "ThreadLocal原理",
-      "path": "面试/ThreadLocal原理.md"
+      "basename": "索引是什么",
+      "path": "面试/索引是什么.md"
     },
     {
-      "basename": "线程池原理及核心参数",
-      "path": "面试/线程池原理及核心参数.md"
+      "basename": "数据库的事务",
+      "path": "面试/数据库的事务.md"
     },
     {
-      "basename": "引用类型有哪些？有什么区别？",
-      "path": "面试/引用类型有哪些？有什么区别？.md"
+      "basename": "说说InnoDB与MyISAM的区别",
+      "path": "面试/说说InnoDB与MyISAM的区别.md"
     },
     {
-      "basename": "CAS有什么缺点吗？",
-      "path": "面试/CAS有什么缺点吗？.md"
+      "basename": "MySQL的存储引擎有哪些",
+      "path": "面试/MySQL的存储引擎有哪些.md"
     },
     {
-      "basename": "CAS的原理",
-      "path": "面试/CAS的原理.md"
+      "basename": "数据库的三范式",
+      "path": "面试/数据库的三范式.md"
     },
     {
-      "basename": "常用的线程池有哪些",
-      "path": "面试/常用的线程池有哪些.md"
+      "basename": "Spring Boot 的核心配置文件有哪几个？它们的区别是什么？",
+      "path": "面试/Spring Boot 的核心配置文件有哪几个？它们的区别是什么？.md"
     },
     {
-      "basename": "CAS",
-      "path": "面试/CAS.md"
+      "basename": "如何理解 Spring Boot 配置加载顺序？",
+      "path": "面试/如何理解 Spring Boot 配置加载顺序？.md"
     },
     {
-      "basename": "线程间是如何通信的",
-      "path": "面试/线程间是如何通信的.md"
+      "basename": "SpringBoot 实现热部署有哪几种方式？",
+      "path": "面试/SpringBoot 实现热部署有哪几种方式？.md"
     },
     {
-      "basename": "线程安全需要保证几个基本特征",
-      "path": "面试/线程安全需要保证几个基本特征.md"
+      "basename": "如何使用Spring Boot实现异常处理？",
+      "path": "面试/如何使用Spring Boot实现异常处理？.md"
     },
     {
-      "basename": "Java线程池中队列常用类型有哪些？",
-      "path": "面试/Java线程池中队列常用类型有哪些？.md"
+      "basename": "Spring Boot中的监视器是什么？",
+      "path": "面试/Spring Boot中的监视器是什么？.md"
     },
     {
-      "basename": "简述一下对线程池的理解",
-      "path": "面试/简述一下对线程池的理解.md"
+      "basename": "如何在Spring Boot启动的时候运行一些特定的代码？",
+      "path": "面试/如何在Spring Boot启动的时候运行一些特定的代码？.md"
     },
     {
-      "basename": "对于 synchronized 关键字的了解",
-      "path": "面试/对于 synchronized 关键字的了解.md"
+      "basename": "如何理解 Spring Boot 中的 Starters？",
+      "path": "面试/如何理解 Spring Boot 中的 Starters？.md"
     },
     {
-      "basename": "Java线程池中submit() 和 execute()方法有什么区别？",
-      "path": "面试/Java线程池中submit() 和 execute()方法有什么区别？.md"
+      "basename": "运行SpringBoot的几种方式",
+      "path": "面试/运行SpringBoot的几种方式.md"
     },
     {
-      "basename": "线程池核心线程数如何设置",
-      "path": "面试/线程池核心线程数如何设置.md"
+      "basename": "自动加载文件变化",
+      "path": "面试/自动加载文件变化.md"
     },
     {
-      "basename": "如何避免死锁",
-      "path": "面试/如何避免死锁.md"
+      "basename": "Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？",
+      "path": "面试/Spring Boot 的核心注解是哪个？它主要由哪几个注解组成的？.md"
     },
     {
-      "basename": "产生死锁的四个必要条件",
-      "path": "面试/产生死锁的四个必要条件.md"
+      "basename": "SpringBoot的自动配置",
+      "path": "面试/SpringBoot的自动配置.md"
     },
     {
-      "basename": "锁的优化机制",
-      "path": "面试/锁的优化机制.md"
+      "basename": "为什么要用SpringBoot",
+      "path": "面试/为什么要用SpringBoot.md"
     },
     {
-      "basename": "synchronized关键字",
-      "path": "面试/synchronized关键字.md"
-    },
-    {
-      "basename": "Thread类中的yield方法有什么作用？",
-      "path": "面试/Thread类中的yield方法有什么作用？.md"
-    },
-    {
-      "basename": "什么是线程安全？",
-      "path": "面试/什么是线程安全？.md"
-    },
-    {
-      "basename": "有三个线程T1,T2,T3,如何保证顺序执行？",
-      "path": "面试/有三个线程T1,T2,T3,如何保证顺序执行？.md"
-    },
-    {
-      "basename": "SynchronizedMap和ConcurrentHashMap有什么区别？",
-      "path": "面试/SynchronizedMap和ConcurrentHashMap有什么区别？.md"
+      "basename": "home",
+      "path": "88-Template/home.md"
     }
   ],
   "omittedPaths": [],
