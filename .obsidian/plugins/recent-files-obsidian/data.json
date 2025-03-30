@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "replication buffer和rep-backlog的区别",
+      "path": "面试/replication buffer和rep-backlog的区别.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "ElasticSearch 性能优化",
+      "path": "面试/ElasticSearch 性能优化.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "04-技术/消息队列/MQ.md"
+    },
+    {
+      "basename": "RabbitMQ",
+      "path": "04-技术/消息队列/RabbitMQ.md"
+    },
+    {
+      "basename": "消息队列",
+      "path": "04-技术/消息队列/消息队列.md"
+    },
+    {
+      "basename": "为什么要用MQ",
+      "path": "面试/为什么要用MQ.md"
+    },
+    {
+      "basename": "依赖注入有几种方式",
+      "path": "面试/依赖注入有几种方式.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
       "basename": "3PC超时情况",
       "path": "面试/3PC超时情况.md"
     },
     {
       "basename": "什么是三阶段提交",
       "path": "面试/什么是三阶段提交.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "享元模式和单例模式的区别",
@@ -31,10 +63,6 @@
     {
       "basename": "Redis同步机制",
       "path": "面试/Redis同步机制.md"
-    },
-    {
-      "basename": "replication buffer和rep-backlog的区别",
-      "path": "面试/replication buffer和rep-backlog的区别.md"
     },
     {
       "basename": "MySQL如何做到高可用",
@@ -59,10 +87,6 @@
     {
       "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
       "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
-    },
-    {
-      "basename": "为什么要用MQ",
-      "path": "面试/为什么要用MQ.md"
     },
     {
       "basename": "大表如何优化",
@@ -175,30 +199,6 @@
     {
       "basename": "如何理解 Spring Boot 配置加载顺序？",
       "path": "面试/如何理解 Spring Boot 配置加载顺序？.md"
-    },
-    {
-      "basename": "SpringBoot 实现热部署有哪几种方式？",
-      "path": "面试/SpringBoot 实现热部署有哪几种方式？.md"
-    },
-    {
-      "basename": "如何使用Spring Boot实现异常处理？",
-      "path": "面试/如何使用Spring Boot实现异常处理？.md"
-    },
-    {
-      "basename": "Spring Boot中的监视器是什么？",
-      "path": "面试/Spring Boot中的监视器是什么？.md"
-    },
-    {
-      "basename": "如何在Spring Boot启动的时候运行一些特定的代码？",
-      "path": "面试/如何在Spring Boot启动的时候运行一些特定的代码？.md"
-    },
-    {
-      "basename": "如何理解 Spring Boot 中的 Starters？",
-      "path": "面试/如何理解 Spring Boot 中的 Starters？.md"
-    },
-    {
-      "basename": "运行SpringBoot的几种方式",
-      "path": "面试/运行SpringBoot的几种方式.md"
     }
   ],
   "omittedPaths": [],
