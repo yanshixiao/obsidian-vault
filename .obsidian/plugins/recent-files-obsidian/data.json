@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker",
-      "path": "04-技术/Docker/Docker.md"
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
     },
     {
       "basename": "Docker入门",
       "path": "04-技术/Docker/Docker入门.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "04-技术/Docker/Docker.md"
+    },
+    {
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
+    },
+    {
+      "basename": "CAP和BASE理论",
+      "path": "04-技术/分布式事务/CAP和BASE理论.md"
+    },
+    {
+      "basename": "TCC模式",
+      "path": "04-技术/分布式事务/TCC模式.md"
+    },
+    {
+      "basename": "最大努力通知",
+      "path": "04-技术/分布式事务/最大努力通知.md"
     },
     {
       "basename": "Docker自定义镜像",
@@ -15,10 +39,6 @@
     {
       "basename": "Docker项目部署",
       "path": "04-技术/Docker/Docker项目部署.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "DockerCompose",
@@ -179,26 +199,6 @@
     {
       "basename": "replication buffer和rep-backlog的区别",
       "path": "面试/replication buffer和rep-backlog的区别.md"
-    },
-    {
-      "basename": "CAP和BASE理论",
-      "path": "04-技术/分布式事务/CAP和BASE理论.md"
-    },
-    {
-      "basename": "ElasticSearch 性能优化",
-      "path": "面试/ElasticSearch 性能优化.md"
-    },
-    {
-      "basename": "为什么要用MQ",
-      "path": "面试/为什么要用MQ.md"
-    },
-    {
-      "basename": "依赖注入有几种方式",
-      "path": "面试/依赖注入有几种方式.md"
-    },
-    {
-      "basename": "3PC超时情况",
-      "path": "面试/3PC超时情况.md"
     }
   ],
   "omittedPaths": [],
