@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "什么时候索引会失效",
+      "path": "面试/什么时候索引会失效.md"
+    },
+    {
+      "basename": "is null和is not null如何导致索引失效",
+      "path": "面试/is null和is not null如何导致索引失效.md"
+    },
+    {
+      "basename": "or如何使索引失效的",
+      "path": "面试/or如何使索引失效的.md"
+    },
+    {
+      "basename": "in和not in如何导致索引失效",
+      "path": "面试/in和not in如何导致索引失效.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "SQL优化手段有哪些",
+      "path": "面试/SQL优化手段有哪些.md"
+    },
+    {
+      "basename": "in 和 exists",
+      "path": "面试/in 和 exists.md"
+    },
+    {
+      "basename": "更多的优化手段",
+      "path": "面试/更多的优化手段.md"
+    },
+    {
+      "basename": "使用MySQL的索引需要注意什么",
+      "path": "面试/使用MySQL的索引需要注意什么.md"
+    },
+    {
+      "basename": "Docker入门",
+      "path": "04-技术/Docker/Docker入门.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "04-技术/Docker/Docker.md"
+    },
+    {
+      "basename": "Docker Desktop for Windows（WSL 2 方式）数据卷存放位置及如何访问",
+      "path": "04-技术/Docker/Docker Desktop for Windows（WSL 2 方式）数据卷存放位置及如何访问.md"
+    },
+    {
+      "basename": "谈谈你对段合并的策略思想的认识",
+      "path": "面试/谈谈你对段合并的策略思想的认识.md"
+    },
+    {
+      "basename": "说说分段存储的思想",
+      "path": "面试/说说分段存储的思想.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
       "basename": "RabbitMQ",
       "path": "04-技术/消息队列MQ/RabbitMQ.md"
     },
@@ -97,10 +157,6 @@
       "path": "04-技术/分布式事务/CAP和BASE理论.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "ElasticSearch 性能优化",
       "path": "面试/ElasticSearch 性能优化.md"
     },
@@ -111,10 +167,6 @@
     {
       "basename": "依赖注入有几种方式",
       "path": "面试/依赖注入有几种方式.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
     },
     {
       "basename": "3PC超时情况",
@@ -147,58 +199,6 @@
     {
       "basename": "MySQL如何做到高可用",
       "path": "面试/MySQL如何做到高可用.md"
-    },
-    {
-      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
-      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
-    },
-    {
-      "basename": "如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？",
-      "path": "面试/如何解决消息队列的延时以及过期失效问题？消息队列满了以后该怎么处理？有几百万消息持续积压几小时，说说怎么解决？.md"
-    },
-    {
-      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
-      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
-    },
-    {
-      "basename": "MQ如何实现高可用的",
-      "path": "面试/MQ如何实现高可用的.md"
-    },
-    {
-      "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
-      "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
-    },
-    {
-      "basename": "大表如何优化",
-      "path": "面试/大表如何优化.md"
-    },
-    {
-      "basename": "主键与索引有什么区别",
-      "path": "面试/主键与索引有什么区别.md"
-    },
-    {
-      "basename": "MySQL中一条查询SQL是如何执行的",
-      "path": "面试/MySQL中一条查询SQL是如何执行的.md"
-    },
-    {
-      "basename": "使用MySQL的索引需要注意什么",
-      "path": "面试/使用MySQL的索引需要注意什么.md"
-    },
-    {
-      "basename": "怎样避免死锁",
-      "path": "面试/怎样避免死锁.md"
-    },
-    {
-      "basename": "什么是锁升级",
-      "path": "面试/什么是锁升级.md"
-    },
-    {
-      "basename": "说说MySQL的锁",
-      "path": "面试/说说MySQL的锁.md"
-    },
-    {
-      "basename": "什么是MVCC",
-      "path": "面试/什么是MVCC.md"
     }
   ],
   "omittedPaths": [],
