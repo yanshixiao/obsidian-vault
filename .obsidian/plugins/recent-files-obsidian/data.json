@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker",
+      "path": "04-技术/Docker/Docker.md"
+    },
+    {
+      "basename": "Docker入门",
+      "path": "04-技术/Docker/Docker入门.md"
+    },
+    {
+      "basename": "Docker自定义镜像",
+      "path": "04-技术/Docker/Docker自定义镜像.md"
+    },
+    {
+      "basename": "Docker项目部署",
+      "path": "04-技术/Docker/Docker项目部署.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "DockerCompose",
+      "path": "04-技术/Docker/DockerCompose.md"
+    },
+    {
+      "basename": "Docker本地目录挂载",
+      "path": "04-技术/Docker/Docker本地目录挂载.md"
+    },
+    {
+      "basename": "Docker网络互联",
+      "path": "04-技术/Docker/Docker网络互联.md"
+    },
+    {
+      "basename": "Docker数据卷",
+      "path": "04-技术/Docker/Docker数据卷.md"
+    },
+    {
+      "basename": "DockerFile文件",
+      "path": "04-技术/Docker/DockerFile文件.md"
+    },
+    {
       "basename": "什么时候索引会失效",
       "path": "面试/什么时候索引会失效.md"
     },
@@ -17,10 +57,6 @@
       "path": "面试/in和not in如何导致索引失效.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "SQL优化手段有哪些",
       "path": "面试/SQL优化手段有哪些.md"
     },
@@ -35,14 +71,6 @@
     {
       "basename": "使用MySQL的索引需要注意什么",
       "path": "面试/使用MySQL的索引需要注意什么.md"
-    },
-    {
-      "basename": "Docker入门",
-      "path": "04-技术/Docker/Docker入门.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "04-技术/Docker/Docker.md"
     },
     {
       "basename": "Docker Desktop for Windows（WSL 2 方式）数据卷存放位置及如何访问",
@@ -171,34 +199,6 @@
     {
       "basename": "3PC超时情况",
       "path": "面试/3PC超时情况.md"
-    },
-    {
-      "basename": "什么是三阶段提交",
-      "path": "面试/什么是三阶段提交.md"
-    },
-    {
-      "basename": "享元模式和单例模式的区别",
-      "path": "面试/享元模式和单例模式的区别.md"
-    },
-    {
-      "basename": "Redis的过期策略及内存淘汰机制",
-      "path": "面试/Redis的过期策略及内存淘汰机制.md"
-    },
-    {
-      "basename": "说说你对Redis事务的理解",
-      "path": "面试/说说你对Redis事务的理解.md"
-    },
-    {
-      "basename": "说一下Redis的同步机制",
-      "path": "面试/说一下Redis的同步机制.md"
-    },
-    {
-      "basename": "Redis同步机制",
-      "path": "面试/Redis同步机制.md"
-    },
-    {
-      "basename": "MySQL如何做到高可用",
-      "path": "面试/MySQL如何做到高可用.md"
     }
   ],
   "omittedPaths": [],
