@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Nacos的分级模型",
+      "path": "04-技术/注册中心/Nacos的分级模型.md"
+    },
+    {
+      "basename": "Nacos的环境隔离",
+      "path": "04-技术/注册中心/Nacos的环境隔离.md"
+    },
+    {
+      "basename": "SpringCloud",
+      "path": "04-技术/SpringCloud/SpringCloud.md"
+    },
+    {
+      "basename": "配置管理",
+      "path": "04-技术/SpringCloud/配置管理.md"
+    },
+    {
+      "basename": "Nacos",
+      "path": "04-技术/SpringCloud/Nacos.md"
+    },
+    {
+      "basename": "网关",
+      "path": "04-技术/SpringCloud/网关.md"
+    },
+    {
+      "basename": "Gateway",
+      "path": "04-技术/SpringCloud/Gateway.md"
+    },
+    {
+      "basename": "OpenFeign",
+      "path": "04-技术/SpringCloud/OpenFeign.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "微服务拆分",
+      "path": "04-技术/SpringCloud/微服务拆分.md"
+    },
+    {
+      "basename": "服务治理",
+      "path": "04-技术/SpringCloud/服务治理.md"
+    },
+    {
+      "basename": "微服务架构",
+      "path": "04-技术/SpringCloud/微服务架构.md"
+    },
+    {
+      "basename": "单体架构",
+      "path": "04-技术/SpringCloud/单体架构.md"
+    },
+    {
+      "basename": "ES 常见面试题",
+      "path": "04-技术/ES/ES 常见面试题.md"
+    },
+    {
+      "basename": "ES 1",
+      "path": "04-技术/ES/ES 1.md"
+    },
+    {
+      "basename": "ES",
+      "path": "04-技术/ES/ES.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "最大努力通知",
+      "path": "04-技术/分布式事务/最大努力通知.md"
+    },
+    {
+      "basename": "eureka自我保护机制是什么？",
+      "path": "面试/eureka自我保护机制是什么？.md"
     },
     {
       "basename": "is null和is not null如何导致索引失效",
@@ -69,10 +141,6 @@
       "path": "04-技术/缓存/Redis/缓存一致性.md"
     },
     {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
-    },
-    {
       "basename": "Docker入门",
       "path": "04-技术/Docker/Docker入门.md"
     },
@@ -87,10 +155,6 @@
     {
       "basename": "TCC模式",
       "path": "04-技术/分布式事务/TCC模式.md"
-    },
-    {
-      "basename": "最大努力通知",
-      "path": "04-技术/分布式事务/最大努力通知.md"
     },
     {
       "basename": "Docker自定义镜像",
@@ -135,70 +199,6 @@
     {
       "basename": "更多的优化手段",
       "path": "面试/更多的优化手段.md"
-    },
-    {
-      "basename": "使用MySQL的索引需要注意什么",
-      "path": "面试/使用MySQL的索引需要注意什么.md"
-    },
-    {
-      "basename": "Docker Desktop for Windows（WSL 2 方式）数据卷存放位置及如何访问",
-      "path": "04-技术/Docker/Docker Desktop for Windows（WSL 2 方式）数据卷存放位置及如何访问.md"
-    },
-    {
-      "basename": "谈谈你对段合并的策略思想的认识",
-      "path": "面试/谈谈你对段合并的策略思想的认识.md"
-    },
-    {
-      "basename": "说说分段存储的思想",
-      "path": "面试/说说分段存储的思想.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "RabbitMQ",
-      "path": "04-技术/消息队列MQ/RabbitMQ.md"
-    },
-    {
-      "basename": "MQ",
-      "path": "04-技术/消息队列MQ/MQ.md"
-    },
-    {
-      "basename": "消息队列",
-      "path": "04-技术/消息队列MQ/消息队列.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
-    },
-    {
-      "basename": "jdk1.7和1.8前后的HashMap，HashTable和ConcurrentHashMap的比较",
-      "path": "04-技术/基础/jdk1.7和1.8前后的HashMap，HashTable和ConcurrentHashMap的比较.md"
-    },
-    {
-      "basename": "HashMap求交集、并集、差集",
-      "path": "04-技术/基础/HashMap求交集、并集、差集.md"
-    },
-    {
-      "basename": "HashMap初始化大小",
-      "path": "04-技术/基础/HashMap初始化大小.md"
-    },
-    {
-      "basename": "guava中的Spiltter",
-      "path": "04-技术/基础/guava中的Spiltter.md"
-    },
-    {
-      "basename": "自定义注解",
-      "path": "04-技术/基础/自定义注解.md"
-    },
-    {
-      "basename": "Class.forName和ClassLoader.loadClass的区别",
-      "path": "04-技术/基础/Class.forName和ClassLoader.loadClass的区别.md"
-    },
-    {
-      "basename": "线程池之 ThreadPoolExecutor 使用 - 简书",
-      "path": "04-技术/基础/线程池之 ThreadPoolExecutor 使用 - 简书.md"
     }
   ],
   "omittedPaths": [],

@@ -184,6 +184,7 @@ Undertow
 UidGenerator
 Used
 USAGE
+URLConnection
 alias
 add
 ad
@@ -1032,6 +1033,7 @@ cli
 city
 coding
 className
+common
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1192,6 +1194,8 @@ orders
 others
 one
 orm
+openFeign
+okhttp
 preview
 pom
 properties
@@ -2000,6 +2004,7 @@ maxmemory
 mybatis
 msg
 mapper
+mvc
 DskipTests
 DdefaultValueOfSkip
 DD
@@ -3211,6 +3216,7 @@ num
 nack
 newFixedThreadPool
 newScheduledThreadPool
+nacos
 YYYY
 YYYYMMDDHHmm
 YYYYMMDDHHmmss
@@ -5934,6 +5940,7 @@ Selector
 Smart
 ScheduledThreadPoolExecutor
 SOURCE
+Self
 homewp
 html
 help
@@ -6102,6 +6109,7 @@ hY
 hK
 hello
 hotkeys
+httpclient
 Text
 TODO
 Theme
@@ -6492,6 +6500,7 @@ Exchange
 Expiration
 Eviction
 ElementType
+Eureka
 ColorPicker
 Ctags
 CommandPalette
@@ -7097,6 +7106,7 @@ Phase
 PARAMETER
 PACKAGE
 Profiler
+Preservation
 Ruby
 Realities
 RX
@@ -7322,6 +7332,7 @@ RetentionPolicy
 RUNTIME
 Resilience
 Recorder
+Ribbon
 Haskell
 Highlighter
 History
@@ -8371,6 +8382,8 @@ Groovy
 Global
 Gradle
 Galera
+GlobalFilter
+GatewayFilter
 Overview
 OPTIONS
 Obsidian
