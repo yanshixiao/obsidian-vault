@@ -2169,6 +2169,7 @@ Dead
 Demo
 DEL
 Document
+Dashboard
 xml
 xc
 xe
@@ -4064,6 +4065,7 @@ Approximated
 Abort
 APIkey
 ANNOTATION
+Arthas
 LSP
 List
 LocalHistory
@@ -4782,6 +4784,9 @@ JMX
 JConsole
 JNDI
 JMS
+JFR
+JNI
+JProfiler
 Which
 WakaTime
 Waypoint
@@ -4945,6 +4950,7 @@ Window
 Wrapper
 Warm
 WeChat
+WAITING
 want
 with
 windows
@@ -5662,6 +5668,8 @@ Boyce
 Blackhole
 Bus
 Bot
+Breaker
+BLOCKED
 Solid
 Sublime
 SublimeREPL
@@ -6305,6 +6313,8 @@ TimeUnit
 ThreadFactory
 Target
 TYPE
+Timeout
+TIMED
 Editing
 Emmet
 Editting
@@ -6709,6 +6719,11 @@ Client
 Certification
 CLASS
 CONSTRUCTOR
+Cascading
+Circuit
+Closed
+Collapsing
+Call
 NodeJS
 Note
 Nu
@@ -7081,6 +7096,7 @@ Periodic
 Phase
 PARAMETER
 PACKAGE
+Profiler
 Ruby
 Realities
 RX
@@ -7304,6 +7320,8 @@ Robot
 Retention
 RetentionPolicy
 RUNTIME
+Resilience
+Recorder
 Haskell
 Highlighter
 History
@@ -7474,6 +7492,7 @@ Health
 HEAP
 High
 HashTable
+Hystrix
 Key
 KB
 KEY
@@ -7975,6 +7994,10 @@ Frequently
 FinalizableDelegatedExecutorService
 FIELD
 FFFFFFF
+Fallback
+Fail
+Fast
+Flight
 Icon
 IHDR
 IDATx
@@ -8541,6 +8564,7 @@ OopMap
 Ordinary
 Observer
 OLAP
+Open
 quickAdd
 qwer
 quote

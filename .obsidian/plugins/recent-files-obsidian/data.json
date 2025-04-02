@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
-    },
-    {
       "basename": "面试",
       "path": "面试/面试.md"
+    },
+    {
+      "basename": "is null和is not null如何导致索引失效",
+      "path": "面试/is null和is not null如何导致索引失效.md"
+    },
+    {
+      "basename": "or如何使索引失效的",
+      "path": "面试/or如何使索引失效的.md"
+    },
+    {
+      "basename": "什么时候索引会失效",
+      "path": "面试/什么时候索引会失效.md"
+    },
+    {
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
+    },
+    {
+      "basename": "拦截器和过滤器",
+      "path": "04-技术/其他/拦截器和过滤器.md"
+    },
+    {
+      "basename": "什么是类加载器？",
+      "path": "面试/什么是类加载器？.md"
+    },
+    {
+      "basename": "JVM调优手段",
+      "path": "面试/JVM调优手段.md"
+    },
+    {
+      "basename": "jstack生成快照之后呢，文件怎么解读",
+      "path": "面试/jstack生成快照之后呢，文件怎么解读.md"
+    },
+    {
+      "basename": "线程死锁或OOM如何发现解决",
+      "path": "面试/线程死锁或OOM如何发现解决.md"
+    },
+    {
+      "basename": "什么是Hystrix",
+      "path": "面试/什么是Hystrix.md"
+    },
+    {
+      "basename": "非阻塞IO （nonblocking IO）",
+      "path": "04-技术/其他/非阻塞IO （nonblocking IO）.md"
+    },
+    {
+      "basename": "Redis分片集群",
+      "path": "04-技术/缓存/Redis/Redis分片集群.md"
+    },
+    {
+      "basename": "Redis的过期策略",
+      "path": "04-技术/缓存/Redis/Redis的过期策略.md"
+    },
+    {
+      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
+      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
+    },
+    {
+      "basename": "Redis持久化原理",
+      "path": "04-技术/缓存/Redis/Redis持久化原理.md"
+    },
+    {
+      "basename": "缓存一致性",
+      "path": "04-技术/缓存/Redis/缓存一致性.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
     },
     {
       "basename": "Docker入门",
@@ -15,10 +79,6 @@
     {
       "basename": "Docker",
       "path": "04-技术/Docker/Docker.md"
-    },
-    {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
     },
     {
       "basename": "CAP和BASE理论",
@@ -59,18 +119,6 @@
     {
       "basename": "DockerFile文件",
       "path": "04-技术/Docker/DockerFile文件.md"
-    },
-    {
-      "basename": "什么时候索引会失效",
-      "path": "面试/什么时候索引会失效.md"
-    },
-    {
-      "basename": "is null和is not null如何导致索引失效",
-      "path": "面试/is null和is not null如何导致索引失效.md"
-    },
-    {
-      "basename": "or如何使索引失效的",
-      "path": "面试/or如何使索引失效的.md"
     },
     {
       "basename": "in和not in如何导致索引失效",
@@ -151,54 +199,6 @@
     {
       "basename": "线程池之 ThreadPoolExecutor 使用 - 简书",
       "path": "04-技术/基础/线程池之 ThreadPoolExecutor 使用 - 简书.md"
-    },
-    {
-      "basename": "Redis哨兵",
-      "path": "04-技术/缓存/Redis/Redis哨兵.md"
-    },
-    {
-      "basename": "缓存如何使用",
-      "path": "04-技术/缓存/缓存如何使用.md"
-    },
-    {
-      "basename": "Nacos的环境隔离",
-      "path": "04-技术/注册中心/Nacos的环境隔离.md"
-    },
-    {
-      "basename": "Nacos的分级模型",
-      "path": "04-技术/注册中心/Nacos的分级模型.md"
-    },
-    {
-      "basename": "ES 常见面试题",
-      "path": "04-技术/ES/ES 常见面试题.md"
-    },
-    {
-      "basename": "ES 1",
-      "path": "04-技术/ES/ES 1.md"
-    },
-    {
-      "basename": "ES",
-      "path": "04-技术/ES/ES.md"
-    },
-    {
-      "basename": "Mybatis",
-      "path": "04-技术/Mybatis/Mybatis.md"
-    },
-    {
-      "basename": "基础环境搭建",
-      "path": "04-技术/Mybatis/基础环境搭建.md"
-    },
-    {
-      "basename": "微信自动回复",
-      "path": "04-技术/Python/微信自动回复.md"
-    },
-    {
-      "basename": "技术文章收藏",
-      "path": "04-技术/技术文章收藏.md"
-    },
-    {
-      "basename": "replication buffer和rep-backlog的区别",
-      "path": "面试/replication buffer和rep-backlog的区别.md"
     }
   ],
   "omittedPaths": [],
