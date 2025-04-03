@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "架构演进",
+      "path": "04-技术/Dubbo/架构演进.md"
+    },
+    {
+      "basename": "集群和分布式",
+      "path": "04-技术/Dubbo/集群和分布式.md"
+    },
+    {
+      "basename": "分布式系统中相关的概念",
+      "path": "04-技术/Dubbo/分布式系统中相关的概念.md"
+    },
+    {
+      "basename": "大型互联网架构的目标",
+      "path": "04-技术/Dubbo/大型互联网架构的目标.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "04-技术/Dubbo/Dubbo.md"
+    },
+    {
+      "basename": "服务保护方案有啥",
+      "path": "面试/服务保护方案有啥.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "MQ如何实现高可用的",
+      "path": "面试/MQ如何实现高可用的.md"
+    },
+    {
+      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
+      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
+    },
+    {
+      "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
+      "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
+    },
+    {
       "basename": "Nacos的分级模型",
       "path": "04-技术/注册中心/Nacos的分级模型.md"
     },
     {
+      "basename": "基础类型",
+      "path": "基础类型.md"
+    },
+    {
       "basename": "Nacos的环境隔离",
       "path": "04-技术/注册中心/Nacos的环境隔离.md"
+    },
+    {
+      "basename": "任务看板",
+      "path": "20-Diary/任务看板.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
     },
     {
       "basename": "SpringCloud",
@@ -31,10 +83,6 @@
     {
       "basename": "OpenFeign",
       "path": "04-技术/SpringCloud/OpenFeign.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "微服务拆分",
@@ -151,54 +199,6 @@
     {
       "basename": "CAP和BASE理论",
       "path": "04-技术/分布式事务/CAP和BASE理论.md"
-    },
-    {
-      "basename": "TCC模式",
-      "path": "04-技术/分布式事务/TCC模式.md"
-    },
-    {
-      "basename": "Docker自定义镜像",
-      "path": "04-技术/Docker/Docker自定义镜像.md"
-    },
-    {
-      "basename": "Docker项目部署",
-      "path": "04-技术/Docker/Docker项目部署.md"
-    },
-    {
-      "basename": "DockerCompose",
-      "path": "04-技术/Docker/DockerCompose.md"
-    },
-    {
-      "basename": "Docker本地目录挂载",
-      "path": "04-技术/Docker/Docker本地目录挂载.md"
-    },
-    {
-      "basename": "Docker网络互联",
-      "path": "04-技术/Docker/Docker网络互联.md"
-    },
-    {
-      "basename": "Docker数据卷",
-      "path": "04-技术/Docker/Docker数据卷.md"
-    },
-    {
-      "basename": "DockerFile文件",
-      "path": "04-技术/Docker/DockerFile文件.md"
-    },
-    {
-      "basename": "in和not in如何导致索引失效",
-      "path": "面试/in和not in如何导致索引失效.md"
-    },
-    {
-      "basename": "SQL优化手段有哪些",
-      "path": "面试/SQL优化手段有哪些.md"
-    },
-    {
-      "basename": "in 和 exists",
-      "path": "面试/in 和 exists.md"
-    },
-    {
-      "basename": "更多的优化手段",
-      "path": "面试/更多的优化手段.md"
     }
   ],
   "omittedPaths": [],
