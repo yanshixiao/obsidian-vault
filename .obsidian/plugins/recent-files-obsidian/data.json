@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dubbo快速入门",
+      "path": "04-技术/Dubbo/Dubbo快速入门.md"
+    },
+    {
+      "basename": "Dubbo概述",
+      "path": "04-技术/Dubbo/Dubbo概述.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "04-技术/Dubbo/Dubbo.md"
+    },
+    {
       "basename": "架构演进",
       "path": "04-技术/Dubbo/架构演进.md"
     },
@@ -17,24 +29,60 @@
       "path": "04-技术/Dubbo/大型互联网架构的目标.md"
     },
     {
-      "basename": "Dubbo",
-      "path": "04-技术/Dubbo/Dubbo.md"
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
+      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
+    },
+    {
+      "basename": "其他",
+      "path": "04-技术/其他/其他.md"
+    },
+    {
+      "basename": "Zookeeper",
+      "path": "04-技术/其他/Zookeeper.md"
+    },
+    {
+      "basename": "tomcat部署的三种方式",
+      "path": "04-技术/其他/tomcat部署的三种方式.md"
+    },
+    {
+      "basename": "Servlet介绍",
+      "path": "04-技术/其他/Servlet介绍.md"
+    },
+    {
+      "basename": "PrintWriter中write和println的区别",
+      "path": "04-技术/其他/PrintWriter中write和println的区别.md"
+    },
+    {
+      "basename": "latex",
+      "path": "04-技术/其他/latex.md"
+    },
+    {
+      "basename": "Java项目中打出的war包里META-INF的作用",
+      "path": "04-技术/其他/Java项目中打出的war包里META-INF的作用.md"
+    },
+    {
+      "basename": "IO多路复用",
+      "path": "04-技术/其他/IO多路复用.md"
+    },
+    {
+      "basename": "IO多路复用（IO multiplexing）",
+      "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
+    },
+    {
+      "basename": "http400错误",
+      "path": "04-技术/其他/http400错误.md"
     },
     {
       "basename": "服务保护方案有啥",
       "path": "面试/服务保护方案有啥.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "MQ如何实现高可用的",
       "path": "面试/MQ如何实现高可用的.md"
-    },
-    {
-      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
-      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
     },
     {
       "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
@@ -139,66 +187,6 @@
     {
       "basename": "Seata的AT模式",
       "path": "04-技术/分布式事务/Seata的AT模式.md"
-    },
-    {
-      "basename": "拦截器和过滤器",
-      "path": "04-技术/其他/拦截器和过滤器.md"
-    },
-    {
-      "basename": "什么是类加载器？",
-      "path": "面试/什么是类加载器？.md"
-    },
-    {
-      "basename": "JVM调优手段",
-      "path": "面试/JVM调优手段.md"
-    },
-    {
-      "basename": "jstack生成快照之后呢，文件怎么解读",
-      "path": "面试/jstack生成快照之后呢，文件怎么解读.md"
-    },
-    {
-      "basename": "线程死锁或OOM如何发现解决",
-      "path": "面试/线程死锁或OOM如何发现解决.md"
-    },
-    {
-      "basename": "什么是Hystrix",
-      "path": "面试/什么是Hystrix.md"
-    },
-    {
-      "basename": "非阻塞IO （nonblocking IO）",
-      "path": "04-技术/其他/非阻塞IO （nonblocking IO）.md"
-    },
-    {
-      "basename": "Redis分片集群",
-      "path": "04-技术/缓存/Redis/Redis分片集群.md"
-    },
-    {
-      "basename": "Redis的过期策略",
-      "path": "04-技术/缓存/Redis/Redis的过期策略.md"
-    },
-    {
-      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
-      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
-    },
-    {
-      "basename": "Redis持久化原理",
-      "path": "04-技术/缓存/Redis/Redis持久化原理.md"
-    },
-    {
-      "basename": "缓存一致性",
-      "path": "04-技术/缓存/Redis/缓存一致性.md"
-    },
-    {
-      "basename": "Docker入门",
-      "path": "04-技术/Docker/Docker入门.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "04-技术/Docker/Docker.md"
-    },
-    {
-      "basename": "CAP和BASE理论",
-      "path": "04-技术/分布式事务/CAP和BASE理论.md"
     }
   ],
   "omittedPaths": [],
