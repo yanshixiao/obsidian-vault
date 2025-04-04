@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "dubbo常用高级配置",
+      "path": "04-技术/Dubbo/dubbo常用高级配置.md"
+    },
+    {
+      "basename": "Dubbo高级特性",
+      "path": "04-技术/Dubbo/Dubbo高级特性.md"
+    },
+    {
+      "basename": "dubbo-admin管理平台",
+      "path": "04-技术/Dubbo/dubbo-admin管理平台.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "04-技术/Dubbo/Dubbo.md"
+    },
+    {
+      "basename": "分布式系统中相关的概念",
+      "path": "04-技术/Dubbo/分布式系统中相关的概念.md"
+    },
+    {
       "basename": "Dubbo快速入门",
       "path": "04-技术/Dubbo/Dubbo快速入门.md"
     },
@@ -9,20 +29,12 @@
       "path": "04-技术/Dubbo/Dubbo概述.md"
     },
     {
-      "basename": "Dubbo",
-      "path": "04-技术/Dubbo/Dubbo.md"
-    },
-    {
       "basename": "架构演进",
       "path": "04-技术/Dubbo/架构演进.md"
     },
     {
       "basename": "集群和分布式",
       "path": "04-技术/Dubbo/集群和分布式.md"
-    },
-    {
-      "basename": "分布式系统中相关的概念",
-      "path": "04-技术/Dubbo/分布式系统中相关的概念.md"
     },
     {
       "basename": "大型互联网架构的目标",
