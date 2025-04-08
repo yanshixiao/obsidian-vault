@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "ES在数十亿级别数据下如何提高查询效率",
-      "path": "面试/ES在数十亿级别数据下如何提高查询效率.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
-      "basename": "ES写入数据的工作原理是什么",
-      "path": "面试/ES写入数据的工作原理是什么.md"
-    },
-    {
-      "basename": "ES的分布式架构原理是什么",
-      "path": "面试/ES的分布式架构原理是什么.md"
-    },
-    {
-      "basename": "能说说ElasticSearch写索引的逻辑吗",
-      "path": "面试/能说说ElasticSearch写索引的逻辑吗.md"
-    },
-    {
-      "basename": "说说ZooKeeper的工作原理",
-      "path": "面试/说说ZooKeeper的工作原理.md"
-    },
-    {
-      "basename": "ZooKeeper有哪些应用场景",
-      "path": "面试/ZooKeeper有哪些应用场景.md"
-    },
-    {
-      "basename": "说说ZooKeeper是什么",
-      "path": "面试/说说ZooKeeper是什么.md"
-    },
-    {
-      "basename": "MySQL如何做到高可用",
-      "path": "面试/MySQL如何做到高可用.md"
-    },
-    {
-      "basename": "Dubbo",
-      "path": "04-技术/Dubbo/Dubbo.md"
-    },
-    {
-      "basename": "Dubbo高级特性",
-      "path": "04-技术/Dubbo/Dubbo高级特性.md"
-    },
-    {
-      "basename": "dubbo常用高级配置",
-      "path": "04-技术/Dubbo/dubbo常用高级配置.md"
-    },
-    {
-      "basename": "dubbo-admin管理平台",
-      "path": "04-技术/Dubbo/dubbo-admin管理平台.md"
-    },
-    {
-      "basename": "分布式系统中相关的概念",
-      "path": "04-技术/Dubbo/分布式系统中相关的概念.md"
-    },
-    {
-      "basename": "Dubbo快速入门",
-      "path": "04-技术/Dubbo/Dubbo快速入门.md"
-    },
-    {
-      "basename": "Dubbo概述",
-      "path": "04-技术/Dubbo/Dubbo概述.md"
-    },
-    {
-      "basename": "架构演进",
-      "path": "04-技术/Dubbo/架构演进.md"
-    },
-    {
-      "basename": "集群和分布式",
-      "path": "04-技术/Dubbo/集群和分布式.md"
-    },
-    {
-      "basename": "大型互联网架构的目标",
-      "path": "04-技术/Dubbo/大型互联网架构的目标.md"
-    },
-    {
-      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
-      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
-    },
-    {
-      "basename": "其他",
-      "path": "04-技术/其他/其他.md"
-    },
-    {
-      "basename": "Zookeeper",
-      "path": "04-技术/其他/Zookeeper.md"
-    },
-    {
-      "basename": "tomcat部署的三种方式",
-      "path": "04-技术/其他/tomcat部署的三种方式.md"
-    },
-    {
-      "basename": "Servlet介绍",
-      "path": "04-技术/其他/Servlet介绍.md"
-    },
-    {
-      "basename": "PrintWriter中write和println的区别",
-      "path": "04-技术/其他/PrintWriter中write和println的区别.md"
-    },
-    {
-      "basename": "latex",
-      "path": "04-技术/其他/latex.md"
-    },
-    {
-      "basename": "Java项目中打出的war包里META-INF的作用",
-      "path": "04-技术/其他/Java项目中打出的war包里META-INF的作用.md"
-    },
-    {
-      "basename": "IO多路复用",
-      "path": "04-技术/其他/IO多路复用.md"
-    },
-    {
-      "basename": "IO多路复用（IO multiplexing）",
-      "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
-    },
-    {
-      "basename": "http400错误",
-      "path": "04-技术/其他/http400错误.md"
-    },
-    {
-      "basename": "服务保护方案有啥",
-      "path": "面试/服务保护方案有啥.md"
-    },
-    {
-      "basename": "MQ如何实现高可用的",
-      "path": "面试/MQ如何实现高可用的.md"
-    },
-    {
-      "basename": "Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？",
-      "path": "面试/Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么区别？.md"
-    },
-    {
-      "basename": "Nacos的分级模型",
-      "path": "04-技术/注册中心/Nacos的分级模型.md"
-    },
-    {
-      "basename": "基础类型",
-      "path": "基础类型.md"
-    },
-    {
-      "basename": "Nacos的环境隔离",
-      "path": "04-技术/注册中心/Nacos的环境隔离.md"
-    },
-    {
-      "basename": "任务看板",
-      "path": "20-Diary/任务看板.md"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
-    },
-    {
-      "basename": "SpringCloud",
-      "path": "04-技术/SpringCloud/SpringCloud.md"
-    },
-    {
-      "basename": "配置管理",
-      "path": "04-技术/SpringCloud/配置管理.md"
-    },
-    {
-      "basename": "Nacos",
-      "path": "04-技术/SpringCloud/Nacos.md"
+      "basename": "Gateway",
+      "path": "04-技术/SpringCloud/Gateway.md"
     },
     {
       "basename": "网关",
       "path": "04-技术/SpringCloud/网关.md"
     },
     {
-      "basename": "Gateway",
-      "path": "04-技术/SpringCloud/Gateway.md"
+      "basename": "SpringCloud",
+      "path": "04-技术/SpringCloud/SpringCloud.md"
     },
     {
-      "basename": "OpenFeign",
-      "path": "04-技术/SpringCloud/OpenFeign.md"
+      "basename": "面试",
+      "path": "面试/面试.md"
     },
     {
-      "basename": "微服务拆分",
-      "path": "04-技术/SpringCloud/微服务拆分.md"
+      "basename": "Dubbo高级特性",
+      "path": "04-技术/Dubbo/Dubbo高级特性.md"
     },
     {
-      "basename": "服务治理",
-      "path": "04-技术/SpringCloud/服务治理.md"
+      "basename": "Dubbo",
+      "path": "04-技术/Dubbo/Dubbo.md"
     },
     {
-      "basename": "微服务架构",
-      "path": "04-技术/SpringCloud/微服务架构.md"
+      "basename": "服务保护方案有啥",
+      "path": "面试/服务保护方案有啥.md"
     },
     {
-      "basename": "单体架构",
-      "path": "04-技术/SpringCloud/单体架构.md"
+      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
+      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
     },
     {
-      "basename": "ES 常见面试题",
-      "path": "04-技术/ES/ES 常见面试题.md"
+      "basename": "使用Redis有哪些好处",
+      "path": "面试/使用Redis有哪些好处.md"
+    },
+    {
+      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
+      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
+    },
+    {
+      "basename": "什么是 bigkey？会存在什么影响？",
+      "path": "面试/什么是 bigkey？会存在什么影响？.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "常见负载均衡算法有哪些",
+      "path": "面试/常见负载均衡算法有哪些.md"
+    },
+    {
+      "basename": "你知道哪些限流算法",
+      "path": "面试/你知道哪些限流算法.md"
+    },
+    {
+      "basename": "elasticsearch 索引数据多了怎么办，如何调优，部署？",
+      "path": "面试/elasticsearch 索引数据多了怎么办，如何调优，部署？.md"
+    },
+    {
+      "basename": "elasticsearch 是如何实现 master 选举的？",
+      "path": "面试/elasticsearch 是如何实现 master 选举的？.md"
+    },
+    {
+      "basename": "谈谈你对段合并的策略思想的认识",
+      "path": "面试/谈谈你对段合并的策略思想的认识.md"
+    },
+    {
+      "basename": "说说分段存储的思想",
+      "path": "面试/说说分段存储的思想.md"
+    },
+    {
+      "basename": "了解ElasticSearch 深翻页的问题及解决吗？",
+      "path": "面试/了解ElasticSearch 深翻页的问题及解决吗？.md"
+    },
+    {
+      "basename": "什么是令牌桶算法",
+      "path": "面试/什么是令牌桶算法.md"
+    },
+    {
+      "basename": "什么是漏桶算法",
+      "path": "面试/什么是漏桶算法.md"
+    },
+    {
+      "basename": "什么是滑动窗口算法",
+      "path": "面试/什么是滑动窗口算法.md"
+    },
+    {
+      "basename": "什么是计数器（固定窗口）算法",
+      "path": "面试/什么是计数器（固定窗口）算法.md"
+    },
+    {
+      "basename": "分布式id生成有几种方案",
+      "path": "面试/分布式id生成有几种方案.md"
+    },
+    {
+      "basename": "说说Saga事务模型",
+      "path": "面试/说说Saga事务模型.md"
+    },
+    {
+      "basename": "用消息队列怎么实现",
+      "path": "面试/用消息队列怎么实现.md"
+    },
+    {
+      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
+      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
+    },
+    {
+      "basename": "Redis的过期策略及内存淘汰机制",
+      "path": "面试/Redis的过期策略及内存淘汰机制.md"
+    },
+    {
+      "basename": "redis的数据类型，以及每种数据类型的使用场景",
+      "path": "面试/redis的数据类型，以及每种数据类型的使用场景.md"
+    },
+    {
+      "basename": "Redis报内存不足怎么解决",
+      "path": "面试/Redis报内存不足怎么解决.md"
+    },
+    {
+      "basename": "Redis如何解决key冲突",
+      "path": "面试/Redis如何解决key冲突.md"
+    },
+    {
+      "basename": "怎么提高缓存命中率",
+      "path": "面试/怎么提高缓存命中率.md"
+    },
+    {
+      "basename": "缓存和数据库谁先更新呢",
+      "path": "面试/缓存和数据库谁先更新呢.md"
+    },
+    {
+      "basename": "如果有大量的 key 需要设置同一时间过期，一般需要注意什么？",
+      "path": "面试/如果有大量的 key 需要设置同一时间过期，一般需要注意什么？.md"
+    },
+    {
+      "basename": "假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？",
+      "path": "面试/假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？.md"
+    },
+    {
+      "basename": "Redis 集群架构模式有哪几种？",
+      "path": "面试/Redis 集群架构模式有哪几种？.md"
+    },
+    {
+      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
+      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
+    },
+    {
+      "basename": "怎样避免死锁",
+      "path": "面试/怎样避免死锁.md"
+    },
+    {
+      "basename": "熟悉哪些Redis集群模式？",
+      "path": "面试/熟悉哪些Redis集群模式？.md"
+    },
+    {
+      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
+      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
+    },
+    {
+      "basename": "熟悉哪些 Redis 集群模式？",
+      "path": "面试/熟悉哪些 Redis 集群模式？.md"
+    },
+    {
+      "basename": "怎么使用 Redis 实现消息队列？",
+      "path": "面试/怎么使用 Redis 实现消息队列？.md"
+    },
+    {
+      "basename": "Redis 持久化方式有哪些？以及有什么区别？",
+      "path": "面试/Redis 持久化方式有哪些？以及有什么区别？.md"
+    },
+    {
+      "basename": "Redis缓存刷新策略有哪些",
+      "path": "面试/Redis缓存刷新策略有哪些.md"
+    },
+    {
+      "basename": "说一下Redis有什么优缺点",
+      "path": "面试/说一下Redis有什么优缺点.md"
+    },
+    {
+      "basename": "Redis的pipeline",
+      "path": "面试/Redis的pipeline.md"
+    },
+    {
+      "basename": "说一下Redis的同步机制",
+      "path": "面试/说一下Redis的同步机制.md"
+    },
+    {
+      "basename": "Redis同步机制",
+      "path": "面试/Redis同步机制.md"
+    },
+    {
+      "basename": "为什么要使用缓存",
+      "path": "面试/为什么要使用缓存.md"
+    },
+    {
+      "basename": "为什么 Redis 单线程模型效率也能那么高？",
+      "path": "面试/为什么 Redis 单线程模型效率也能那么高？.md"
     }
   ],
   "omittedPaths": [],
