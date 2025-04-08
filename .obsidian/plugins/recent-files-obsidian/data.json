@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "dubbo常用高级配置",
-      "path": "04-技术/Dubbo/dubbo常用高级配置.md"
+      "basename": "ES在数十亿级别数据下如何提高查询效率",
+      "path": "面试/ES在数十亿级别数据下如何提高查询效率.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "ES写入数据的工作原理是什么",
+      "path": "面试/ES写入数据的工作原理是什么.md"
+    },
+    {
+      "basename": "ES的分布式架构原理是什么",
+      "path": "面试/ES的分布式架构原理是什么.md"
+    },
+    {
+      "basename": "能说说ElasticSearch写索引的逻辑吗",
+      "path": "面试/能说说ElasticSearch写索引的逻辑吗.md"
+    },
+    {
+      "basename": "说说ZooKeeper的工作原理",
+      "path": "面试/说说ZooKeeper的工作原理.md"
+    },
+    {
+      "basename": "ZooKeeper有哪些应用场景",
+      "path": "面试/ZooKeeper有哪些应用场景.md"
+    },
+    {
+      "basename": "说说ZooKeeper是什么",
+      "path": "面试/说说ZooKeeper是什么.md"
+    },
+    {
+      "basename": "MySQL如何做到高可用",
+      "path": "面试/MySQL如何做到高可用.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "04-技术/Dubbo/Dubbo.md"
     },
     {
       "basename": "Dubbo高级特性",
       "path": "04-技术/Dubbo/Dubbo高级特性.md"
     },
     {
-      "basename": "dubbo-admin管理平台",
-      "path": "04-技术/Dubbo/dubbo-admin管理平台.md"
+      "basename": "dubbo常用高级配置",
+      "path": "04-技术/Dubbo/dubbo常用高级配置.md"
     },
     {
-      "basename": "Dubbo",
-      "path": "04-技术/Dubbo/Dubbo.md"
+      "basename": "dubbo-admin管理平台",
+      "path": "04-技术/Dubbo/dubbo-admin管理平台.md"
     },
     {
       "basename": "分布式系统中相关的概念",
@@ -39,10 +79,6 @@
     {
       "basename": "大型互联网架构的目标",
       "path": "04-技术/Dubbo/大型互联网架构的目标.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
@@ -163,42 +199,6 @@
     {
       "basename": "ES 常见面试题",
       "path": "04-技术/ES/ES 常见面试题.md"
-    },
-    {
-      "basename": "ES 1",
-      "path": "04-技术/ES/ES 1.md"
-    },
-    {
-      "basename": "ES",
-      "path": "04-技术/ES/ES.md"
-    },
-    {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
-    },
-    {
-      "basename": "最大努力通知",
-      "path": "04-技术/分布式事务/最大努力通知.md"
-    },
-    {
-      "basename": "eureka自我保护机制是什么？",
-      "path": "面试/eureka自我保护机制是什么？.md"
-    },
-    {
-      "basename": "is null和is not null如何导致索引失效",
-      "path": "面试/is null和is not null如何导致索引失效.md"
-    },
-    {
-      "basename": "or如何使索引失效的",
-      "path": "面试/or如何使索引失效的.md"
-    },
-    {
-      "basename": "什么时候索引会失效",
-      "path": "面试/什么时候索引会失效.md"
-    },
-    {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
     }
   ],
   "omittedPaths": [],
