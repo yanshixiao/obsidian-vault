@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "为什么单表一般最大2000万条数据，2000万从哪里来的",
+      "path": "面试/为什么单表一般最大2000万条数据，2000万从哪里来的.md"
+    },
+    {
       "basename": "Gateway",
       "path": "04-技术/SpringCloud/Gateway.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "SpringCloud",
       "path": "04-技术/SpringCloud/SpringCloud.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "Dubbo高级特性",
@@ -195,10 +199,6 @@
     {
       "basename": "为什么要使用缓存",
       "path": "面试/为什么要使用缓存.md"
-    },
-    {
-      "basename": "为什么 Redis 单线程模型效率也能那么高？",
-      "path": "面试/为什么 Redis 单线程模型效率也能那么高？.md"
     }
   ],
   "omittedPaths": [],
