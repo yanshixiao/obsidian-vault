@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "服务保护方案有啥",
+      "path": "面试/服务保护方案有啥.md"
+    },
+    {
+      "basename": "如何提高系统的并发能力？",
+      "path": "面试/如何提高系统的并发能力？.md"
+    },
+    {
       "basename": "面试",
       "path": "面试/面试.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Dubbo",
       "path": "04-技术/Dubbo/Dubbo.md"
-    },
-    {
-      "basename": "服务保护方案有啥",
-      "path": "面试/服务保护方案有啥.md"
     },
     {
       "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
@@ -195,10 +199,6 @@
     {
       "basename": "Redis同步机制",
       "path": "面试/Redis同步机制.md"
-    },
-    {
-      "basename": "为什么要使用缓存",
-      "path": "面试/为什么要使用缓存.md"
     }
   ],
   "omittedPaths": [],
