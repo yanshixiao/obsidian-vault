@@ -956,6 +956,7 @@ sssiS
 sFxoWRRJOO
 sjjjoo
 stpp
+setnx
 cssclass
 created
 configuration
@@ -1650,6 +1651,8 @@ puuE
 pN
 piiijj
 pqqqll
+publish
+pexpire
 live
 let
 last
@@ -6201,6 +6204,7 @@ wvvzzz
 wqq
 wNP
 waa
+watchdog
 use
 uid
 user
@@ -7370,6 +7374,7 @@ hffv
 hnn
 hnnnll
 hjyy
+hincr
 Text
 TODO
 Theme
