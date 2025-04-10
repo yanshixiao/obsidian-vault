@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
+      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
+    },
+    {
+      "basename": "WatchDog机制",
+      "path": "04-技术/分布式锁/WatchDog机制.md"
+    },
+    {
+      "basename": "lua脚本释放锁及锁的订阅机制",
+      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
+    },
+    {
+      "basename": "分布式锁遇到可重入场景怎么搞",
+      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
+    },
+    {
+      "basename": "分布式锁可能会遇到的问题及解决方案",
+      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
+    },
+    {
+      "basename": "分布式锁",
+      "path": "04-技术/分布式锁/分布式锁.md"
+    },
+    {
+      "basename": "竞争synchronized锁的线程在哪里等待",
+      "path": "04-技术/synchronized/竞争synchronized锁的线程在哪里等待.md"
+    },
+    {
+      "basename": "synchronized",
+      "path": "04-技术/synchronized/synchronized.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "其他",
+      "path": "04-技术/其他/其他.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "基础",
+      "path": "04-技术/基础/基础.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
       "basename": "服务保护方案有啥",
       "path": "面试/服务保护方案有啥.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？",
       "path": "面试/假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？.md"
-    },
-    {
-      "basename": "Redis 集群架构模式有哪几种？",
-      "path": "面试/Redis 集群架构模式有哪几种？.md"
-    },
-    {
-      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
-      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
-    },
-    {
-      "basename": "怎样避免死锁",
-      "path": "面试/怎样避免死锁.md"
-    },
-    {
-      "basename": "熟悉哪些Redis集群模式？",
-      "path": "面试/熟悉哪些Redis集群模式？.md"
-    },
-    {
-      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
-      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
-    },
-    {
-      "basename": "熟悉哪些 Redis 集群模式？",
-      "path": "面试/熟悉哪些 Redis 集群模式？.md"
-    },
-    {
-      "basename": "怎么使用 Redis 实现消息队列？",
-      "path": "面试/怎么使用 Redis 实现消息队列？.md"
-    },
-    {
-      "basename": "Redis 持久化方式有哪些？以及有什么区别？",
-      "path": "面试/Redis 持久化方式有哪些？以及有什么区别？.md"
-    },
-    {
-      "basename": "Redis缓存刷新策略有哪些",
-      "path": "面试/Redis缓存刷新策略有哪些.md"
-    },
-    {
-      "basename": "说一下Redis有什么优缺点",
-      "path": "面试/说一下Redis有什么优缺点.md"
-    },
-    {
-      "basename": "Redis的pipeline",
-      "path": "面试/Redis的pipeline.md"
-    },
-    {
-      "basename": "说一下Redis的同步机制",
-      "path": "面试/说一下Redis的同步机制.md"
-    },
-    {
-      "basename": "Redis同步机制",
-      "path": "面试/Redis同步机制.md"
     }
   ],
   "omittedPaths": [],

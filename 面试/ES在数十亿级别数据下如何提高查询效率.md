@@ -71,11 +71,11 @@ es 的分页是较坑的，为啥呢？举个例子吧，假如你每页是 10 �
 
 有什么解决方案吗？
 
-#### 不允许深度分页（默认深度分页性能很差）
+#### [不允许深度分页（默认深度分页性能很差）](https://java.doocs.org/#/docs/high-concurrency/es-optimizing-query-performance?id=%e4%b8%8d%e5%85%81%e8%ae%b8%e6%b7%b1%e5%ba%a6%e5%88%86%e9%a1%b5%ef%bc%88%e9%bb%98%e8%ae%a4%e6%b7%b1%e5%ba%a6%e5%88%86%e9%a1%b5%e6%80%a7%e8%83%bd%e5%be%88%e5%b7%ae%ef%bc%89)
 
 跟产品经理说，你系统不允许翻那么深的页，默认翻的越深，性能就越差。
 
-#### 类似于 app 里的推荐商品不断下拉出来一页一页的
+#### [类似于 app 里的推荐商品不断下拉出来一页一页的](https://java.doocs.org/#/docs/high-concurrency/es-optimizing-query-performance?id=%e7%b1%bb%e4%bc%bc%e4%ba%8e-app-%e9%87%8c%e7%9a%84%e6%8e%a8%e8%8d%90%e5%95%86%e5%93%81%e4%b8%8d%e6%96%ad%e4%b8%8b%e6%8b%89%e5%87%ba%e6%9d%a5%e4%b8%80%e9%a1%b5%e4%b8%80%e9%a1%b5%e7%9a%84)
 
 类似于微博中，下拉刷微博，刷出来一页一页的，你可以用 `scroll api` ，关于如何使用，自行上网搜索。
 
