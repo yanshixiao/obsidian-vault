@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
+      "basename": "watchdog续期什么情况下会失败",
+      "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
+    },
+    {
+      "basename": "WatchDog机制",
+      "path": "04-技术/分布式锁/WatchDog机制.md"
     },
     {
       "basename": "分布式锁",
       "path": "04-技术/分布式锁/分布式锁.md"
+    },
+    {
+      "basename": "分库后跨库join问题",
+      "path": "04-技术/分库分表/分库后跨库join问题.md"
+    },
+    {
+      "basename": "分库分表怎么减少单行并发压力",
+      "path": "04-技术/分库分表/分库分表怎么减少单行并发压力.md"
+    },
+    {
+      "basename": "SeataAT模式的全局锁",
+      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
+    },
+    {
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
+    },
+    {
+      "basename": "Seata有什么优点和缺点",
+      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
+    },
+    {
+      "basename": "你知道哪些分布式事务解决方案",
+      "path": "面试/你知道哪些分布式事务解决方案.md"
     },
     {
       "basename": "TCC模式",
@@ -19,10 +47,6 @@
     {
       "basename": "分布式锁遇到可重入场景怎么搞",
       "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
-    },
-    {
-      "basename": "WatchDog机制",
-      "path": "04-技术/分布式锁/WatchDog机制.md"
     },
     {
       "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
@@ -175,30 +199,6 @@
     {
       "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
       "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
-    },
-    {
-      "basename": "Redis的过期策略及内存淘汰机制",
-      "path": "面试/Redis的过期策略及内存淘汰机制.md"
-    },
-    {
-      "basename": "redis的数据类型，以及每种数据类型的使用场景",
-      "path": "面试/redis的数据类型，以及每种数据类型的使用场景.md"
-    },
-    {
-      "basename": "Redis报内存不足怎么解决",
-      "path": "面试/Redis报内存不足怎么解决.md"
-    },
-    {
-      "basename": "Redis如何解决key冲突",
-      "path": "面试/Redis如何解决key冲突.md"
-    },
-    {
-      "basename": "怎么提高缓存命中率",
-      "path": "面试/怎么提高缓存命中率.md"
-    },
-    {
-      "basename": "缓存和数据库谁先更新呢",
-      "path": "面试/缓存和数据库谁先更新呢.md"
     }
   ],
   "omittedPaths": [],
