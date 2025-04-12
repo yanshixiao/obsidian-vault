@@ -1,16 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题",
+      "path": "04-技术/分库分表/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题.md"
+    },
+    {
+      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题-4",
+      "path": "99-Attachment/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题-4.png"
+    },
+    {
+      "basename": "分布式锁",
+      "path": "04-技术/分布式锁/分布式锁.md"
+    },
+    {
       "basename": "watchdog续期什么情况下会失败",
       "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
+    },
+    {
+      "basename": "分布式锁可能会遇到的问题及解决方案",
+      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
     },
     {
       "basename": "WatchDog机制",
       "path": "04-技术/分布式锁/WatchDog机制.md"
     },
     {
-      "basename": "分布式锁",
-      "path": "04-技术/分布式锁/分布式锁.md"
+      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
+      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
+    },
+    {
+      "basename": "lua脚本释放锁及锁的订阅机制",
+      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
+    },
+    {
+      "basename": "分布式锁遇到可重入场景怎么搞",
+      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
+    },
+    {
+      "basename": "ES",
+      "path": "04-技术/ES/ES.md"
+    },
+    {
+      "basename": "ES入门",
+      "path": "04-技术/ES/ES入门.md"
+    },
+    {
+      "basename": "ES 1",
+      "path": "04-技术/ES/ES 1.md"
+    },
+    {
+      "basename": "ES 常见面试题",
+      "path": "04-技术/ES/ES 常见面试题.md"
+    },
+    {
+      "basename": "RabbitMQ",
+      "path": "04-技术/消息队列/RabbitMQ.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "04-技术/消息队列/MQ.md"
+    },
+    {
+      "basename": "消息队列",
+      "path": "04-技术/消息队列/消息队列.md"
+    },
+    {
+      "basename": "拦截器和过滤器",
+      "path": "04-技术/其他/拦截器和过滤器.md"
+    },
+    {
+      "basename": "非阻塞IO （nonblocking IO）",
+      "path": "04-技术/其他/非阻塞IO （nonblocking IO）.md"
+    },
+    {
+      "basename": "其他",
+      "path": "04-技术/其他/其他.md"
+    },
+    {
+      "basename": "缓存如何使用",
+      "path": "04-技术/缓存/缓存如何使用.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "分布式系统中相关的概念",
+      "path": "04-技术/Dubbo/分布式系统中相关的概念.md"
+    },
+    {
+      "basename": "架构演进",
+      "path": "04-技术/Dubbo/架构演进.md"
+    },
+    {
+      "basename": "缓存一致性",
+      "path": "04-技术/缓存/Redis/缓存一致性.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
+      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "科研平台",
+      "path": "科研平台.md"
+    },
+    {
+      "basename": "微服务架构",
+      "path": "04-技术/微服务/微服务架构.md"
+    },
+    {
+      "basename": "微服务拆分",
+      "path": "04-技术/微服务/微服务拆分.md"
+    },
+    {
+      "basename": "单体架构",
+      "path": "04-技术/微服务/单体架构.md"
+    },
+    {
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
     },
     {
       "basename": "分库后跨库join问题",
@@ -25,10 +149,6 @@
       "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
     },
     {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
-    },
-    {
       "basename": "Seata有什么优点和缺点",
       "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
     },
@@ -41,22 +161,6 @@
       "path": "04-技术/分布式事务/TCC模式.md"
     },
     {
-      "basename": "分布式锁可能会遇到的问题及解决方案",
-      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
-    },
-    {
-      "basename": "分布式锁遇到可重入场景怎么搞",
-      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
-    },
-    {
-      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
-      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
-    },
-    {
-      "basename": "lua脚本释放锁及锁的订阅机制",
-      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
-    },
-    {
       "basename": "竞争synchronized锁的线程在哪里等待",
       "path": "04-技术/synchronized/竞争synchronized锁的线程在哪里等待.md"
     },
@@ -67,14 +171,6 @@
     {
       "basename": "常用工具",
       "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "其他",
-      "path": "04-技术/其他/其他.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
     },
     {
       "basename": "基础",
@@ -93,10 +189,6 @@
       "path": "面试/如何提高系统的并发能力？.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "为什么单表一般最大2000万条数据，2000万从哪里来的",
       "path": "面试/为什么单表一般最大2000万条数据，2000万从哪里来的.md"
     },
@@ -107,94 +199,6 @@
     {
       "basename": "网关",
       "path": "04-技术/SpringCloud/网关.md"
-    },
-    {
-      "basename": "SpringCloud",
-      "path": "04-技术/SpringCloud/SpringCloud.md"
-    },
-    {
-      "basename": "Dubbo高级特性",
-      "path": "04-技术/Dubbo/Dubbo高级特性.md"
-    },
-    {
-      "basename": "Dubbo",
-      "path": "04-技术/Dubbo/Dubbo.md"
-    },
-    {
-      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
-      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
-    },
-    {
-      "basename": "使用Redis有哪些好处",
-      "path": "面试/使用Redis有哪些好处.md"
-    },
-    {
-      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
-      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
-    },
-    {
-      "basename": "什么是 bigkey？会存在什么影响？",
-      "path": "面试/什么是 bigkey？会存在什么影响？.md"
-    },
-    {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
-    },
-    {
-      "basename": "常见负载均衡算法有哪些",
-      "path": "面试/常见负载均衡算法有哪些.md"
-    },
-    {
-      "basename": "你知道哪些限流算法",
-      "path": "面试/你知道哪些限流算法.md"
-    },
-    {
-      "basename": "elasticsearch 索引数据多了怎么办，如何调优，部署？",
-      "path": "面试/elasticsearch 索引数据多了怎么办，如何调优，部署？.md"
-    },
-    {
-      "basename": "elasticsearch 是如何实现 master 选举的？",
-      "path": "面试/elasticsearch 是如何实现 master 选举的？.md"
-    },
-    {
-      "basename": "谈谈你对段合并的策略思想的认识",
-      "path": "面试/谈谈你对段合并的策略思想的认识.md"
-    },
-    {
-      "basename": "说说分段存储的思想",
-      "path": "面试/说说分段存储的思想.md"
-    },
-    {
-      "basename": "了解ElasticSearch 深翻页的问题及解决吗？",
-      "path": "面试/了解ElasticSearch 深翻页的问题及解决吗？.md"
-    },
-    {
-      "basename": "什么是令牌桶算法",
-      "path": "面试/什么是令牌桶算法.md"
-    },
-    {
-      "basename": "什么是漏桶算法",
-      "path": "面试/什么是漏桶算法.md"
-    },
-    {
-      "basename": "什么是滑动窗口算法",
-      "path": "面试/什么是滑动窗口算法.md"
-    },
-    {
-      "basename": "什么是计数器（固定窗口）算法",
-      "path": "面试/什么是计数器（固定窗口）算法.md"
-    },
-    {
-      "basename": "分布式id生成有几种方案",
-      "path": "面试/分布式id生成有几种方案.md"
-    },
-    {
-      "basename": "说说Saga事务模型",
-      "path": "面试/说说Saga事务模型.md"
-    },
-    {
-      "basename": "用消息队列怎么实现",
-      "path": "面试/用消息队列怎么实现.md"
     }
   ],
   "omittedPaths": [],
