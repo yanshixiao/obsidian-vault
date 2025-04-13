@@ -1,24 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题",
-      "path": "04-技术/分库分表/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题.md"
+      "basename": "home",
+      "path": "88-Template/home.md"
     },
     {
-      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题-4",
-      "path": "99-Attachment/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题-4.png"
+      "basename": "04-技术",
+      "path": "04-技术/04-技术.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "分布式事务",
+      "path": "04-技术/分布式事务/分布式事务.md"
     },
     {
       "basename": "分布式锁",
       "path": "04-技术/分布式锁/分布式锁.md"
     },
     {
-      "basename": "watchdog续期什么情况下会失败",
-      "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
+      "basename": "T-文件夹笔记目录",
+      "path": "88-Template/mine/T-文件夹笔记目录.md"
     },
     {
-      "basename": "分布式锁可能会遇到的问题及解决方案",
-      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
+      "basename": "tp-通用模板",
+      "path": "88-Template/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "88-Template/tp/tp-自动选择模板.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "88-Template/tp/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "T-default-header",
+      "path": "88-Template/mine/T-default-header.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "04-技术/设计模式/设计模式.md"
+    },
+    {
+      "basename": "软件使用",
+      "path": "04-技术/软件使用/软件使用.md"
+    },
+    {
+      "basename": "其他",
+      "path": "04-技术/其他/其他.md"
+    },
+    {
+      "basename": "基础",
+      "path": "04-技术/基础/基础.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "04-技术/分库分表/分库分表.md"
+    },
+    {
+      "basename": "07-阅读",
+      "path": "07-阅读/07-阅读.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "TCC模式",
+      "path": "04-技术/分布式事务/TCC模式.md"
+    },
+    {
+      "basename": "05-生活",
+      "path": "05-生活/05-生活.md"
+    },
+    {
+      "basename": "注册中心",
+      "path": "04-技术/注册中心/注册中心.md"
+    },
+    {
+      "basename": "消息队列",
+      "path": "04-技术/消息队列/消息队列.md"
+    },
+    {
+      "basename": "微服务",
+      "path": "04-技术/微服务/微服务.md"
+    },
+    {
+      "basename": "分库分表怎么减少单行并发压力",
+      "path": "04-技术/分库分表/分库分表怎么减少单行并发压力.md"
     },
     {
       "basename": "WatchDog机制",
@@ -35,6 +107,26 @@
     {
       "basename": "分布式锁遇到可重入场景怎么搞",
       "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
+    },
+    {
+      "basename": "分布式锁可能会遇到的问题及解决方案",
+      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
+    },
+    {
+      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题",
+      "path": "04-技术/分库分表/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题.md"
+    },
+    {
+      "basename": "分库后跨库join问题",
+      "path": "04-技术/分库分表/分库后跨库join问题.md"
+    },
+    {
+      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题-4",
+      "path": "99-Attachment/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题-4.png"
+    },
+    {
+      "basename": "watchdog续期什么情况下会失败",
+      "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
     },
     {
       "basename": "ES",
@@ -61,10 +153,6 @@
       "path": "04-技术/消息队列/MQ.md"
     },
     {
-      "basename": "消息队列",
-      "path": "04-技术/消息队列/消息队列.md"
-    },
-    {
       "basename": "拦截器和过滤器",
       "path": "04-技术/其他/拦截器和过滤器.md"
     },
@@ -73,16 +161,8 @@
       "path": "04-技术/其他/非阻塞IO （nonblocking IO）.md"
     },
     {
-      "basename": "其他",
-      "path": "04-技术/其他/其他.md"
-    },
-    {
       "basename": "缓存如何使用",
       "path": "04-技术/缓存/缓存如何使用.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
     },
     {
       "basename": "分布式系统中相关的概念",
@@ -97,10 +177,6 @@
       "path": "04-技术/缓存/Redis/缓存一致性.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
       "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
     },
@@ -113,92 +189,12 @@
       "path": "README.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
       "basename": "科研平台",
       "path": "科研平台.md"
     },
     {
       "basename": "微服务架构",
       "path": "04-技术/微服务/微服务架构.md"
-    },
-    {
-      "basename": "微服务拆分",
-      "path": "04-技术/微服务/微服务拆分.md"
-    },
-    {
-      "basename": "单体架构",
-      "path": "04-技术/微服务/单体架构.md"
-    },
-    {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
-    },
-    {
-      "basename": "分库后跨库join问题",
-      "path": "04-技术/分库分表/分库后跨库join问题.md"
-    },
-    {
-      "basename": "分库分表怎么减少单行并发压力",
-      "path": "04-技术/分库分表/分库分表怎么减少单行并发压力.md"
-    },
-    {
-      "basename": "SeataAT模式的全局锁",
-      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
-    },
-    {
-      "basename": "Seata有什么优点和缺点",
-      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
-    },
-    {
-      "basename": "你知道哪些分布式事务解决方案",
-      "path": "面试/你知道哪些分布式事务解决方案.md"
-    },
-    {
-      "basename": "TCC模式",
-      "path": "04-技术/分布式事务/TCC模式.md"
-    },
-    {
-      "basename": "竞争synchronized锁的线程在哪里等待",
-      "path": "04-技术/synchronized/竞争synchronized锁的线程在哪里等待.md"
-    },
-    {
-      "basename": "synchronized",
-      "path": "04-技术/synchronized/synchronized.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "基础",
-      "path": "04-技术/基础/基础.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "服务保护方案有啥",
-      "path": "面试/服务保护方案有啥.md"
-    },
-    {
-      "basename": "如何提高系统的并发能力？",
-      "path": "面试/如何提高系统的并发能力？.md"
-    },
-    {
-      "basename": "为什么单表一般最大2000万条数据，2000万从哪里来的",
-      "path": "面试/为什么单表一般最大2000万条数据，2000万从哪里来的.md"
-    },
-    {
-      "basename": "Gateway",
-      "path": "04-技术/SpringCloud/Gateway.md"
-    },
-    {
-      "basename": "网关",
-      "path": "04-技术/SpringCloud/网关.md"
     }
   ],
   "omittedPaths": [],

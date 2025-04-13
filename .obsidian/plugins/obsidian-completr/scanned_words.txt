@@ -1002,6 +1002,7 @@ sssAk
 sUSR
 slo
 sYL
+subpath
 cssclass
 created
 configuration
@@ -3128,6 +3129,8 @@ ekbU
 evAQ
 eeeQQ
 eIy
+edges
+eadf
 failsafe
 false
 from
@@ -4059,6 +4062,7 @@ nh
 nL
 nUkoh
 nTCk
+note
 YYYY
 YYYYMMDDHHmm
 YYYYMMDDHHmmss
@@ -4656,6 +4660,8 @@ iv
 ijY
 iG
 iäM
+information
+instructions
 kanban
 kanbanwp
 keys
@@ -5419,6 +5425,7 @@ LH
 LVYY
 LEF
 LA
+Landmark
 renwu
 rename
 richeng
@@ -6572,6 +6579,7 @@ wxB
 wj
 wdr
 waaarrrtt
+waypoint
 use
 uid
 user
@@ -8317,6 +8325,7 @@ EMC
 Ef
 ECoZ
 EZi
+Error
 ColorPicker
 Ctags
 CommandPalette

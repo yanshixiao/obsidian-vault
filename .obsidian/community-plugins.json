@@ -30,5 +30,6 @@
   "slash-commander",
   "obsidian-git",
   "mermaid-tools",
-  "folder-note-plugin"
+  "folder-notes",
+  "floating-toc"
 ]
