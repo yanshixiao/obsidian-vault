@@ -1,24 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "home",
-      "path": "88-Template/home.md"
+      "basename": "lua脚本释放锁及锁的订阅机制",
+      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
     },
     {
-      "basename": "04-技术",
-      "path": "04-技术/04-技术.md"
+      "basename": "分布式锁",
+      "path": "04-技术/分布式锁/分布式锁.md"
     },
     {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
+      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
+      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
     },
     {
       "basename": "分布式事务",
       "path": "04-技术/分布式事务/分布式事务.md"
     },
     {
-      "basename": "分布式锁",
-      "path": "04-技术/分布式锁/分布式锁.md"
+      "basename": "基础",
+      "path": "04-技术/基础/基础.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "04-技术/分库分表/分库分表.md"
+    },
+    {
+      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题",
+      "path": "04-技术/分库分表/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题.md"
+    },
+    {
+      "basename": "04-技术",
+      "path": "04-技术/04-技术.md"
+    },
+    {
+      "basename": "SeataAT模式的全局锁",
+      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
+    },
+    {
+      "basename": "Seata有什么优点和缺点",
+      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
+    },
+    {
+      "basename": "最大努力通知",
+      "path": "04-技术/分布式事务/最大努力通知.md"
+    },
+    {
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "05-生活",
+      "path": "05-生活/05-生活.md"
+    },
+    {
+      "basename": "测试",
+      "path": "05-生活/测试.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "使用MySQL的索引需要注意什么",
+      "path": "面试/使用MySQL的索引需要注意什么.md"
+    },
+    {
+      "basename": "索引是什么",
+      "path": "面试/索引是什么.md"
+    },
+    {
+      "basename": "解释一下Spring Bean的生命周期",
+      "path": "面试/解释一下Spring Bean的生命周期.md"
+    },
+    {
+      "basename": "百亿数据迁移基于bitmap数据一致方案",
+      "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
     },
     {
       "basename": "T-文件夹笔记目录",
@@ -53,28 +117,12 @@
       "path": "04-技术/其他/其他.md"
     },
     {
-      "basename": "基础",
-      "path": "04-技术/基础/基础.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "04-技术/分库分表/分库分表.md"
-    },
-    {
       "basename": "07-阅读",
       "path": "07-阅读/07-阅读.md"
     },
     {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "TCC模式",
       "path": "04-技术/分布式事务/TCC模式.md"
-    },
-    {
-      "basename": "05-生活",
-      "path": "05-生活/05-生活.md"
     },
     {
       "basename": "注册中心",
@@ -97,24 +145,12 @@
       "path": "04-技术/分布式锁/WatchDog机制.md"
     },
     {
-      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
-      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
-    },
-    {
-      "basename": "lua脚本释放锁及锁的订阅机制",
-      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
-    },
-    {
       "basename": "分布式锁遇到可重入场景怎么搞",
       "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
     },
     {
       "basename": "分布式锁可能会遇到的问题及解决方案",
       "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
-    },
-    {
-      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题",
-      "path": "04-技术/分库分表/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题.md"
     },
     {
       "basename": "分库后跨库join问题",
@@ -163,38 +199,6 @@
     {
       "basename": "缓存如何使用",
       "path": "04-技术/缓存/缓存如何使用.md"
-    },
-    {
-      "basename": "分布式系统中相关的概念",
-      "path": "04-技术/Dubbo/分布式系统中相关的概念.md"
-    },
-    {
-      "basename": "架构演进",
-      "path": "04-技术/Dubbo/架构演进.md"
-    },
-    {
-      "basename": "缓存一致性",
-      "path": "04-技术/缓存/Redis/缓存一致性.md"
-    },
-    {
-      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
-      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "科研平台",
-      "path": "科研平台.md"
-    },
-    {
-      "basename": "微服务架构",
-      "path": "04-技术/微服务/微服务架构.md"
     }
   ],
   "omittedPaths": [],
