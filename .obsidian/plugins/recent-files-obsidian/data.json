@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "百亿数据迁移基于bitmap数据一致方案",
+      "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
+    },
+    {
+      "basename": "消息队列MQ",
+      "path": "04-技术/消息队列MQ/消息队列MQ.md"
+    },
+    {
+      "basename": "软件使用",
+      "path": "04-技术/软件使用/软件使用.md"
+    },
+    {
       "basename": "RabbitMQ的delivery_tag",
       "path": "04-技术/消息队列MQ/RabbitMQ的delivery_tag.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "RabbitMQTemplate与Channel",
       "path": "04-技术/消息队列MQ/RabbitMQTemplate与Channel.md"
-    },
-    {
-      "basename": "消息队列MQ",
-      "path": "04-技术/消息队列MQ/消息队列MQ.md"
     },
     {
       "basename": "04-技术",
@@ -43,10 +51,6 @@
     {
       "basename": "CompletableFuture",
       "path": "04-技术/基础/CompletableFuture.md"
-    },
-    {
-      "basename": "软件使用",
-      "path": "04-技术/软件使用/软件使用.md"
     },
     {
       "basename": "其他",
@@ -167,10 +171,6 @@
     {
       "basename": "解释一下Spring Bean的生命周期",
       "path": "面试/解释一下Spring Bean的生命周期.md"
-    },
-    {
-      "basename": "百亿数据迁移基于bitmap数据一致方案",
-      "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
     },
     {
       "basename": "T-文件夹笔记目录",
