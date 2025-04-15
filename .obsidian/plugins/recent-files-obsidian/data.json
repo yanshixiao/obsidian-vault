@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "长事务导致连接池耗尽",
+      "path": "04-技术/事务/长事务导致连接池耗尽.md"
+    },
+    {
+      "basename": "事务",
+      "path": "04-技术/事务/事务.md"
+    },
+    {
+      "basename": "20250416010038",
+      "path": "04-技术/20250416010038.md"
+    },
+    {
+      "basename": "SpringCloud",
+      "path": "04-技术/SpringCloud/SpringCloud.md"
+    },
+    {
+      "basename": "SpringSecurity中UsernameNotFoundException抛不出来",
+      "path": "04-技术/Spring Security/SpringSecurity中UsernameNotFoundException抛不出来.md"
+    },
+    {
+      "basename": "UsernameNotFoundException",
+      "path": "04-技术/Spring Security/UsernameNotFoundException.md"
+    },
+    {
+      "basename": "Git",
+      "path": "04-技术/Git/Git.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "04-技术/Dubbo/Dubbo.md"
+    },
+    {
+      "basename": "MQ如何实现高可用的",
+      "path": "面试/MQ如何实现高可用的.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
+      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
+    },
+    {
+      "basename": "异步刷盘下 RabbitMQ的ACK机制",
+      "path": "面试/异步刷盘下 RabbitMQ的ACK机制.md"
+    },
+    {
+      "basename": "让你来设计一个消息队列，你会怎么设计",
+      "path": "面试/让你来设计一个消息队列，你会怎么设计.md"
+    },
+    {
       "basename": "百亿数据迁移基于bitmap数据一致方案",
       "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
     },
@@ -73,14 +129,6 @@
       "path": "04-技术/消息队列MQ/RabbitMQ.md"
     },
     {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
       "basename": "lua脚本释放锁及锁的订阅机制",
       "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
     },
@@ -151,38 +199,6 @@
     {
       "basename": "Seata的AT模式",
       "path": "04-技术/分布式事务/Seata的AT模式.md"
-    },
-    {
-      "basename": "05-生活",
-      "path": "05-生活/05-生活.md"
-    },
-    {
-      "basename": "测试",
-      "path": "05-生活/测试.md"
-    },
-    {
-      "basename": "使用MySQL的索引需要注意什么",
-      "path": "面试/使用MySQL的索引需要注意什么.md"
-    },
-    {
-      "basename": "索引是什么",
-      "path": "面试/索引是什么.md"
-    },
-    {
-      "basename": "解释一下Spring Bean的生命周期",
-      "path": "面试/解释一下Spring Bean的生命周期.md"
-    },
-    {
-      "basename": "T-文件夹笔记目录",
-      "path": "88-Template/mine/T-文件夹笔记目录.md"
-    },
-    {
-      "basename": "tp-通用模板",
-      "path": "88-Template/tp/tp-通用模板.md"
-    },
-    {
-      "basename": "tp-自动选择模板",
-      "path": "88-Template/tp/tp-自动选择模板.md"
     }
   ],
   "omittedPaths": [],

@@ -471,6 +471,7 @@ aaaJJJnn
 aWk
 aK
 autoAck
+amend
 tags
 test
 true
@@ -728,6 +729,7 @@ tmv
 tgt
 tpT
 tccC
+tree
 source
 skip
 surefire
@@ -1006,6 +1008,7 @@ slo
 sYL
 subpath
 starttime
+soft
 cssclass
 created
 configuration
@@ -1276,6 +1279,10 @@ cfB
 cj
 cPa
 cbbX
+clip
+checkout
+cec
+cherry
 obsidianUIMode
 obsidianEditingMode
 open
@@ -1481,6 +1488,8 @@ oGsBY
 oi
 oIgK
 oeTG
+onto
+objects
 preview
 pom
 properties
@@ -1735,6 +1744,7 @@ pDA
 proxy
 prefetch
 pending
+pick
 live
 let
 last
@@ -2495,6 +2505,7 @@ mnnnll
 mnR
 mmLS
 mKRK
+maint
 DskipTests
 DdefaultValueOfSkip
 DD
@@ -2723,6 +2734,8 @@ DRWW
 DUO
 DzAD
 DLX
+Diff
+DaoAuthenticationProvider
 xml
 xc
 xe
@@ -3139,6 +3152,7 @@ eIy
 edges
 eadf
 executing
+eecb
 failsafe
 false
 from
@@ -3368,6 +3382,7 @@ fgn
 fgdd
 fwww
 finished
+forward
 defaultValueOfSkip
 diff
 date
@@ -3643,6 +3658,7 @@ di
 dKW
 dv
 delivery
+detached
 build
 banner
 background
@@ -3869,6 +3885,7 @@ bf
 bcccUU
 basicQos
 bitmap
+blob
 now
 newtitle
 null
@@ -5689,6 +5706,9 @@ ru
 rvB
 rtM
 range
+reset
+rebase
+reflog
 vika
 var
 verb
@@ -7602,6 +7622,7 @@ SSSi
 SSY
 SRx
 Se
+SHA
 homewp
 html
 help
@@ -7830,6 +7851,8 @@ hkK
 hdO
 hn
 hoK
+hard
+hideUserNotFoundException
 Text
 TODO
 Theme
@@ -8623,6 +8646,8 @@ Ceid
 CVw
 Channel
 Connection
+Checkout
+Cherry
 NodeJS
 Note
 Nu
@@ -9103,6 +9128,7 @@ Po
 PODLH
 POb
 Prefetch
+Pick
 Ruby
 Realities
 RX
@@ -9400,6 +9426,8 @@ Rtv
 RrM
 Rq
 Rve
+Reset
+Rebase
 Haskell
 Highlighter
 History
@@ -9625,6 +9653,7 @@ HzP
 HYf
 Hdcc
 HXs
+HEAD
 Key
 KB
 KEY
