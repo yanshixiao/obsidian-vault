@@ -27,6 +27,7 @@ obsidianUIMode: preview
 - [[MySQL修改密码的4种方式]]
 - [[MySQL一张表到底能存多少数据]]
 - [[MySQL中判断两个时间段是否有交集]]
+- [[MySQL主从延迟优化]]
 - [[SQL UNION 和 UNION ALL 操作符]]
 - [[Windows mysql安装]]
 

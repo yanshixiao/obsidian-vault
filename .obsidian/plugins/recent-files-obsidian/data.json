@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL主从延迟优化",
+      "path": "04-技术/MySQL/MySQL主从延迟优化.md"
+    },
+    {
       "basename": "长事务导致连接池耗尽",
       "path": "04-技术/事务/长事务导致连接池耗尽.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "最大努力通知",
       "path": "04-技术/分布式事务/最大努力通知.md"
-    },
-    {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
     }
   ],
   "omittedPaths": [],
