@@ -7284,6 +7284,7 @@ BBmo
 BUWW
 BMN
 Boo
+Back
 Solid
 Sublime
 SublimeREPL
@@ -7623,6 +7624,7 @@ SSY
 SRx
 Se
 SHA
+Schema
 homewp
 html
 help
@@ -9129,6 +9131,7 @@ PODLH
 POb
 Prefetch
 Pick
+Performance
 Ruby
 Realities
 RX
@@ -10600,6 +10603,7 @@ IEG
 IDATJ
 IWB
 IgJYja
+ICP
 Git
 GitGutter
 Gtrl

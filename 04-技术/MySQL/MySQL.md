@@ -12,6 +12,7 @@ obsidianUIMode: preview
 - [[深入理解 Mysql 索引底层原理]]
 - [[事务隔离性要解决的问题]]
 - [[脏读]]
+- [[怎么看出来回表了]]
 - [[Docker安装MySQL8.0]]
 - [[explain]]
 - [[Install MySQL 5.7 on Linux Using RPM Packages from Oracle]]
@@ -29,6 +30,7 @@ obsidianUIMode: preview
 - [[MySQL中判断两个时间段是否有交集]]
 - [[MySQL主从延迟优化]]
 - [[SQL UNION 和 UNION ALL 操作符]]
+- [[Using index condition]]
 - [[Windows mysql安装]]
 
 %% End Waypoint %%

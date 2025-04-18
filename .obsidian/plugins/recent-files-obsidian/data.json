@@ -1,20 +1,132 @@
 {
   "recentFiles": [
     {
+      "basename": "怎么看出来回表了",
+      "path": "04-技术/MySQL/怎么看出来回表了.md"
+    },
+    {
+      "basename": "Using index condition",
+      "path": "04-技术/MySQL/Using index condition.md"
+    },
+    {
+      "basename": "MySQL创建用户与授权",
+      "path": "04-技术/MySQL/MySQL创建用户与授权.md"
+    },
+    {
+      "basename": "MySQL给一个字段递增赋值",
+      "path": "04-技术/MySQL/MySQL给一个字段递增赋值.md"
+    },
+    {
+      "basename": "MySQL和时间相关的操作 sql",
+      "path": "04-技术/MySQL/MySQL和时间相关的操作 sql.md"
+    },
+    {
+      "basename": "MySQL获取当前周与当前月的时间段",
+      "path": "04-技术/MySQL/MySQL获取当前周与当前月的时间段.md"
+    },
+    {
+      "basename": "MySQL事务隔离级别和实现原理",
+      "path": "04-技术/MySQL/MySQL事务隔离级别和实现原理.md"
+    },
+    {
+      "basename": "MySQL修改密码的4种方式",
+      "path": "04-技术/MySQL/MySQL修改密码的4种方式.md"
+    },
+    {
+      "basename": "MySQL一张表到底能存多少数据",
+      "path": "04-技术/MySQL/MySQL一张表到底能存多少数据.md"
+    },
+    {
       "basename": "MySQL主从延迟优化",
       "path": "04-技术/MySQL/MySQL主从延迟优化.md"
     },
     {
-      "basename": "长事务导致连接池耗尽",
-      "path": "04-技术/事务/长事务导致连接池耗尽.md"
+      "basename": "事务的传播级别",
+      "path": "面试/事务的传播级别.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "事务失效的几种场景",
+      "path": "04-技术/事务/事务失效的几种场景.md"
     },
     {
       "basename": "事务",
       "path": "04-技术/事务/事务.md"
     },
     {
-      "basename": "20250416010038",
-      "path": "04-技术/20250416010038.md"
+      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
+      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
+    },
+    {
+      "basename": "Redis如何解决key冲突",
+      "path": "面试/Redis如何解决key冲突.md"
+    },
+    {
+      "basename": "Redis报内存不足怎么解决",
+      "path": "面试/Redis报内存不足怎么解决.md"
+    },
+    {
+      "basename": "缓存和数据库谁先更新呢",
+      "path": "面试/缓存和数据库谁先更新呢.md"
+    },
+    {
+      "basename": "并发读写脏数据问题示例及解释",
+      "path": "面试/并发读写脏数据问题示例及解释.md"
+    },
+    {
+      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
+      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
+    },
+    {
+      "basename": "假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？",
+      "path": "面试/假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？.md"
+    },
+    {
+      "basename": "Redis缓存刷新策略有哪些",
+      "path": "面试/Redis缓存刷新策略有哪些.md"
+    },
+    {
+      "basename": "说一下Redis的同步机制",
+      "path": "面试/说一下Redis的同步机制.md"
+    },
+    {
+      "basename": "延时双删",
+      "path": "04-技术/缓存/Redis/延时双删.md"
+    },
+    {
+      "basename": "缓存一致性",
+      "path": "04-技术/缓存/Redis/缓存一致性.md"
+    },
+    {
+      "basename": "缓存雪崩",
+      "path": "04-技术/缓存/Redis/缓存雪崩.md"
+    },
+    {
+      "basename": "缓存击穿",
+      "path": "04-技术/缓存/Redis/缓存击穿.md"
+    },
+    {
+      "basename": "Redis过期key处理",
+      "path": "04-技术/缓存/Redis/Redis过期key处理.md"
+    },
+    {
+      "basename": "缓存穿透",
+      "path": "04-技术/缓存/Redis/缓存穿透.md"
+    },
+    {
+      "basename": "缓存",
+      "path": "04-技术/缓存/缓存.md"
+    },
+    {
+      "basename": "什么是视图",
+      "path": "面试/什么是视图.md"
+    },
+    {
+      "basename": "长事务导致连接池耗尽",
+      "path": "04-技术/事务/长事务导致连接池耗尽.md"
     },
     {
       "basename": "SpringCloud",
@@ -43,10 +155,6 @@
     {
       "basename": "MQ如何实现高可用的",
       "path": "面试/MQ如何实现高可用的.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
@@ -91,114 +199,6 @@
     {
       "basename": "04-技术",
       "path": "04-技术/04-技术.md"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
-    },
-    {
-      "basename": "RabbitMQ的Channel",
-      "path": "04-技术/消息队列MQ/RabbitMQ的Channel.md"
-    },
-    {
-      "basename": "Zookeeper",
-      "path": "04-技术/其他/Zookeeper.md"
-    },
-    {
-      "basename": "技术文章收藏",
-      "path": "04-技术/技术文章收藏.md"
-    },
-    {
-      "basename": "CompletableFuture",
-      "path": "04-技术/基础/CompletableFuture.md"
-    },
-    {
-      "basename": "其他",
-      "path": "04-技术/其他/其他.md"
-    },
-    {
-      "basename": "分布式锁",
-      "path": "04-技术/分布式锁/分布式锁.md"
-    },
-    {
-      "basename": "线程池原理及核心参数",
-      "path": "面试/线程池原理及核心参数.md"
-    },
-    {
-      "basename": "简述一下对线程池的理解",
-      "path": "面试/简述一下对线程池的理解.md"
-    },
-    {
-      "basename": "RabbitMQ",
-      "path": "04-技术/消息队列MQ/RabbitMQ.md"
-    },
-    {
-      "basename": "lua脚本释放锁及锁的订阅机制",
-      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
-    },
-    {
-      "basename": "什么是StopTheWorld,什么是Map,什么是安全点",
-      "path": "面试/什么是StopTheWorld,什么是Map,什么是安全点.md"
-    },
-    {
-      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
-      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
-    },
-    {
-      "basename": "常用的线程池有哪些",
-      "path": "面试/常用的线程池有哪些.md"
-    },
-    {
-      "basename": "什么是 bigkey？会存在什么影响？",
-      "path": "面试/什么是 bigkey？会存在什么影响？.md"
-    },
-    {
-      "basename": "线程死锁或OOM如何发现解决",
-      "path": "面试/线程死锁或OOM如何发现解决.md"
-    },
-    {
-      "basename": "jstack生成快照之后呢，文件怎么解读",
-      "path": "面试/jstack生成快照之后呢，文件怎么解读.md"
-    },
-    {
-      "basename": "什么是StopTheWorld,什么是OomMap,什么是安全点",
-      "path": "面试/什么是StopTheWorld,什么是OomMap,什么是安全点.md"
-    },
-    {
-      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
-      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
-    },
-    {
-      "basename": "分布式事务",
-      "path": "04-技术/分布式事务/分布式事务.md"
-    },
-    {
-      "basename": "基础",
-      "path": "04-技术/基础/基础.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "04-技术/分库分表/分库分表.md"
-    },
-    {
-      "basename": "数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题",
-      "path": "04-技术/分库分表/数据库瓶颈、水平和垂直拆分库表、分库分表工具、分库分表步骤、分库分表问题.md"
-    },
-    {
-      "basename": "SeataAT模式的全局锁",
-      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
-    },
-    {
-      "basename": "Seata有什么优点和缺点",
-      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
-    },
-    {
-      "basename": "最大努力通知",
-      "path": "04-技术/分布式事务/最大努力通知.md"
     }
   ],
   "omittedPaths": [],
