@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis实现分布式全局id、浏览数、值缓存、分布式Session",
+      "path": "04-技术/缓存/Redis/Redis实现分布式全局id、浏览数、值缓存、分布式Session.md"
+    },
+    {
+      "basename": "事务",
+      "path": "04-技术/事务/事务.md"
+    },
+    {
+      "basename": "百亿数据迁移基于bitmap数据一致方案",
+      "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
+    },
+    {
+      "basename": "数据迁移",
+      "path": "04-技术/数据迁移/数据迁移.md"
+    },
+    {
       "basename": "Spring多线程线程事务失效",
       "path": "04-技术/事务/Spring多线程线程事务失效.md"
     },
@@ -83,10 +99,6 @@
     {
       "basename": "事务失效的几种场景",
       "path": "04-技术/事务/事务失效的几种场景.md"
-    },
-    {
-      "basename": "事务",
-      "path": "04-技术/事务/事务.md"
     },
     {
       "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
@@ -187,18 +199,6 @@
     {
       "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
       "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
-    },
-    {
-      "basename": "异步刷盘下 RabbitMQ的ACK机制",
-      "path": "面试/异步刷盘下 RabbitMQ的ACK机制.md"
-    },
-    {
-      "basename": "让你来设计一个消息队列，你会怎么设计",
-      "path": "面试/让你来设计一个消息队列，你会怎么设计.md"
-    },
-    {
-      "basename": "百亿数据迁移基于bitmap数据一致方案",
-      "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
     }
   ],
   "omittedPaths": [],
