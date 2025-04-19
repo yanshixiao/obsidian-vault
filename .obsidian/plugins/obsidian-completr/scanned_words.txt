@@ -1009,6 +1009,7 @@ sYL
 subpath
 starttime
 soft
+setAutoCommit
 cssclass
 created
 configuration
@@ -1978,6 +1979,7 @@ lvEEEiiimm
 lbb
 laW
 lvww
+ldc
 Maven
 MM
 Map
@@ -3153,6 +3155,8 @@ edges
 eadf
 executing
 eecb
+explain
+employee
 failsafe
 false
 from
@@ -3659,6 +3663,7 @@ dKW
 dv
 delivery
 detached
+dataSource
 build
 banner
 background
@@ -3886,6 +3891,8 @@ bcccUU
 basicQos
 bitmap
 blob
+beginupdate
+bindResource
 now
 newtitle
 null
@@ -7029,6 +7036,7 @@ grR
 gUn
 gi
 group
+getResource
 Banner
 Building
 Bracket
@@ -8137,6 +8145,7 @@ TIo
 TcR
 TAlM
 TVVp
+TransactionSynchronizationManager
 Editing
 Emmet
 Editting
@@ -8650,6 +8659,7 @@ Channel
 Connection
 Checkout
 Cherry
+ConnectionHolder
 NodeJS
 Note
 Nu
@@ -9132,6 +9142,7 @@ POb
 Prefetch
 Pick
 Performance
+Pushdown
 Ruby
 Realities
 RX
@@ -9431,6 +9442,7 @@ Rq
 Rve
 Reset
 Rebase
+Review
 Haskell
 Highlighter
 History
@@ -10806,6 +10818,7 @@ GvF
 Gz
 Gb
 GFFFDD
+GAP
 Overview
 OPTIONS
 Obsidian

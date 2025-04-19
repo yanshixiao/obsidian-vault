@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "怎么看出来回表了",
-      "path": "04-技术/MySQL/怎么看出来回表了.md"
+      "basename": "Spring多线程线程事务失效",
+      "path": "04-技术/事务/Spring多线程线程事务失效.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "事务注解的本质是什么",
+      "path": "04-技术/事务/事务注解的本质是什么.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "04-技术/MySQL/MySQL.md"
+    },
+    {
+      "basename": "数据库的事务",
+      "path": "面试/数据库的事务.md"
+    },
+    {
+      "basename": "长事务导致连接池耗尽",
+      "path": "04-技术/事务/长事务导致连接池耗尽.md"
+    },
+    {
+      "basename": "死锁产生的必要条件",
+      "path": "04-技术/其他/死锁产生的必要条件.md"
+    },
+    {
+      "basename": "分布式锁遇到可重入场景怎么搞",
+      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
+    },
+    {
+      "basename": "MySQL主从延迟优化",
+      "path": "04-技术/MySQL/MySQL主从延迟优化.md"
+    },
+    {
+      "basename": "SQL UNION 和 UNION ALL 操作符",
+      "path": "04-技术/MySQL/SQL UNION 和 UNION ALL 操作符.md"
     },
     {
       "basename": "Using index condition",
       "path": "04-技术/MySQL/Using index condition.md"
+    },
+    {
+      "basename": "怎么看出来回表了",
+      "path": "04-技术/MySQL/怎么看出来回表了.md"
     },
     {
       "basename": "MySQL创建用户与授权",
@@ -37,16 +77,8 @@
       "path": "04-技术/MySQL/MySQL一张表到底能存多少数据.md"
     },
     {
-      "basename": "MySQL主从延迟优化",
-      "path": "04-技术/MySQL/MySQL主从延迟优化.md"
-    },
-    {
       "basename": "事务的传播级别",
       "path": "面试/事务的传播级别.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
     },
     {
       "basename": "事务失效的几种场景",
@@ -125,10 +157,6 @@
       "path": "面试/什么是视图.md"
     },
     {
-      "basename": "长事务导致连接池耗尽",
-      "path": "04-技术/事务/长事务导致连接池耗尽.md"
-    },
-    {
       "basename": "SpringCloud",
       "path": "04-技术/SpringCloud/SpringCloud.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "百亿数据迁移基于bitmap数据一致方案",
       "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
-    },
-    {
-      "basename": "消息队列MQ",
-      "path": "04-技术/消息队列MQ/消息队列MQ.md"
-    },
-    {
-      "basename": "软件使用",
-      "path": "04-技术/软件使用/软件使用.md"
-    },
-    {
-      "basename": "RabbitMQ的delivery_tag",
-      "path": "04-技术/消息队列MQ/RabbitMQ的delivery_tag.md"
-    },
-    {
-      "basename": "RabbitMQ的Qos",
-      "path": "04-技术/消息队列MQ/RabbitMQ的Qos.md"
-    },
-    {
-      "basename": "@Transactional与RabbitMQ操作",
-      "path": "04-技术/消息队列MQ/@Transactional与RabbitMQ操作.md"
-    },
-    {
-      "basename": "RabbitMQTemplate与Channel",
-      "path": "04-技术/消息队列MQ/RabbitMQTemplate与Channel.md"
-    },
-    {
-      "basename": "04-技术",
-      "path": "04-技术/04-技术.md"
     }
   ],
   "omittedPaths": [],
