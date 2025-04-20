@@ -31,5 +31,3 @@ Redis实现分布式全局id、浏览数、值缓存、分布式Session主要是
 ![[Redis实现分布式全局id、浏览数、值缓存、分布式Session.png]]
 可以把session存到Redis里。下次查询如果命中，说明已经登录了。
 ![[Redis实现分布式全局id、浏览数、值缓存、分布式Session-1.png]]
-
-

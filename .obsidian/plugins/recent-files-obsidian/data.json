@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringSecurity中UsernameNotFoundException抛不出来",
+      "path": "04-技术/Spring Security/SpringSecurity中UsernameNotFoundException抛不出来.md"
+    },
+    {
+      "basename": "UsernameNotFoundException",
+      "path": "04-技术/Spring Security/UsernameNotFoundException.md"
+    },
+    {
+      "basename": "垃圾回收",
+      "path": "04-技术/JVM/垃圾回收.md"
+    },
+    {
+      "basename": "什么是JVM？",
+      "path": "04-技术/JVM/什么是JVM？.md"
+    },
+    {
+      "basename": "tomcat部署的三种方式",
+      "path": "04-技术/其他/tomcat部署的三种方式.md"
+    },
+    {
+      "basename": "Servlet介绍",
+      "path": "04-技术/其他/Servlet介绍.md"
+    },
+    {
+      "basename": "IO模型",
+      "path": "04-技术/其他/IO模型.md"
+    },
+    {
+      "basename": "IO多路复用（IO multiplexing）",
+      "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
+    },
+    {
+      "basename": "阻塞IO（blocking IO）",
+      "path": "04-技术/其他/阻塞IO（blocking IO）.md"
+    },
+    {
+      "basename": "异步IO（asynchronous IO）",
+      "path": "04-技术/其他/异步IO（asynchronous IO）.md"
+    },
+    {
+      "basename": "死锁产生的必要条件",
+      "path": "04-技术/其他/死锁产生的必要条件.md"
+    },
+    {
+      "basename": "拦截器和过滤器",
+      "path": "04-技术/其他/拦截器和过滤器.md"
+    },
+    {
+      "basename": "非阻塞IO （nonblocking IO）",
+      "path": "04-技术/其他/非阻塞IO （nonblocking IO）.md"
+    },
+    {
+      "basename": "CPU占用100%处理",
+      "path": "04-技术/问题排查/CPU占用100%处理.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "SeataAT模式的全局锁",
+      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
+    },
+    {
+      "basename": "04-技术",
+      "path": "04-技术/04-技术.md"
+    },
+    {
+      "basename": "Seata有什么优点和缺点",
+      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
+    },
+    {
+      "basename": "分库分表怎么减少单行并发压力",
+      "path": "04-技术/分库分表/分库分表怎么减少单行并发压力.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "CAP和BASE理论",
+      "path": "04-技术/分布式事务/CAP和BASE理论.md"
+    },
+    {
+      "basename": "最大努力通知",
+      "path": "04-技术/分布式事务/最大努力通知.md"
+    },
+    {
+      "basename": "好用的工具类方法",
+      "path": "04-技术/基础/好用的工具类方法.md"
+    },
+    {
+      "basename": "Spring多线程线程事务失效",
+      "path": "04-技术/事务/Spring多线程线程事务失效.md"
+    },
+    {
       "basename": "Redis实现分布式全局id、浏览数、值缓存、分布式Session",
       "path": "04-技术/缓存/Redis/Redis实现分布式全局id、浏览数、值缓存、分布式Session.md"
     },
@@ -15,10 +115,6 @@
     {
       "basename": "数据迁移",
       "path": "04-技术/数据迁移/数据迁移.md"
-    },
-    {
-      "basename": "Spring多线程线程事务失效",
-      "path": "04-技术/事务/Spring多线程线程事务失效.md"
     },
     {
       "basename": "面试",
@@ -39,10 +135,6 @@
     {
       "basename": "长事务导致连接池耗尽",
       "path": "04-技术/事务/长事务导致连接池耗尽.md"
-    },
-    {
-      "basename": "死锁产生的必要条件",
-      "path": "04-技术/其他/死锁产生的必要条件.md"
     },
     {
       "basename": "分布式锁遇到可重入场景怎么搞",
@@ -107,98 +199,6 @@
     {
       "basename": "Redis如何解决key冲突",
       "path": "面试/Redis如何解决key冲突.md"
-    },
-    {
-      "basename": "Redis报内存不足怎么解决",
-      "path": "面试/Redis报内存不足怎么解决.md"
-    },
-    {
-      "basename": "缓存和数据库谁先更新呢",
-      "path": "面试/缓存和数据库谁先更新呢.md"
-    },
-    {
-      "basename": "并发读写脏数据问题示例及解释",
-      "path": "面试/并发读写脏数据问题示例及解释.md"
-    },
-    {
-      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
-      "path": "面试/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
-    },
-    {
-      "basename": "假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？",
-      "path": "面试/假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？.md"
-    },
-    {
-      "basename": "Redis缓存刷新策略有哪些",
-      "path": "面试/Redis缓存刷新策略有哪些.md"
-    },
-    {
-      "basename": "说一下Redis的同步机制",
-      "path": "面试/说一下Redis的同步机制.md"
-    },
-    {
-      "basename": "延时双删",
-      "path": "04-技术/缓存/Redis/延时双删.md"
-    },
-    {
-      "basename": "缓存一致性",
-      "path": "04-技术/缓存/Redis/缓存一致性.md"
-    },
-    {
-      "basename": "缓存雪崩",
-      "path": "04-技术/缓存/Redis/缓存雪崩.md"
-    },
-    {
-      "basename": "缓存击穿",
-      "path": "04-技术/缓存/Redis/缓存击穿.md"
-    },
-    {
-      "basename": "Redis过期key处理",
-      "path": "04-技术/缓存/Redis/Redis过期key处理.md"
-    },
-    {
-      "basename": "缓存穿透",
-      "path": "04-技术/缓存/Redis/缓存穿透.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "04-技术/缓存/缓存.md"
-    },
-    {
-      "basename": "什么是视图",
-      "path": "面试/什么是视图.md"
-    },
-    {
-      "basename": "SpringCloud",
-      "path": "04-技术/SpringCloud/SpringCloud.md"
-    },
-    {
-      "basename": "SpringSecurity中UsernameNotFoundException抛不出来",
-      "path": "04-技术/Spring Security/SpringSecurity中UsernameNotFoundException抛不出来.md"
-    },
-    {
-      "basename": "UsernameNotFoundException",
-      "path": "04-技术/Spring Security/UsernameNotFoundException.md"
-    },
-    {
-      "basename": "Git",
-      "path": "04-技术/Git/Git.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "Dubbo",
-      "path": "04-技术/Dubbo/Dubbo.md"
-    },
-    {
-      "basename": "MQ如何实现高可用的",
-      "path": "面试/MQ如何实现高可用的.md"
-    },
-    {
-      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
-      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
     }
   ],
   "omittedPaths": [],
