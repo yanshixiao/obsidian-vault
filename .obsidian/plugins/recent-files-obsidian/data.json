@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "IO模型",
+      "path": "04-技术/其他/IO模型.md"
+    },
+    {
       "basename": "SpringSecurity中UsernameNotFoundException抛不出来",
       "path": "04-技术/Spring Security/SpringSecurity中UsernameNotFoundException抛不出来.md"
+    },
+    {
+      "basename": "ES",
+      "path": "04-技术/ES/ES.md"
+    },
+    {
+      "basename": "其他",
+      "path": "04-技术/其他/其他.md"
+    },
+    {
+      "basename": "ES 1",
+      "path": "04-技术/ES/ES 1.md"
+    },
+    {
+      "basename": "ES入门",
+      "path": "04-技术/ES/ES入门.md"
+    },
+    {
+      "basename": "ES 常见面试题",
+      "path": "04-技术/ES/ES 常见面试题.md"
     },
     {
       "basename": "UsernameNotFoundException",
@@ -23,10 +47,6 @@
     {
       "basename": "Servlet介绍",
       "path": "04-技术/其他/Servlet介绍.md"
-    },
-    {
-      "basename": "IO模型",
-      "path": "04-技术/其他/IO模型.md"
     },
     {
       "basename": "IO多路复用（IO multiplexing）",
@@ -171,34 +191,6 @@
     {
       "basename": "MySQL获取当前周与当前月的时间段",
       "path": "04-技术/MySQL/MySQL获取当前周与当前月的时间段.md"
-    },
-    {
-      "basename": "MySQL事务隔离级别和实现原理",
-      "path": "04-技术/MySQL/MySQL事务隔离级别和实现原理.md"
-    },
-    {
-      "basename": "MySQL修改密码的4种方式",
-      "path": "04-技术/MySQL/MySQL修改密码的4种方式.md"
-    },
-    {
-      "basename": "MySQL一张表到底能存多少数据",
-      "path": "04-技术/MySQL/MySQL一张表到底能存多少数据.md"
-    },
-    {
-      "basename": "事务的传播级别",
-      "path": "面试/事务的传播级别.md"
-    },
-    {
-      "basename": "事务失效的几种场景",
-      "path": "04-技术/事务/事务失效的几种场景.md"
-    },
-    {
-      "basename": "什么是SpringCloud，什么是微服务，SpringCloud有什么优势",
-      "path": "面试/什么是SpringCloud，什么是微服务，SpringCloud有什么优势.md"
-    },
-    {
-      "basename": "Redis如何解决key冲突",
-      "path": "面试/Redis如何解决key冲突.md"
     }
   ],
   "omittedPaths": [],
