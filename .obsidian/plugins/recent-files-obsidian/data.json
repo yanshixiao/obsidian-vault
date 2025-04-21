@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ES入门",
+      "path": "04-技术/ES/ES入门.md"
+    },
+    {
       "basename": "IO模型",
       "path": "04-技术/其他/IO模型.md"
+    },
+    {
+      "basename": "IO多路复用（IO multiplexing）",
+      "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
+    },
+    {
+      "basename": "异步IO（asynchronous IO）",
+      "path": "04-技术/其他/异步IO（asynchronous IO）.md"
     },
     {
       "basename": "SpringSecurity中UsernameNotFoundException抛不出来",
@@ -15,18 +27,6 @@
     {
       "basename": "其他",
       "path": "04-技术/其他/其他.md"
-    },
-    {
-      "basename": "ES 1",
-      "path": "04-技术/ES/ES 1.md"
-    },
-    {
-      "basename": "ES入门",
-      "path": "04-技术/ES/ES入门.md"
-    },
-    {
-      "basename": "ES 常见面试题",
-      "path": "04-技术/ES/ES 常见面试题.md"
     },
     {
       "basename": "UsernameNotFoundException",
@@ -49,16 +49,8 @@
       "path": "04-技术/其他/Servlet介绍.md"
     },
     {
-      "basename": "IO多路复用（IO multiplexing）",
-      "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
-    },
-    {
       "basename": "阻塞IO（blocking IO）",
       "path": "04-技术/其他/阻塞IO（blocking IO）.md"
-    },
-    {
-      "basename": "异步IO（asynchronous IO）",
-      "path": "04-技术/其他/异步IO（asynchronous IO）.md"
     },
     {
       "basename": "死锁产生的必要条件",
