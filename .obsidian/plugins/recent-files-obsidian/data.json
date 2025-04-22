@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "单例模式为啥要判断两次空",
-      "path": "面试/单例模式为啥要判断两次空.md"
+      "basename": "常用的线程池有哪些",
+      "path": "面试/常用的线程池有哪些.md"
+    },
+    {
+      "basename": "锁续期时子线程如何知道任务还在执行",
+      "path": "04-技术/分布式锁/锁续期时子线程如何知道任务还在执行.md"
     },
     {
       "basename": "Redis分布式锁在Redis不可用时的降级策略",
       "path": "04-技术/分布式锁/Redis分布式锁在Redis不可用时的降级策略.md"
+    },
+    {
+      "basename": "watchdog续期什么情况下会失败",
+      "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
+    },
+    {
+      "basename": "单例模式为啥要判断两次空",
+      "path": "面试/单例模式为啥要判断两次空.md"
     },
     {
       "basename": "Redis实例挂了之后的影响",
@@ -141,10 +153,6 @@
       "path": "面试/线程池原理及核心参数.md"
     },
     {
-      "basename": "常用的线程池有哪些",
-      "path": "面试/常用的线程池有哪些.md"
-    },
-    {
       "basename": "简述一下对线程池的理解",
       "path": "面试/简述一下对线程池的理解.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ES入门",
       "path": "04-技术/ES/ES入门.md"
-    },
-    {
-      "basename": "IO模型",
-      "path": "04-技术/其他/IO模型.md"
-    },
-    {
-      "basename": "IO多路复用（IO multiplexing）",
-      "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
     }
   ],
   "omittedPaths": [],
