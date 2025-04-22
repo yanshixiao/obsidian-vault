@@ -1,6 +1,194 @@
 {
   "recentFiles": [
     {
+      "basename": "单例模式为啥要判断两次空",
+      "path": "面试/单例模式为啥要判断两次空.md"
+    },
+    {
+      "basename": "Redis分布式锁在Redis不可用时的降级策略",
+      "path": "04-技术/分布式锁/Redis分布式锁在Redis不可用时的降级策略.md"
+    },
+    {
+      "basename": "Redis实例挂了之后的影响",
+      "path": "04-技术/分布式锁/Redis实例挂了之后的影响.md"
+    },
+    {
+      "basename": "分布式锁遇到可重入场景怎么搞",
+      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
+    },
+    {
+      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
+      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
+    },
+    {
+      "basename": "lua脚本释放锁及锁的订阅机制",
+      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
+    },
+    {
+      "basename": "分布式锁可能会遇到的问题及解决方案",
+      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
+    },
+    {
+      "basename": "SpringCloud",
+      "path": "04-技术/SpringCloud/SpringCloud.md"
+    },
+    {
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
+    },
+    {
+      "basename": "SeataAT模式的全局锁",
+      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
+    },
+    {
+      "basename": "你知道哪些分布式事务解决方案",
+      "path": "面试/你知道哪些分布式事务解决方案.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "缓存击穿",
+      "path": "04-技术/缓存/Redis/缓存击穿.md"
+    },
+    {
+      "basename": "Redis主从同步",
+      "path": "04-技术/缓存/Redis/Redis主从同步.md"
+    },
+    {
+      "basename": "Redis过期key处理",
+      "path": "04-技术/缓存/Redis/Redis过期key处理.md"
+    },
+    {
+      "basename": "Redis内存淘汰策略",
+      "path": "04-技术/缓存/Redis/Redis内存淘汰策略.md"
+    },
+    {
+      "basename": "Redis分片集群",
+      "path": "04-技术/缓存/Redis/Redis分片集群.md"
+    },
+    {
+      "basename": "Redis分布式锁解锁时必须要用lua脚本吗？",
+      "path": "04-技术/缓存/Redis/Redis分布式锁解锁时必须要用lua脚本吗？.md"
+    },
+    {
+      "basename": "Redis的数据类型及适用场景lpush mylist 1",
+      "path": "04-技术/缓存/Redis/Redis的数据类型及适用场景lpush mylist 1.md"
+    },
+    {
+      "basename": "Redis的过期策略",
+      "path": "04-技术/缓存/Redis/Redis的过期策略.md"
+    },
+    {
+      "basename": "Redis持久化原理",
+      "path": "04-技术/缓存/Redis/Redis持久化原理.md"
+    },
+    {
+      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
+      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
+    },
+    {
+      "basename": "缓存雪崩",
+      "path": "04-技术/缓存/Redis/缓存雪崩.md"
+    },
+    {
+      "basename": "缓存穿透",
+      "path": "04-技术/缓存/Redis/缓存穿透.md"
+    },
+    {
+      "basename": "Redis 常见性能问题和解决方案有哪些？",
+      "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
+    },
+    {
+      "basename": "MyBatis的缓存机制",
+      "path": "面试/MyBatis的缓存机制.md"
+    },
+    {
+      "basename": "Redis缓存刷新策略有哪些",
+      "path": "面试/Redis缓存刷新策略有哪些.md"
+    },
+    {
+      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
+      "path": "04-技术/缓存/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
+    },
+    {
+      "basename": "缓存如何使用",
+      "path": "04-技术/缓存/缓存如何使用.md"
+    },
+    {
+      "basename": "为什么选择Redis而不是Memcache",
+      "path": "面试/为什么选择Redis而不是Memcache.md"
+    },
+    {
+      "basename": "如何提高系统的并发能力？",
+      "path": "面试/如何提高系统的并发能力？.md"
+    },
+    {
+      "basename": "面试",
+      "path": "面试/面试.md"
+    },
+    {
+      "basename": "使用Redis有哪些好处",
+      "path": "面试/使用Redis有哪些好处.md"
+    },
+    {
+      "basename": "线程池核心线程数如何设置",
+      "path": "面试/线程池核心线程数如何设置.md"
+    },
+    {
+      "basename": "线程池原理及核心参数",
+      "path": "面试/线程池原理及核心参数.md"
+    },
+    {
+      "basename": "常用的线程池有哪些",
+      "path": "面试/常用的线程池有哪些.md"
+    },
+    {
+      "basename": "简述一下对线程池的理解",
+      "path": "面试/简述一下对线程池的理解.md"
+    },
+    {
+      "basename": "线程安全需要保证几个基本特征",
+      "path": "面试/线程安全需要保证几个基本特征.md"
+    },
+    {
+      "basename": "为什么 Redis 单线程模型效率也能那么高？",
+      "path": "面试/为什么 Redis 单线程模型效率也能那么高？.md"
+    },
+    {
+      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
+      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
+    },
+    {
+      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
+      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
+    },
+    {
+      "basename": "异步刷盘下 RabbitMQ的ACK机制",
+      "path": "面试/异步刷盘下 RabbitMQ的ACK机制.md"
+    },
+    {
+      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
+      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
+    },
+    {
+      "basename": "说说ZooKeeper是什么",
+      "path": "面试/说说ZooKeeper是什么.md"
+    },
+    {
+      "basename": "如何使用Spring Boot实现异常处理？",
+      "path": "面试/如何使用Spring Boot实现异常处理？.md"
+    },
+    {
+      "basename": "Mybatis是如何分页的，分页原理是什么",
+      "path": "面试/Mybatis是如何分页的，分页原理是什么.md"
+    },
+    {
+      "basename": "Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？",
+      "path": "面试/Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？.md"
+    },
+    {
       "basename": "ES入门",
       "path": "04-技术/ES/ES入门.md"
     },
@@ -11,178 +199,6 @@
     {
       "basename": "IO多路复用（IO multiplexing）",
       "path": "04-技术/其他/IO多路复用（IO multiplexing）.md"
-    },
-    {
-      "basename": "异步IO（asynchronous IO）",
-      "path": "04-技术/其他/异步IO（asynchronous IO）.md"
-    },
-    {
-      "basename": "SpringSecurity中UsernameNotFoundException抛不出来",
-      "path": "04-技术/Spring Security/SpringSecurity中UsernameNotFoundException抛不出来.md"
-    },
-    {
-      "basename": "ES",
-      "path": "04-技术/ES/ES.md"
-    },
-    {
-      "basename": "其他",
-      "path": "04-技术/其他/其他.md"
-    },
-    {
-      "basename": "UsernameNotFoundException",
-      "path": "04-技术/Spring Security/UsernameNotFoundException.md"
-    },
-    {
-      "basename": "垃圾回收",
-      "path": "04-技术/JVM/垃圾回收.md"
-    },
-    {
-      "basename": "什么是JVM？",
-      "path": "04-技术/JVM/什么是JVM？.md"
-    },
-    {
-      "basename": "tomcat部署的三种方式",
-      "path": "04-技术/其他/tomcat部署的三种方式.md"
-    },
-    {
-      "basename": "Servlet介绍",
-      "path": "04-技术/其他/Servlet介绍.md"
-    },
-    {
-      "basename": "阻塞IO（blocking IO）",
-      "path": "04-技术/其他/阻塞IO（blocking IO）.md"
-    },
-    {
-      "basename": "死锁产生的必要条件",
-      "path": "04-技术/其他/死锁产生的必要条件.md"
-    },
-    {
-      "basename": "拦截器和过滤器",
-      "path": "04-技术/其他/拦截器和过滤器.md"
-    },
-    {
-      "basename": "非阻塞IO （nonblocking IO）",
-      "path": "04-技术/其他/非阻塞IO （nonblocking IO）.md"
-    },
-    {
-      "basename": "CPU占用100%处理",
-      "path": "04-技术/问题排查/CPU占用100%处理.md"
-    },
-    {
-      "basename": "常用工具",
-      "path": "88-Template/常用工具.md"
-    },
-    {
-      "basename": "home",
-      "path": "88-Template/home.md"
-    },
-    {
-      "basename": "SeataAT模式的全局锁",
-      "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
-    },
-    {
-      "basename": "04-技术",
-      "path": "04-技术/04-技术.md"
-    },
-    {
-      "basename": "Seata有什么优点和缺点",
-      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
-    },
-    {
-      "basename": "分库分表怎么减少单行并发压力",
-      "path": "04-技术/分库分表/分库分表怎么减少单行并发压力.md"
-    },
-    {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
-    },
-    {
-      "basename": "CAP和BASE理论",
-      "path": "04-技术/分布式事务/CAP和BASE理论.md"
-    },
-    {
-      "basename": "最大努力通知",
-      "path": "04-技术/分布式事务/最大努力通知.md"
-    },
-    {
-      "basename": "好用的工具类方法",
-      "path": "04-技术/基础/好用的工具类方法.md"
-    },
-    {
-      "basename": "Spring多线程线程事务失效",
-      "path": "04-技术/事务/Spring多线程线程事务失效.md"
-    },
-    {
-      "basename": "Redis实现分布式全局id、浏览数、值缓存、分布式Session",
-      "path": "04-技术/缓存/Redis/Redis实现分布式全局id、浏览数、值缓存、分布式Session.md"
-    },
-    {
-      "basename": "事务",
-      "path": "04-技术/事务/事务.md"
-    },
-    {
-      "basename": "百亿数据迁移基于bitmap数据一致方案",
-      "path": "04-技术/数据迁移/百亿数据迁移基于bitmap数据一致方案.md"
-    },
-    {
-      "basename": "数据迁移",
-      "path": "04-技术/数据迁移/数据迁移.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
-      "basename": "事务注解的本质是什么",
-      "path": "04-技术/事务/事务注解的本质是什么.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "04-技术/MySQL/MySQL.md"
-    },
-    {
-      "basename": "数据库的事务",
-      "path": "面试/数据库的事务.md"
-    },
-    {
-      "basename": "长事务导致连接池耗尽",
-      "path": "04-技术/事务/长事务导致连接池耗尽.md"
-    },
-    {
-      "basename": "分布式锁遇到可重入场景怎么搞",
-      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
-    },
-    {
-      "basename": "MySQL主从延迟优化",
-      "path": "04-技术/MySQL/MySQL主从延迟优化.md"
-    },
-    {
-      "basename": "SQL UNION 和 UNION ALL 操作符",
-      "path": "04-技术/MySQL/SQL UNION 和 UNION ALL 操作符.md"
-    },
-    {
-      "basename": "Using index condition",
-      "path": "04-技术/MySQL/Using index condition.md"
-    },
-    {
-      "basename": "怎么看出来回表了",
-      "path": "04-技术/MySQL/怎么看出来回表了.md"
-    },
-    {
-      "basename": "MySQL创建用户与授权",
-      "path": "04-技术/MySQL/MySQL创建用户与授权.md"
-    },
-    {
-      "basename": "MySQL给一个字段递增赋值",
-      "path": "04-技术/MySQL/MySQL给一个字段递增赋值.md"
-    },
-    {
-      "basename": "MySQL和时间相关的操作 sql",
-      "path": "04-技术/MySQL/MySQL和时间相关的操作 sql.md"
-    },
-    {
-      "basename": "MySQL获取当前周与当前月的时间段",
-      "path": "04-技术/MySQL/MySQL获取当前周与当前月的时间段.md"
     }
   ],
   "omittedPaths": [],

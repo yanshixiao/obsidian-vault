@@ -9650,6 +9650,9 @@ Rw
 RUU
 Rjv
 RBs
+RediSearch
+RedisGraph
+RedisTimeSeries
 Haskell
 Highlighter
 History
@@ -10579,6 +10582,7 @@ FZO
 Fez
 Fov
 FWWw
+Failover
 Icon
 IHDR
 IDATx
@@ -11498,6 +11502,7 @@ qES
 qCC
 qqqp
 ql
+quicklist
 VIEW
 Vd
 Vv
