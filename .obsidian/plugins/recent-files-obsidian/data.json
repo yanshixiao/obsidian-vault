@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU占用100%处理",
+      "path": "04-技术/问题排查/CPU占用100%处理.md"
+    },
+    {
+      "basename": "如何定位进程 PID",
+      "path": "面试/如何定位进程 PID.md"
+    },
+    {
+      "basename": "线程死锁或OOM如何发现解决",
+      "path": "面试/线程死锁或OOM如何发现解决.md"
+    },
+    {
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+    },
+    {
+      "basename": "分布式事务",
+      "path": "04-技术/分布式事务/分布式事务.md"
+    },
+    {
+      "basename": "Seata有什么优点和缺点",
+      "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
+    },
+    {
+      "basename": "Redis分布式锁在Redis不可用时的降级策略",
+      "path": "04-技术/分布式锁/Redis分布式锁在Redis不可用时的降级策略.md"
+    },
+    {
+      "basename": "Redis实例挂了之后的影响",
+      "path": "04-技术/分布式锁/Redis实例挂了之后的影响.md"
+    },
+    {
       "basename": "常用的线程池有哪些",
       "path": "面试/常用的线程池有哪些.md"
     },
@@ -9,20 +41,12 @@
       "path": "04-技术/分布式锁/锁续期时子线程如何知道任务还在执行.md"
     },
     {
-      "basename": "Redis分布式锁在Redis不可用时的降级策略",
-      "path": "04-技术/分布式锁/Redis分布式锁在Redis不可用时的降级策略.md"
-    },
-    {
       "basename": "watchdog续期什么情况下会失败",
       "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
     },
     {
       "basename": "单例模式为啥要判断两次空",
       "path": "面试/单例模式为啥要判断两次空.md"
-    },
-    {
-      "basename": "Redis实例挂了之后的影响",
-      "path": "04-技术/分布式锁/Redis实例挂了之后的影响.md"
     },
     {
       "basename": "分布式锁遇到可重入场景怎么搞",
@@ -55,10 +79,6 @@
     {
       "basename": "你知道哪些分布式事务解决方案",
       "path": "面试/你知道哪些分布式事务解决方案.md"
-    },
-    {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
     },
     {
       "basename": "缓存击穿",
@@ -179,26 +199,6 @@
     {
       "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
       "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
-    },
-    {
-      "basename": "说说ZooKeeper是什么",
-      "path": "面试/说说ZooKeeper是什么.md"
-    },
-    {
-      "basename": "如何使用Spring Boot实现异常处理？",
-      "path": "面试/如何使用Spring Boot实现异常处理？.md"
-    },
-    {
-      "basename": "Mybatis是如何分页的，分页原理是什么",
-      "path": "面试/Mybatis是如何分页的，分页原理是什么.md"
-    },
-    {
-      "basename": "Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？",
-      "path": "面试/Mybatis是否支持延迟加载？如果支持，它的实现原理是什么？.md"
-    },
-    {
-      "basename": "ES入门",
-      "path": "04-技术/ES/ES入门.md"
     }
   ],
   "omittedPaths": [],
