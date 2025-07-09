@@ -3982,6 +3982,7 @@ bDII
 bBu
 bYH
 bO
+bash
 now
 newtitle
 null
@@ -7458,6 +7459,7 @@ BfQQ
 BP
 BjBJtttDDDJJ
 BQQ
+ByteTCC
 Solid
 Sublime
 SublimeREPL
@@ -7804,6 +7806,7 @@ Sbv
 SRRz
 SFd
 SOO
+Symbolic
 homewp
 html
 help

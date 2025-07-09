@@ -19,10 +19,6 @@ created: 2025-04-23
 
 ##### ​**​方法 1：使用 `jps` 命令（JDK 自带工具）​**​
 
-bash
-
-复制
-
 ```bash
 # 列出所有 Java 进程及其 PID
 jps -l
@@ -36,10 +32,6 @@ jps -l
 
 ##### ​**​方法 2：使用 `ps` + `grep`​**​
 
-bash
-
-复制
-
 ```bash
 # 根据进程名查找（如 Java 应用启动类名）
 ps -ef | grep java | grep -v grep
@@ -49,10 +41,6 @@ ps -ef | grep java | grep -v grep
 ```
 
 ##### ​**​方法 3：通过端口号查找（如果应用绑定了端口）​**​
-
-bash
-
-复制
 
 ```bash
 # 查找占用 8080 端口的进程 PID

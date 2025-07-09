@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "CPU占用100%处理",
-      "path": "04-技术/问题排查/CPU占用100%处理.md"
+      "basename": "面试",
+      "path": "面试/面试.md"
     },
     {
-      "basename": "如何定位进程 PID",
-      "path": "面试/如何定位进程 PID.md"
+      "basename": "什么是类加载器？",
+      "path": "面试/什么是类加载器？.md"
     },
     {
-      "basename": "线程死锁或OOM如何发现解决",
-      "path": "面试/线程死锁或OOM如何发现解决.md"
+      "basename": "JVM有哪些垃圾回收器",
+      "path": "面试/JVM有哪些垃圾回收器.md"
     },
     {
-      "basename": "分布式事务的7种解决方案",
-      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
+      "basename": "如何选择垃圾收集器？",
+      "path": "面试/如何选择垃圾收集器？.md"
     },
     {
-      "basename": "分布式事务",
-      "path": "04-技术/分布式事务/分布式事务.md"
+      "basename": "什么是指针碰撞？什么是空闲列表？",
+      "path": "面试/什么是指针碰撞？什么是空闲列表？.md"
+    },
+    {
+      "basename": "什么是StopTheWorld,什么是Map,什么是安全点",
+      "path": "面试/什么是StopTheWorld,什么是Map,什么是安全点.md"
+    },
+    {
+      "basename": "对象一定分配在堆中吗？有没有了解逃逸分析技术？",
+      "path": "面试/对象一定分配在堆中吗？有没有了解逃逸分析技术？.md"
+    },
+    {
+      "basename": "JVM性能调优参数",
+      "path": "面试/JVM性能调优参数.md"
+    },
+    {
+      "basename": "指定新生代大小的参数",
+      "path": "面试/指定新生代大小的参数.md"
+    },
+    {
+      "basename": "Minor GC与Full GC分别在什么时候发生",
+      "path": "面试/Minor GC与Full GC分别在什么时候发生.md"
+    },
+    {
+      "basename": "垃圾收集算法",
+      "path": "面试/垃圾收集算法.md"
+    },
+    {
+      "basename": "类的加载与卸载",
+      "path": "面试/类的加载与卸载.md"
+    },
+    {
+      "basename": "回收算法",
+      "path": "面试/回收算法.md"
+    },
+    {
+      "basename": "JVM的永久代中会发生垃圾回收么",
+      "path": "面试/JVM的永久代中会发生垃圾回收么.md"
+    },
+    {
+      "basename": "如何判断对象可以被回收",
+      "path": "面试/如何判断对象可以被回收.md"
+    },
+    {
+      "basename": "Java的对象结构",
+      "path": "面试/Java的对象结构.md"
+    },
+    {
+      "basename": "类的生命周期",
+      "path": "面试/类的生命周期.md"
+    },
+    {
+      "basename": "JVM加载class文件的原理机制",
+      "path": "面试/JVM加载class文件的原理机制.md"
+    },
+    {
+      "basename": "对象分配规则",
+      "path": "面试/对象分配规则.md"
+    },
+    {
+      "basename": "什么时候会触发FullGC",
+      "path": "面试/什么时候会触发FullGC.md"
+    },
+    {
+      "basename": "堆和栈的区别",
+      "path": "面试/堆和栈的区别.md"
+    },
+    {
+      "basename": "JVM内存模型",
+      "path": "面试/JVM内存模型.md"
+    },
+    {
+      "basename": "分代回收",
+      "path": "面试/分代回收.md"
+    },
+    {
+      "basename": "加载机制",
+      "path": "面试/加载机制.md"
+    },
+    {
+      "basename": "加载过程",
+      "path": "面试/加载过程.md"
+    },
+    {
+      "basename": "符号引用",
+      "path": "面试/符号引用.md"
+    },
+    {
+      "basename": "深拷贝和浅拷贝",
+      "path": "面试/深拷贝和浅拷贝.md"
+    },
+    {
+      "basename": "HashMap的长度为什么是2的N次方",
+      "path": "面试/HashMap的长度为什么是2的N次方.md"
+    },
+    {
+      "basename": "HashMap中的可以使用任何类作为key吗",
+      "path": "面试/HashMap中的可以使用任何类作为key吗.md"
+    },
+    {
+      "basename": "HashTable和HashMap的区别",
+      "path": "面试/HashTable和HashMap的区别.md"
+    },
+    {
+      "basename": "ConcurrentHashMap",
+      "path": "面试/ConcurrentHashMap.md"
+    },
+    {
+      "basename": "什么是fail-fast",
+      "path": "面试/什么是fail-fast.md"
+    },
+    {
+      "basename": "ArrayList和LinkedList区别",
+      "path": "面试/ArrayList和LinkedList区别.md"
+    },
+    {
+      "basename": "Java创建对象有几种方式",
+      "path": "面试/Java创建对象有几种方式.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
     },
     {
       "basename": "Seata有什么优点和缺点",
       "path": "04-技术/分布式事务/Seata有什么优点和缺点.md"
     },
     {
-      "basename": "Redis分布式锁在Redis不可用时的降级策略",
-      "path": "04-技术/分布式锁/Redis分布式锁在Redis不可用时的降级策略.md"
+      "basename": "Seata的AT模式",
+      "path": "04-技术/分布式事务/Seata的AT模式.md"
     },
     {
-      "basename": "Redis实例挂了之后的影响",
-      "path": "04-技术/分布式锁/Redis实例挂了之后的影响.md"
+      "basename": "3PC超时情况",
+      "path": "面试/3PC超时情况.md"
     },
     {
-      "basename": "常用的线程池有哪些",
-      "path": "面试/常用的线程池有哪些.md"
-    },
-    {
-      "basename": "锁续期时子线程如何知道任务还在执行",
-      "path": "04-技术/分布式锁/锁续期时子线程如何知道任务还在执行.md"
-    },
-    {
-      "basename": "watchdog续期什么情况下会失败",
-      "path": "04-技术/分布式锁/watchdog续期什么情况下会失败.md"
-    },
-    {
-      "basename": "单例模式为啥要判断两次空",
-      "path": "面试/单例模式为啥要判断两次空.md"
-    },
-    {
-      "basename": "分布式锁遇到可重入场景怎么搞",
-      "path": "04-技术/分布式锁/分布式锁遇到可重入场景怎么搞.md"
-    },
-    {
-      "basename": "RedLog红锁及主从情况下问题、持久化不彻底问题",
-      "path": "04-技术/分布式锁/RedLog红锁及主从情况下问题、持久化不彻底问题.md"
-    },
-    {
-      "basename": "lua脚本释放锁及锁的订阅机制",
-      "path": "04-技术/分布式锁/lua脚本释放锁及锁的订阅机制.md"
-    },
-    {
-      "basename": "分布式锁可能会遇到的问题及解决方案",
-      "path": "04-技术/分布式锁/分布式锁可能会遇到的问题及解决方案.md"
+      "basename": "20250328023545",
+      "path": "面试/20250328023545.md"
     },
     {
       "basename": "SpringCloud",
       "path": "04-技术/SpringCloud/SpringCloud.md"
     },
     {
-      "basename": "Seata的AT模式",
-      "path": "04-技术/分布式事务/Seata的AT模式.md"
+      "basename": "微服务架构",
+      "path": "04-技术/SpringCloud/微服务架构.md"
+    },
+    {
+      "basename": "单体架构",
+      "path": "04-技术/SpringCloud/单体架构.md"
     },
     {
       "basename": "SeataAT模式的全局锁",
       "path": "04-技术/分布式事务/SeataAT模式的全局锁.md"
     },
     {
+      "basename": "分布式事务",
+      "path": "04-技术/分布式事务/分布式事务.md"
+    },
+    {
       "basename": "你知道哪些分布式事务解决方案",
       "path": "面试/你知道哪些分布式事务解决方案.md"
     },
     {
-      "basename": "缓存击穿",
-      "path": "04-技术/缓存/Redis/缓存击穿.md"
+      "basename": "什么是TCC",
+      "path": "面试/什么是TCC.md"
     },
     {
-      "basename": "Redis主从同步",
-      "path": "04-技术/缓存/Redis/Redis主从同步.md"
+      "basename": "分布式事务的7种解决方案",
+      "path": "04-技术/分布式事务/分布式事务的7种解决方案.md"
     },
     {
-      "basename": "Redis过期key处理",
-      "path": "04-技术/缓存/Redis/Redis过期key处理.md"
+      "basename": "CPU占用100%处理",
+      "path": "04-技术/问题排查/CPU占用100%处理.md"
     },
     {
-      "basename": "Redis内存淘汰策略",
-      "path": "04-技术/缓存/Redis/Redis内存淘汰策略.md"
+      "basename": "线程死锁或OOM如何发现解决",
+      "path": "面试/线程死锁或OOM如何发现解决.md"
     },
     {
-      "basename": "Redis分片集群",
-      "path": "04-技术/缓存/Redis/Redis分片集群.md"
-    },
-    {
-      "basename": "Redis分布式锁解锁时必须要用lua脚本吗？",
-      "path": "04-技术/缓存/Redis/Redis分布式锁解锁时必须要用lua脚本吗？.md"
-    },
-    {
-      "basename": "Redis的数据类型及适用场景lpush mylist 1",
-      "path": "04-技术/缓存/Redis/Redis的数据类型及适用场景lpush mylist 1.md"
-    },
-    {
-      "basename": "Redis的过期策略",
-      "path": "04-技术/缓存/Redis/Redis的过期策略.md"
-    },
-    {
-      "basename": "Redis持久化原理",
-      "path": "04-技术/缓存/Redis/Redis持久化原理.md"
-    },
-    {
-      "basename": "Redis的高可用、高并发、主从复制及哨兵原理",
-      "path": "04-技术/缓存/Redis/Redis的高可用、高并发、主从复制及哨兵原理.md"
-    },
-    {
-      "basename": "缓存雪崩",
-      "path": "04-技术/缓存/Redis/缓存雪崩.md"
-    },
-    {
-      "basename": "缓存穿透",
-      "path": "04-技术/缓存/Redis/缓存穿透.md"
-    },
-    {
-      "basename": "Redis 常见性能问题和解决方案有哪些？",
-      "path": "面试/Redis 常见性能问题和解决方案有哪些？.md"
-    },
-    {
-      "basename": "MyBatis的缓存机制",
-      "path": "面试/MyBatis的缓存机制.md"
-    },
-    {
-      "basename": "Redis缓存刷新策略有哪些",
-      "path": "面试/Redis缓存刷新策略有哪些.md"
-    },
-    {
-      "basename": "缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题",
-      "path": "04-技术/缓存/缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题.md"
-    },
-    {
-      "basename": "缓存如何使用",
-      "path": "04-技术/缓存/缓存如何使用.md"
-    },
-    {
-      "basename": "为什么选择Redis而不是Memcache",
-      "path": "面试/为什么选择Redis而不是Memcache.md"
-    },
-    {
-      "basename": "如何提高系统的并发能力？",
-      "path": "面试/如何提高系统的并发能力？.md"
-    },
-    {
-      "basename": "面试",
-      "path": "面试/面试.md"
-    },
-    {
-      "basename": "使用Redis有哪些好处",
-      "path": "面试/使用Redis有哪些好处.md"
-    },
-    {
-      "basename": "线程池核心线程数如何设置",
-      "path": "面试/线程池核心线程数如何设置.md"
-    },
-    {
-      "basename": "线程池原理及核心参数",
-      "path": "面试/线程池原理及核心参数.md"
-    },
-    {
-      "basename": "简述一下对线程池的理解",
-      "path": "面试/简述一下对线程池的理解.md"
-    },
-    {
-      "basename": "线程安全需要保证几个基本特征",
-      "path": "面试/线程安全需要保证几个基本特征.md"
-    },
-    {
-      "basename": "为什么 Redis 单线程模型效率也能那么高？",
-      "path": "面试/为什么 Redis 单线程模型效率也能那么高？.md"
-    },
-    {
-      "basename": "是否使用过 Redis Cluster 集群，集群的原理是什么？",
-      "path": "面试/是否使用过 Redis Cluster 集群，集群的原理是什么？.md"
-    },
-    {
-      "basename": "如何保证消息的可靠传输？如果消息丢了怎么办",
-      "path": "面试/如何保证消息的可靠传输？如果消息丢了怎么办.md"
-    },
-    {
-      "basename": "异步刷盘下 RabbitMQ的ACK机制",
-      "path": "面试/异步刷盘下 RabbitMQ的ACK机制.md"
-    },
-    {
-      "basename": "为什么Redis的操作是原子性的，怎么保证原子性的？",
-      "path": "面试/为什么Redis的操作是原子性的，怎么保证原子性的？.md"
+      "basename": "jstack生成快照之后呢，文件怎么解读",
+      "path": "面试/jstack生成快照之后呢，文件怎么解读.md"
     }
   ],
   "omittedPaths": [],
